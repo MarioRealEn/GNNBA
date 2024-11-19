@@ -1,23 +1,4 @@
-,PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
-0,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Christie, Max",1631108,0.011,28,4,4,8,0.5,1,2,0.5,3,6,0.5
-1,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Reaves, Austin",1630559,0.107,281,35,47,80,0.588,31,44,0.705,16,36,0.444
-2,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Ryan, Matt",1630346,0.01,26,3,3,10,0.3,1,2,0.5,2,8,0.25
-3,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Toscano-Anderson, Juan",1629308,0.014,38,8,8,14,0.571,8,10,0.8,0,4,0.0
-4,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Nunn, Kendrick",1629134,0.021,55,11,14,29,0.483,9,16,0.563,5,13,0.385
-5,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Gabriel, Wenyen",1629117,0.026,69,19,20,32,0.625,19,30,0.633,1,2,0.5
-6,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Hachimura, Rui",1629060,0.02,53,13,14,31,0.452,13,23,0.565,1,8,0.125
-7,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Walker IV, Lonnie",1629022,0.065,172,32,35,77,0.455,23,41,0.561,12,36,0.333
-8,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Vanderbilt, Jarred",1629020,0.007,19,5,5,12,0.417,3,7,0.429,2,5,0.4
-9,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Brown Jr., Troy",1628972,0.065,171,23,25,73,0.342,13,31,0.419,12,42,0.286
-10,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Bamba, Mo",1628964,0.004,10,1,1,6,0.167,1,4,0.25,0,2,0.0
-11,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Bryant, Thomas",1628418,0.049,128,46,48,86,0.558,47,80,0.588,1,6,0.167
-12,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Jones, Damian",1627745,0.005,12,2,2,6,0.333,2,6,0.333,0,0,0.0
-13,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Beasley, Malik",1627736,0.013,34,6,6,19,0.316,2,4,0.5,4,15,0.267
-14,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Russell, D'Angelo",1626156,0.019,49,8,11,18,0.611,4,8,0.5,7,10,0.7
-15,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Schröder, Dennis",203471,0.183,480,32,48,136,0.353,30,86,0.349,18,50,0.36
-16,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Davis, Anthony",203076,0.147,387,69,86,187,0.46,79,164,0.482,7,23,0.304
-17,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Beverley, Patrick",201976,0.105,276,28,35,78,0.449,12,21,0.571,23,57,0.404
-18,2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Westbrook, Russell",201566,0.129,338,30,52,139,0.374,39,93,0.419,13,46,0.283
+Unnamed: 0,PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
 0,1628369,"Tatum, Jayson",Boston Celtics,1610612738,BOS,made,73,"Banton, Dalano",1630625,0.004,14,2,2,4,0.5,1,2,0.5,1,2,0.5
 1,1628369,"Tatum, Jayson",Boston Celtics,1610612738,BOS,made,73,"Hauser, Sam",1630573,0.047,170,39,40,82,0.488,6,12,0.5,34,70,0.486
 2,1628369,"Tatum, Jayson",Boston Celtics,1610612738,BOS,made,73,"Springer, Jaden",1630531,0.001,2,0,0,1,0.0,0,0,0.0,0,1,0.0
