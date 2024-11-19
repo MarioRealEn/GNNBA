@@ -1,0 +1,616 @@
+index,id,Full_name,Firstname,Surname,Active,team_name,team_id
+0,1630173,Precious Achiuwa,Precious,Achiuwa,True,Knicks,1610612752
+1,203500,Steven Adams,Steven,Adams,True,Rockets,1610612745
+2,1628389,Bam Adebayo,Bam,Adebayo,True,Heat,1610612748
+3,1630534,Ochai Agbaji,Ochai,Agbaji,True,Raptors,1610612761
+4,1631231,James Akinjo,James,Akinjo,True,,0
+5,1630583,Santi Aldama,Santi,Aldama,True,Grizzlies,1610612763
+6,1641725,Trey Alexander,Trey,Alexander,True,Nuggets,1610612743
+7,1629638,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,True,Timberwolves,1610612750
+8,1628960,Grayson Allen,Grayson,Allen,True,Suns,1610612756
+9,1628386,Jarrett Allen,Jarrett,Allen,True,Cavaliers,1610612739
+10,1630631,Jose Alvarado,Jose,Alvarado,True,Pelicans,1610612740
+11,203937,Kyle Anderson,Kyle,Anderson,True,Warriors,1610612744
+12,203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,True,Bucks,1610612749
+13,1630175,Cole Anthony,Cole,Anthony,True,Magic,1610612753
+14,1628384,OG Anunoby,OG,Anunoby,True,Knicks,1610612752
+15,1631317,Adonis Arms,Adonis,Arms,True,,0
+16,1642378,Mark Armstrong,Mark,Armstrong,True,,0
+17,1630166,Deni Avdija,Deni,Avdija,True,Trail Blazers,1610612757
+18,1629028,Deandre Ayton,Deandre,Ayton,True,Trail Blazers,1610612757
+19,1630654,Armando Bacot,Armando,Bacot,True,,0
+20,1628963,Marvin Bagley III,Marvin,Bagley III,True,Wizards,1610612764
+21,1641735,Amari Bailey,Amari,Bailey,True,Hornets,1610612766
+22,1631116,Patrick Baldwin Jr.,Patrick,Baldwin Jr.,True,Wizards,1610612764
+23,1630163,LaMelo Ball,LaMelo,Ball,True,Hornets,1610612766
+24,1628366,Lonzo Ball,Lonzo,Ball,True,Bulls,1610612741
+25,1628964,Mo Bamba,Mo,Bamba,True,Clippers,1610612746
+26,1631094,Paolo Banchero,Paolo,Banchero,True,Magic,1610612753
+27,1630217,Desmond Bane,Desmond,Bane,True,Grizzlies,1610612763
+28,1630625,Dalano Banton,Dalano,Banton,True,Trail Blazers,1610612757
+29,1631230,Dominick Barlow,Dominick,Barlow,True,Hawks,1610612737
+30,203084,Harrison Barnes,Harrison,Barnes,True,Spurs,1610612759
+31,1630567,Scottie Barnes,Scottie,Barnes,True,Raptors,1610612761
+32,1629628,RJ Barrett,RJ,Barrett,True,Raptors,1610612761
+33,1629646,Charles Bassey,Charles,Bassey,True,Spurs,1610612759
+34,1641734,Emoni Bates,Emoni,Bates,True,Cavaliers,1610612739
+35,1628966,Keita Bates-Diop,Keita,Bates-Diop,True,Nets,1610612751
+36,1642419,Jamison Battle,Jamison,Battle,True,Raptors,1610612761
+37,201587,Nicolas Batum,Nicolas,Batum,True,Clippers,1610612746
+38,203078,Bradley Beal,Bradley,Beal,True,Suns,1610612756
+39,1627736,Malik Beasley,Malik,Beasley,True,Pistons,1610612765
+40,1630699,MarJon Beauchamp,MarJon,Beauchamp,True,Bucks,1610612749
+41,1641777,Charles Bediako,Charles,Bediako,True,,0
+42,1641736,Reece Beekman,Reece,Beekman,True,Warriors,1610612744
+43,1631262,Jules Bernard,Jules,Bernard,True,Wizards,1610612764
+44,1630180,Saddiq Bey,Saddiq,Bey,True,Wizards,1610612764
+45,1629048,Goga Bitadze,Goga,Bitadze,True,Magic,1610612753
+46,1641931,Onuralp Bitim,Onuralp,Bitim,True,Bulls,1610612741
+47,1641710,Anthony Black,Anthony,Black,True,Magic,1610612753
+48,1641778,Leaky Black,Leaky,Black,True,Hornets,1610612766
+49,203992,Bogdan Bogdanović,Bogdan,Bogdanović,True,Hawks,1610612737
+50,202711,Bojan Bogdanović,Bojan,Bogdanović,True,Nets,1610612751
+51,1629626,Bol Bol,Bol,Bol,True,Suns,1610612756
+52,1641737,Adem Bona,Adem,Bona,True,76ers,1610612755
+53,1626164,Devin Booker,Devin,Booker,True,Suns,1610612756
+54,1630527,Brandon Boston Jr.,Brandon,Boston Jr.,True,Pelicans,1610612740
+55,1628449,Chris Boucher,Chris,Boucher,True,Raptors,1610612761
+56,1631103,Malaki Branham,Malaki,Branham,True,Spurs,1610612759
+57,1631128,Christian Braun,Christian,Braun,True,Nuggets,1610612743
+58,1641779,Jalen Bridges,Jalen,Bridges,True,Suns,1610612756
+59,1628969,Mikal Bridges,Mikal,Bridges,True,Knicks,1610612752
+60,1628970,Miles Bridges,Miles,Bridges,True,Hornets,1610612766
+61,1627763,Malcolm Brogdon,Malcolm,Brogdon,True,Wizards,1610612764
+62,1628415,Dillon Brooks,Dillon,Brooks,True,Rockets,1610612745
+63,1631232,Keion Brooks Jr.,Keion,Brooks Jr.,True,,0
+64,1628971,Bruce Brown,Bruce,Brown,True,Raptors,1610612761
+65,1627759,Jaylen Brown,Jaylen,Brown,True,Celtics,1610612738
+66,1631112,Kendall Brown,Kendall,Brown,True,Pacers,1610612754
+67,1641738,Kobe Brown,Kobe,Brown,True,Clippers,1610612746
+68,1629650,Moses Brown,Moses,Brown,True,Trail Blazers,1610612757
+69,1629718,Charlie Brown Jr.,Charlie,Brown Jr.,True,Knicks,1610612752
+70,1628973,Jalen Brunson,Jalen,Brunson,True,Knicks,1610612752
+71,1628418,Thomas Bryant,Thomas,Bryant,True,Heat,1610612748
+72,1641723,Kobe Bufkin,Kobe,Bufkin,True,Hawks,1610612737
+73,202692,Alec Burks,Alec,Burks,True,Heat,1610612748
+74,1630215,Jared Butler,Jared,Butler,True,Wizards,1610612764
+75,202710,Jimmy Butler,Jimmy,Butler,True,Heat,1610612748
+76,1641824,Matas Buzelis,Matas,Buzelis,True,Bulls,1610612741
+77,1631288,Jamal Cain,Jamal,Cain,True,Pelicans,1610612740
+78,203484,Kentavious Caldwell-Pope,Kentavious,Caldwell-Pope,True,Magic,1610612753
+79,1641739,Toumani Camara,Toumani,Camara,True,Trail Blazers,1610612757
+80,203991,Clint Capela,Clint,Capela,True,Hawks,1610612737
+81,1642382,Branden Carlson,Branden,Carlson,True,,0
+82,1642267,Carlton Carrington,Carlton,Carrington,True,Wizards,1610612764
+83,1642269,Devin Carter,Devin,Carter,True,Kings,1610612758
+84,1628975,Jevon Carter,Jevon,Carter,True,Bulls,1610612741
+85,1628976,Wendell Carter Jr.,Wendell,Carter Jr.,True,Magic,1610612753
+86,1630618,D.J. Carton,D.J.,Carton,True,Raptors,1610612761
+87,1627936,Alex Caruso,Alex,Caruso,True,Thunder,1610612760
+88,1642264,Stephon Castle,Stephon,Castle,True,Spurs,1610612759
+89,1630658,Colin Castleton,Colin,Castleton,True,Grizzlies,1610612763
+90,1630577,Julian Champagnie,Julian,Champagnie,True,Spurs,1610612759
+91,1630551,Justin Champagnie,Justin,Champagnie,True,Wizards,1610612764
+92,1642279,Ulrich Chomche,Ulrich,Chomche,True,Raptors,1610612761
+93,1642353,Cam Christie,Cam,Christie,True,Clippers,1610612746
+94,1631108,Max Christie,Max,Christie,True,Lakers,1610612747
+95,1630528,Josh Christopher,Josh,Christopher,True,Heat,1610612748
+96,1631321,Sidy Cissoko,Sidy,Cissoko,True,Spurs,1610612759
+97,1641740,Jaylen Clark,Jaylen,Clark,True,Timberwolves,1610612750
+98,1629634,Brandon Clarke,Brandon,Clarke,True,Grizzlies,1610612763
+99,203903,Jordan Clarkson,Jordan,Clarkson,True,Jazz,1610612762
+100,1629651,Nic Claxton,Nic,Claxton,True,Nets,1610612751
+101,1642270,Donovan Clingan,Donovan,Clingan,True,Trail Blazers,1610612757
+102,1641730,Noah Clowney,Noah,Clowney,True,Nets,1610612751
+103,1629599,Amir Coffey,Amir,Coffey,True,Clippers,1610612746
+104,1642268,Isaiah Collier,Isaiah,Collier,True,Jazz,1610612762
+105,1628381,John Collins,John,Collins,True,Jazz,1610612762
+106,1628380,Zach Collins,Zach,Collins,True,Spurs,1610612759
+107,201144,Mike Conley,Mike,Conley,True,Timberwolves,1610612750
+108,1626192,Pat Connaughton,Pat,Connaughton,True,Bucks,1610612749
+109,1641731,Bilal Coulibaly,Bilal,Coulibaly,True,Wizards,1610612764
+110,1641741,Ricky Council IV,Ricky,Council IV,True,76ers,1610612755
+111,1628470,Torrey Craig,Torrey,Craig,True,Bulls,1610612741
+112,1642384,Isaiah Crawford,Isaiah,Crawford,True,Kings,1610612758
+113,1630622,Jalen Crutcher,Jalen,Crutcher,True,,0
+114,1629633,Jarrett Culver,Jarrett,Culver,True,,0
+115,1630595,Cade Cunningham,Cade,Cunningham,True,Pistons,1610612765
+116,203552,Seth Curry,Seth,Curry,True,Hornets,1610612766
+117,201939,Stephen Curry,Stephen,Curry,True,Warriors,1610612744
+118,1642359,Pacôme Dadiet,Pacôme,Dadiet,True,Knicks,1610612752
+119,1641915,Caleb Daniels,Caleb,Daniels,True,,0
+120,1630700,Dyson Daniels,Dyson,Daniels,True,Hawks,1610612737
+121,1642368,N'Faly Dante,N'Faly,Dante,True,Rockets,1610612745
+122,1630268,Nate Darling,Nate,Darling,True,Hornets,1610612766
+123,203076,Anthony Davis,Anthony,Davis,True,Lakers,1610612747
+124,1631098,Johnny Davis,Johnny,Davis,True,Wizards,1610612764
+125,1629056,Terence Davis,Terence,Davis,True,Kings,1610612758
+126,1631120,JD Davison,JD,Davison,True,Celtics,1610612738
+127,201942,DeMar DeRozan,DeMar,DeRozan,True,Kings,1610612758
+128,1628978,Donte DiVincenzo,Donte,DiVincenzo,True,Timberwolves,1610612750
+129,1631217,Moussa Diabaté,Moussa,Diabaté,True,Hornets,1610612766
+130,1629603,Mamadi Diakite,Mamadi,Diakite,True,Knicks,1610612752
+131,1641711,Gradey Dick,Gradey,Dick,True,Raptors,1610612761
+132,1631172,Ousmane Dieng,Ousmane,Dieng,True,Thunder,1610612760
+133,1642265,Rob Dillingham,Rob,Dillingham,True,Timberwolves,1610612750
+134,203915,Spencer Dinwiddie,Spencer,Dinwiddie,True,Mavericks,1610612742
+135,1629029,Luka Dončić,Luka,Dončić,True,Mavericks,1610612742
+136,1629652,Luguentz Dort,Luguentz,Dort,True,Thunder,1610612760
+137,1630245,Ayo Dosunmu,Ayo,Dosunmu,True,Bulls,1610612741
+138,1630288,Jeff Dowtin Jr.,Jeff,Dowtin Jr.,True,76ers,1610612755
+139,1628408,PJ Dozier,PJ,Dozier,True,Timberwolves,1610612750
+140,203083,Andre Drummond,Andre,Drummond,True,76ers,1610612755
+141,1630537,Chris Duarte,Chris,Duarte,True,Bulls,1610612741
+142,1642505,Alex Ducas,Alex,Ducas,True,Thunder,1610612760
+143,1630561,David Duke Jr.,David,Duke Jr.,True,Spurs,1610612759
+144,1627739,Kris Dunn,Kris,Dunn,True,Clippers,1610612746
+145,1642346,Ryan Dunn,Ryan,Dunn,True,Suns,1610612756
+146,201142,Kevin Durant,Kevin,Durant,True,Suns,1610612756
+147,1631105,Jalen Duren,Jalen,Duren,True,Pistons,1610612765
+148,1631106,Tari Eason,Tari,Eason,True,Rockets,1610612745
+149,1641744,Zach Edey,Zach,Edey,True,Grizzlies,1610612763
+150,1630162,Anthony Edwards,Anthony,Edwards,True,Timberwolves,1610612750
+151,1642399,Jesse Edwards,Jesse,Edwards,True,Timberwolves,1610612750
+152,1642348,Justin Edwards,Justin,Edwards,True,76ers,1610612755
+153,1630556,Kessler Edwards,Kessler,Edwards,True,Mavericks,1610612742
+154,1642407,Boogie Ellis,Boogie,Ellis,True,,0
+155,1631165,Keon Ellis,Keon,Ellis,True,Kings,1610612758
+156,203954,Joel Embiid,Joel,Embiid,True,76ers,1610612755
+157,1642401,Aaron Estrada,Aaron,Estrada,True,,0
+158,1629234,Drew Eubanks,Drew,Eubanks,True,Jazz,1610612762
+159,1641787,Tosan Evbuomwan,Tosan,Evbuomwan,True,Pistons,1610612765
+160,203957,Danté Exum,Danté,Exum,True,Mavericks,1610612742
+161,1628981,Bruno Fernando,Bruno,Fernando,True,Raptors,1610612761
+162,1642499,Max Fiedler,Max,Fiedler,True,,0
+163,1642271,Kyle Filipowski,Kyle,Filipowski,True,Jazz,1610612762
+164,1627827,Dorian Finney-Smith,Dorian,Finney-Smith,True,Nets,1610612751
+165,1641745,Adam Flagler,Adam,Flagler,True,Thunder,1610612760
+166,1642280,Trentyn Flowers,Trentyn,Flowers,True,Clippers,1610612746
+167,1630201,Malachi Flynn,Malachi,Flynn,True,Pistons,1610612765
+168,1631323,Simone Fontecchio,Simone,Fontecchio,True,Pistons,1610612765
+169,1628368,De'Aaron Fox,De'Aaron,Fox,True,Kings,1610612758
+170,1642402,Enrique Freeman,Enrique,Freeman,True,Pacers,1610612754
+171,1641847,Andrew Funk,Andrew,Funk,True,Bulls,1610612741
+172,1642277,Johnny Furphy,Johnny,Furphy,True,Pacers,1610612754
+173,1629655,Daniel Gafford,Daniel,Gafford,True,Mavericks,1610612742
+174,1629636,Darius Garland,Darius,Garland,True,Cavaliers,1610612739
+175,1630568,Luka Garza,Luka,Garza,True,Timberwolves,1610612750
+176,1641718,Keyonte George,Keyonte,George,True,Jazz,1610612762
+177,1642273,Kyshawn George,Kyshawn,George,True,Wizards,1610612764
+178,202331,Paul George,Paul,George,True,76ers,1610612755
+179,201959,Taj Gibson,Taj,Gibson,True,Hornets,1610612766
+180,1630581,Josh Giddey,Josh,Giddey,True,Bulls,1610612741
+181,1628385,Harry Giles III,Harry,Giles III,True,Kings,1610612758
+182,1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,True,Thunder,1610612760
+183,1630264,Anthony Gill,Anthony,Gill,True,Wizards,1610612764
+184,1631221,Collin Gillespie,Collin,Gillespie,True,Suns,1610612756
+185,1631367,Jacob Gilyard,Jacob,Gilyard,True,Nets,1610612751
+186,203497,Rudy Gobert,Rudy,Gobert,True,Timberwolves,1610612750
+187,1630692,Jordan Goodwin,Jordan,Goodwin,True,Grizzlies,1610612763
+188,203932,Aaron Gordon,Aaron,Gordon,True,Nuggets,1610612743
+189,201569,Eric Gordon,Eric,Gordon,True,76ers,1610612755
+190,1641789,Jazian Gortman,Jazian,Gortman,True,Mavericks,1610612742
+191,1628984,Devonte' Graham,Devonte',Graham,True,Spurs,1610612759
+192,203924,Jerami Grant,Jerami,Grant,True,Trail Blazers,1610612757
+193,1631260,AJ Green,AJ,Green,True,Bucks,1610612749
+194,203110,Draymond Green,Draymond,Green,True,Warriors,1610612744
+195,1630224,Jalen Green,Jalen,Green,True,Rockets,1610612745
+196,1629750,Javonte Green,Javonte,Green,True,Pelicans,1610612740
+197,201145,Jeff Green,Jeff,Green,True,Rockets,1610612745
+198,1630182,Josh Green,Josh,Green,True,Hornets,1610612766
+199,1629656,Quentin Grimes,Quentin,Grimes,True,Mavericks,1610612742
+200,1631243,Mouhamed Gueye,Mouhamed,Gueye,True,Hawks,1610612737
+201,1629060,Rui Hachimura,Rui,Hachimura,True,Lakers,1610612747
+202,1630169,Tyrese Haliburton,Tyrese,Haliburton,True,Pacers,1610612754
+203,1641790,PJ Hall,PJ,Hall,True,Nuggets,1610612743
+204,203501,Tim Hardaway Jr.,Tim,Hardaway Jr.,True,Pistons,1610612765
+205,201935,James Harden,James,Harden,True,Clippers,1610612746
+206,1630702,Jaden Hardy,Jaden,Hardy,True,Mavericks,1610612742
+207,1641989,Elijah Harkless,Elijah,Harkless,True,,0
+208,1631199,Ron Harper Jr.,Ron,Harper Jr.,True,,0
+209,203914,Gary Harris,Gary,Harris,True,Magic,1610612753
+210,1630284,Kevon Harris,Kevon,Harris,True,Magic,1610612753
+211,202699,Tobias Harris,Tobias,Harris,True,Pistons,1610612765
+212,1628404,Josh Hart,Josh,Hart,True,Knicks,1610612752
+213,1628392,Isaiah Hartenstein,Isaiah,Hartenstein,True,Thunder,1610612760
+214,1630573,Sam Hauser,Sam,Hauser,True,Celtics,1610612738
+215,1641722,Jordan Hawkins,Jordan,Hawkins,True,Pelicans,1610612740
+216,1629637,Jaxson Hayes,Jaxson,Hayes,True,Lakers,1610612747
+217,1630165,Killian Hayes,Killian,Hayes,True,,0
+218,1630703,Scoot Henderson,Scoot,Henderson,True,Trail Blazers,1610612757
+219,1641707,Taylor Hendricks,Taylor,Hendricks,True,Jazz,1610612762
+220,1629639,Tyler Herro,Tyler,Herro,True,Heat,1610612748
+221,1627741,Buddy Hield,Buddy,Hield,True,Warriors,1610612744
+222,1629312,Haywood Highsmith,Haywood,Highsmith,True,Heat,1610612748
+223,1630792,Malcolm Hill,Malcolm,Hill,True,Pelicans,1610612740
+224,1642396,Blake Hinson,Blake,Hinson,True,,0
+225,1630207,Nate Hinton,Nate,Hinton,True,Rockets,1610612745
+226,1628988,Aaron Holiday,Aaron,Holiday,True,Rockets,1610612745
+227,201950,Jrue Holiday,Jrue,Holiday,True,Celtics,1610612738
+228,1641842,Ronald Holland II,Ronald,Holland II,True,Pistons,1610612765
+229,1626158,Richaun Holmes,Richaun,Holmes,True,Wizards,1610612764
+230,1641747,DaRon Holmes II,DaRon,Holmes II,True,Nuggets,1610612743
+231,1631096,Chet Holmgren,Chet,Holmgren,True,Thunder,1610612760
+232,1641720,Jalen Hood-Schifino,Jalen,Hood-Schifino,True,Lakers,1610612747
+233,201143,Al Horford,Al,Horford,True,Celtics,1610612738
+234,1629659,Talen Horton-Tucker,Talen,Horton-Tucker,True,Bulls,1610612741
+235,1631216,Caleb Houstan,Caleb,Houstan,True,Magic,1610612753
+236,1641724,Jett Howard,Jett,Howard,True,Magic,1610612753
+237,1628989,Kevin Huerter,Kevin,Huerter,True,Kings,1610612758
+238,1630643,Jay Huff,Jay,Huff,True,Grizzlies,1610612763
+239,1630574,Ariel Hukporti,Ariel,Hukporti,True,Knicks,1610612752
+240,1629631,De'Andre Hunter,De'Andre,Hunter,True,Hawks,1610612737
+241,1630538,Bones Hyland,Bones,Hyland,True,Clippers,1610612746
+242,1642345,Oso Ighodaro,Oso,Ighodaro,True,Suns,1610612756
+243,204060,Joe Ingles,Joe,Ingles,True,Timberwolves,1610612750
+244,1627742,Brandon Ingram,Brandon,Ingram,True,Pelicans,1610612740
+245,1631127,Harrison Ingram,Harrison,Ingram,True,Spurs,1610612759
+246,202681,Kyrie Irving,Kyrie,Irving,True,Mavericks,1610612742
+247,1628371,Jonathan Isaac,Jonathan,Isaac,True,Magic,1610612753
+248,1631093,Jaden Ivey,Jaden,Ivey,True,Pistons,1610612765
+249,1641713,GG Jackson,GG,Jackson,True,Grizzlies,1610612763
+250,1630543,Isaiah Jackson,Isaiah,Jackson,True,Pacers,1610612754
+251,1631245,Quenton Jackson,Quenton,Jackson,True,Pacers,1610612754
+252,202704,Reggie Jackson,Reggie,Jackson,True,76ers,1610612755
+253,1641748,Andre Jackson Jr.,Andre,Jackson Jr.,True,Bucks,1610612749
+254,1628991,Jaren Jackson Jr.,Jaren,Jackson Jr.,True,Grizzlies,1610612763
+255,1631218,Trayce Jackson-Davis,Trayce,Jackson-Davis,True,Warriors,1610612744
+256,1642355,Bronny James,Bronny,James,True,Lakers,1610612747
+257,2544,LeBron James,LeBron,James,True,Lakers,1610612747
+258,1631170,Jaime Jaquez Jr.,Jaime,Jaquez Jr.,True,Heat,1610612748
+259,1629610,DaQuan Jeffries,DaQuan,Jeffries,True,Hornets,1610612766
+260,1641998,Trey Jemison,Trey,Jemison,True,Pelicans,1610612740
+261,1642450,Daniss Jenkins,Daniss,Jenkins,True,Pistons,1610612765
+262,1629660,Ty Jerome,Ty,Jerome,True,Cavaliers,1610612739
+263,1630198,Isaiah Joe,Isaiah,Joe,True,Thunder,1610612760
+264,1642358,AJ Johnson,AJ,Johnson,True,Bucks,1610612749
+265,1629661,Cameron Johnson,Cameron,Johnson,True,Nets,1610612751
+266,1630552,Jalen Johnson,Jalen,Johnson,True,Hawks,1610612737
+267,201949,James Johnson,James,Johnson,True,Pacers,1610612754
+268,1629640,Keldon Johnson,Keldon,Johnson,True,Spurs,1610612759
+269,1630553,Keon Johnson,Keon,Johnson,True,Nets,1610612751
+270,1642352,Keshad Johnson,Keshad,Johnson,True,Heat,1610612748
+271,1641749,Keyontae Johnson,Keyontae,Johnson,True,Thunder,1610612760
+272,203999,Nikola Jokić,Nikola,Jokić,True,Nuggets,1610612743
+273,1641732,Colby Jones,Colby,Jones,True,Kings,1610612758
+274,1641794,Dillon Jones,Dillon,Jones,True,Thunder,1610612760
+275,1630529,Herbert Jones,Herbert,Jones,True,Pelicans,1610612740
+276,1642403,Isaac Jones,Isaac,Jones,True,Kings,1610612758
+277,1630539,Kai Jones,Kai,Jones,True,Clippers,1610612746
+278,1630222,Mason Jones,Mason,Jones,True,Kings,1610612758
+279,1642461,Spencer Jones,Spencer,Jones,True,Nuggets,1610612743
+280,1630200,Tre Jones,Tre,Jones,True,Spurs,1610612759
+281,1626145,Tyus Jones,Tyus,Jones,True,Suns,1610612756
+282,1627884,Derrick Jones Jr.,Derrick,Jones Jr.,True,Clippers,1610612746
+283,201599,DeAndre Jordan,DeAndre,Jordan,True,Nuggets,1610612743
+284,202709,Cory Joseph,Cory,Joseph,True,Magic,1610612753
+285,1631107,Nikola Jović,Nikola,Jović,True,Heat,1610612748
+286,1630548,Johnny Juzang,Johnny,Juzang,True,Jazz,1610612762
+287,1626163,Frank Kaminsky,Frank,Kaminsky,True,Rockets,1610612745
+288,1642530,Yuki Kawamura,Yuki,Kawamura,True,Grizzlies,1610612763
+289,1630283,Kylor Kelley,Kylor,Kelley,True,,0
+290,1628379,Luke Kennard,Luke,Kennard,True,Grizzlies,1610612763
+291,1631117,Walker Kessler,Walker,Kessler,True,Jazz,1610612762
+292,1630557,Corey Kispert,Corey,Kispert,True,Wizards,1610612764
+293,1628467,Maxi Kleber,Maxi,Kleber,True,Mavericks,1610612742
+294,1641752,Bobi Klintman,Bobi,Klintman,True,Pistons,1610612765
+295,1642261,Dalton Knecht,Dalton,Knecht,True,Lakers,1610612747
+296,1628995,Kevin Knox II,Kevin,Knox II,True,,0
+297,1642278,Tyler Kolek,Tyler,Kolek,True,Knicks,1610612752
+298,1631132,Christian Koloko,Christian,Koloko,True,Lakers,1610612747
+299,1629723,John Konchar,John,Konchar,True,Grizzlies,1610612763
+300,1642046,Miller Kopp,Miller,Kopp,True,,0
+301,1628436,Luke Kornet,Luke,Kornet,True,Celtics,1610612738
+302,1630249,Vít Krejčí,Vít,Krejčí,True,Hawks,1610612737
+303,1630228,Jonathan Kuminga,Jonathan,Kuminga,True,Warriors,1610612744
+304,1628398,Kyle Kuzma,Kyle,Kuzma,True,Wizards,1610612764
+305,1631222,Jake LaRavia,Jake,LaRavia,True,Grizzlies,1610612763
+306,203897,Zach LaVine,Zach,LaVine,True,Bulls,1610612741
+307,1627746,Skal Labissiere,Skal,Labissiere,True,Kings,1610612758
+308,1629111,Jock Landale,Jock,Landale,True,Rockets,1610612745
+309,1641796,Pelle Larsson,Pelle,Larsson,True,Heat,1610612748
+310,1627747,Caris LeVert,Caris,LeVert,True,Cavaliers,1610612739
+311,1627814,Damion Lee,Damion,Lee,True,Suns,1610612756
+312,203458,Alex Len,Alex,Len,True,Kings,1610612758
+313,202695,Kawhi Leonard,Kawhi,Leonard,True,Clippers,1610612746
+314,1642502,Malevy Leons,Malevy,Leons,True,Thunder,1610612760
+315,1641721,Maxwell Lewis,Maxwell,Lewis,True,Lakers,1610612747
+316,1630184,Kira Lewis Jr.,Kira,Lewis Jr.,True,Jazz,1610612762
+317,1630604,E.J. Liddell,E.J.,Liddell,True,Bulls,1610612741
+318,203081,Damian Lillard,Damian,Lillard,True,Bucks,1610612749
+319,1629642,Nassir Little,Nassir,Little,True,Suns,1610612756
+320,1641726,Dereck Lively II,Dereck,Lively II,True,Mavericks,1610612742
+321,1641753,Chris Livingston,Chris,Livingston,True,Bucks,1610612749
+322,1631254,Kenneth Lofton Jr.,Kenneth,Lofton Jr.,True,Jazz,1610612762
+323,1626172,Kevon Looney,Kevon,Looney,True,Warriors,1610612744
+324,201572,Brook Lopez,Brook,Lopez,True,Bucks,1610612749
+325,201567,Kevin Love,Kevin,Love,True,Heat,1610612748
+326,200768,Kyle Lowry,Kyle,Lowry,True,76ers,1610612755
+327,1641754,Seth Lundy,Seth,Lundy,True,Hawks,1610612737
+328,1626168,Trey Lyles,Trey,Lyles,True,Kings,1610612758
+329,1627748,Thon Maker,Thon,Maker,True,,0
+330,1630572,Sandro Mamukelashvili,Sandro,Mamukelashvili,True,Spurs,1610612759
+331,1629611,Terance Mann,Terance,Mann,True,Clippers,1610612746
+332,1630544,Tre Mann,Tre,Mann,True,Hornets,1610612766
+333,1628374,Lauri Markkanen,Lauri,Markkanen,True,Jazz,1610612762
+334,1630230,Naji Marshall,Naji,Marshall,True,Mavericks,1610612742
+335,1628997,Caleb Martin,Caleb,Martin,True,76ers,1610612755
+336,1628998,Cody Martin,Cody,Martin,True,Hornets,1610612766
+337,1641798,Jaylen Martin,Jaylen,Martin,True,Nets,1610612751
+338,1630231,KJ Martin,KJ,Martin,True,76ers,1610612755
+339,1631213,Tyrese Martin,Tyrese,Martin,True,Nets,1610612751
+340,1629726,Garrison Mathews,Garrison,Mathews,True,Hawks,1610612737
+341,1631097,Bennedict Mathurin,Bennedict,Mathurin,True,Pacers,1610612754
+342,1631255,Karlo Matković,Karlo,Matković,True,Pelicans,1610612740
+343,1630178,Tyrese Maxey,Tyrese,Maxey,True,76ers,1610612755
+344,1630219,Skylar Mays,Skylar,Mays,True,Lakers,1610612747
+345,1630540,Miles McBride,Miles,McBride,True,Knicks,1610612752
+346,1642272,Jared McCain,Jared,McCain,True,76ers,1610612755
+347,1630644,Mac McClung,Mac,McClung,True,Magic,1610612753
+348,203468,CJ McCollum,CJ,McCollum,True,Pelicans,1610612740
+349,204456,T.J. McConnell,T.J.,McConnell,True,Pacers,1610612754
+350,1631322,Javante McCoy,Javante,McCoy,True,,0
+351,1641755,Kevin McCullar Jr.,Kevin,McCullar Jr.,True,Knicks,1610612752
+352,1630183,Jaden McDaniels,Jaden,McDaniels,True,Timberwolves,1610612750
+353,1629667,Jalen McDaniels,Jalen,McDaniels,True,Raptors,1610612761
+354,1631121,Bryce McGowens,Bryce,McGowens,True,Trail Blazers,1610612757
+355,1629162,Jordan McLaughlin,Jordan,McLaughlin,True,Kings,1610612758
+356,1629098,Jack McVeigh,Jack,McVeigh,True,Rockets,1610612745
+357,1629001,De'Anthony Melton,De'Anthony,Melton,True,Warriors,1610612744
+358,1641877,Nathan Mensah,Nathan,Mensah,True,,0
+359,1630241,Sam Merrill,Sam,Merrill,True,Cavaliers,1610612739
+360,203995,Vasilije Micić,Vasilije,Micić,True,Hornets,1610612766
+361,203114,Khris Middleton,Khris,Middleton,True,Bucks,1610612749
+362,1641706,Brandon Miller,Brandon,Miller,True,Hornets,1610612766
+363,1641801,Emanuel Miller,Emanuel,Miller,True,,0
+364,1641757,Jordan Miller,Jordan,Miller,True,Clippers,1610612746
+365,1631159,Leonard Miller,Leonard,Miller,True,Timberwolves,1610612750
+366,201988,Patty Mills,Patty,Mills,True,Jazz,1610612762
+367,1629003,Shake Milton,Shake,Milton,True,Nets,1610612751
+368,1631303,Justin Minaya,Justin,Minaya,True,Trail Blazers,1610612757
+369,1642434,Riley Minix,Riley,Minix,True,Spurs,1610612759
+370,1631169,Josh Minott,Josh,Minott,True,Timberwolves,1610612750
+371,1641758,Judah Mintz,Judah,Mintz,True,,0
+372,1642274,Yves Missi,Yves,Missi,True,Pelicans,1610612740
+373,1642349,Ajay Mitchell,Ajay,Mitchell,True,Thunder,1610612760
+374,1630558,Davion Mitchell,Davion,Mitchell,True,Raptors,1610612761
+375,1628378,Donovan Mitchell,Donovan,Mitchell,True,Cavaliers,1610612739
+376,1630596,Evan Mobley,Evan,Mobley,True,Cavaliers,1610612739
+377,1630600,Isaiah Mobley,Isaiah,Mobley,True,Cavaliers,1610612739
+378,1642367,Jonathan Mogbo,Jonathan,Mogbo,True,Raptors,1610612761
+379,1628370,Malik Monk,Malik,Monk,True,Kings,1610612758
+380,1630541,Moses Moody,Moses,Moody,True,Warriors,1610612744
+381,1631386,Tazé Moore,Tazé,Moore,True,Trail Blazers,1610612757
+382,1631111,Wendell Moore Jr.,Wendell,Moore Jr.,True,Pistons,1610612765
+383,1629630,Ja Morant,Ja,Morant,True,Grizzlies,1610612763
+384,202693,Markieff Morris,Markieff,Morris,True,Mavericks,1610612742
+385,1628420,Monté Morris,Monté,Morris,True,Suns,1610612756
+386,1630530,Trey Murphy III,Trey,Murphy III,True,Pelicans,1610612740
+387,1627749,Dejounte Murray,Dejounte,Murray,True,Pelicans,1610612740
+388,1627750,Jamal Murray,Jamal,Murray,True,Nuggets,1610612743
+389,1631099,Keegan Murray,Keegan,Murray,True,Kings,1610612758
+390,1631200,Kris Murray,Kris,Murray,True,Trail Blazers,1610612757
+391,1629004,Svi Mykhailiuk,Svi,Mykhailiuk,True,Jazz,1610612762
+392,1631250,Pete Nance,Pete,Nance,True,Cavaliers,1610612739
+393,1626204,Larry Nance Jr.,Larry,Nance Jr.,True,Hawks,1610612737
+394,1629614,Andrew Nembhard,Andrew,Nembhard,True,Pacers,1610612754
+395,1630174,Aaron Nesmith,Aaron,Nesmith,True,Pacers,1610612754
+396,1641803,Tristen Newton,Tristen,Newton,True,Pacers,1610612754
+397,1627777,Georges Niang,Georges,Niang,True,Cavaliers,1610612739
+398,1630227,Daishen Nix,Daishen,Nix,True,Timberwolves,1610612750
+399,1630192,Zeke Nnaji,Zeke,Nnaji,True,Nuggets,1610612743
+400,1629669,Jaylen Nowell,Jaylen,Nowell,True,Pelicans,1610612740
+401,1641806,Markquis Nowell,Markquis,Nowell,True,,0
+402,203994,Jusuf Nurkić,Jusuf,Nurkić,True,Suns,1610612756
+403,1626220,Royce O'Neale,Royce,O'Neale,True,Suns,1610612756
+404,1629643,Chuma Okeke,Chuma,Okeke,True,Magic,1610612753
+405,1629006,Josh Okogie,Josh,Okogie,True,Suns,1610612756
+406,1630168,Onyeka Okongwu,Onyeka,Okongwu,True,Hawks,1610612737
+407,1630171,Isaac Okoro,Isaac,Okoro,True,Cavaliers,1610612739
+408,1642439,Quincy Olivari,Quincy,Olivari,True,Lakers,1610612747
+409,203482,Kelly Olynyk,Kelly,Olynyk,True,Raptors,1610612761
+410,1630647,Eugene Omoruyi,Eugene,Omoruyi,True,Wizards,1610612764
+411,1629671,Miye Oni,Miye,Oni,True,,0
+412,1626162,Kelly Oubre Jr.,Kelly,Oubre Jr.,True,76ers,1610612755
+413,1628394,Anžejs Pasečņiks,Anžejs,Pasečņiks,True,,0
+414,101108,Chris Paul,Chris,Paul,True,Spurs,1610612759
+415,1626166,Cameron Payne,Cameron,Payne,True,Knicks,1610612752
+416,1627780,Gary Payton II,Gary,Payton II,True,Warriors,1610612744
+417,1641970,Mãozinha Pereira,Mãozinha,Pereira,True,,0
+418,1641809,Drew Peterson,Drew,Peterson,True,Celtics,1610612738
+419,1641763,Julian Phillips,Julian,Phillips,True,Bulls,1610612741
+420,1629618,Jalen Pickett,Jalen,Pickett,True,Nuggets,1610612743
+421,1630590,Scotty Pippen Jr.,Scotty,Pippen Jr.,True,Grizzlies,1610612763
+422,1631342,Daeqwon Plowden,Daeqwon,Plowden,True,,0
+423,203486,Mason Plumlee,Mason,Plumlee,True,Suns,1610612756
+424,1641764,Brandin Podziemski,Brandin,Podziemski,True,Warriors,1610612744
+425,1629673,Jordan Poole,Jordan,Poole,True,Wizards,1610612764
+426,1641854,Craig Porter Jr.,Craig,Porter Jr.,True,Cavaliers,1610612739
+427,1629645,Kevin Porter Jr.,Kevin,Porter Jr.,True,Clippers,1610612746
+428,1629008,Michael Porter Jr.,Michael,Porter Jr.,True,Nuggets,1610612743
+429,1626171,Bobby Portis,Bobby,Portis,True,Bucks,1610612749
+430,204001,Kristaps Porziņģis,Kristaps,Porziņģis,True,Celtics,1610612738
+431,1642366,Quinten Post,Quinten,Post,True,Warriors,1610612744
+432,1630695,Micah Potter,Micah,Potter,True,Jazz,1610612762
+433,203939,Dwight Powell,Dwight,Powell,True,Mavericks,1610612742
+434,1626181,Norman Powell,Norman,Powell,True,Clippers,1610612746
+435,1630554,Jason Preston,Jason,Preston,True,Jazz,1610612762
+436,1627752,Taurean Prince,Taurean,Prince,True,Bucks,1610612749
+437,1630202,Payton Pritchard,Payton,Pritchard,True,Celtics,1610612738
+438,1641765,Olivier-Maxence Prosper,Olivier-Maxence,Prosper,True,Mavericks,1610612742
+439,1642389,Zyon Pullin,Zyon,Pullin,True,,0
+440,1627751,Jakob Pöltl,Jakob,Pöltl,True,Raptors,1610612761
+441,1630243,Trevelin Queen,Trevelin,Queen,True,Magic,1610612753
+442,1629674,Neemias Queta,Neemias,Queta,True,Celtics,1610612738
+443,1630193,Immanuel Quickley,Immanuel,Quickley,True,Raptors,1610612761
+444,1631311,Lester Quinones,Lester,Quinones,True,76ers,1610612755
+445,1630186,Jahmi'us Ramsey,Jahmi'us,Ramsey,True,,0
+446,203944,Julius Randle,Julius,Randle,True,Timberwolves,1610612750
+447,1641871,Duop Reath,Duop,Reath,True,Trail Blazers,1610612757
+448,1630559,Austin Reaves,Austin,Reaves,True,Lakers,1610612747
+449,1629629,Cam Reddish,Cam,Reddish,True,Lakers,1610612747
+450,1630194,Paul Reed,Paul,Reed,True,Pistons,1610612765
+451,1642024,Alex Reese,Alex,Reese,True,,0
+452,1641810,Antonio Reeves,Antonio,Reeves,True,Pelicans,1610612740
+453,1629675,Naz Reid,Naz,Reid,True,Timberwolves,1610612750
+454,1631197,Jared Rhoden,Jared,Rhoden,True,Hornets,1610612766
+455,1630208,Nick Richards,Nick,Richards,True,Hornets,1610612766
+456,1626196,Josh Richardson,Josh,Richardson,True,Heat,1610612748
+457,1642019,Will Richardson,Will,Richardson,True,,0
+458,1642258,Zaccharie Risacher,Zaccharie,Risacher,True,Hawks,1610612737
+459,1641857,Liam Robbins,Liam,Robbins,True,Bucks,1610612749
+460,1629130,Duncan Robinson,Duncan,Robinson,True,Heat,1610612748
+461,1629011,Mitchell Robinson,Mitchell,Robinson,True,Knicks,1610612752
+462,1631115,Orlando Robinson,Orlando,Robinson,True,Kings,1610612758
+463,1630526,Jeremiah Robinson-Earl,Jeremiah,Robinson-Earl,True,Pelicans,1610612740
+464,1631223,David Roddy,David,Roddy,True,Hawks,1610612737
+465,1631157,Ryan Rollins,Ryan,Rollins,True,Bucks,1610612749
+466,1642050,Jackson Rowe,Jackson,Rowe,True,,0
+467,1626179,Terry Rozier,Terry,Rozier,True,Heat,1610612748
+468,1641712,Rayan Rupert,Rayan,Rupert,True,Trail Blazers,1610612757
+469,1626156,D'Angelo Russell,D'Angelo,Russell,True,Lakers,1610612747
+470,1642504,Cormac Ryan,Cormac,Ryan,True,,0
+471,1630346,Matt Ryan,Matt,Ryan,True,Knicks,1610612752
+472,1627734,Domantas Sabonis,Domantas,Sabonis,True,Kings,1610612758
+473,1642275,Tidjane Salaün,Tidjane,Salaün,True,Hornets,1610612766
+474,1631257,Jermaine Samuels Jr.,Jermaine,Samuels Jr.,True,Rockets,1610612745
+475,1641766,Adama Sanogo,Adama,Sanogo,True,Bulls,1610612741
+476,1630611,Gui Santos,Gui,Santos,True,Warriors,1610612744
+477,1642259,Alexandre Sarr,Alexandre,Sarr,True,Wizards,1610612764
+478,1631204,Marcus Sasser,Marcus,Sasser,True,Pistons,1610612765
+479,1631248,Baylor Scheierman,Baylor,Scheierman,True,Celtics,1610612738
+480,203471,Dennis Schröder,Dennis,Schröder,True,Nets,1610612751
+481,1630206,Jay Scrubb,Jay,Scrubb,True,,0
+482,1631220,Dereon Seabron,Dereon,Seabron,True,Pelicans,1610612740
+483,1630578,Alperen Sengun,Alperen,Sengun,True,Rockets,1610612745
+484,1641729,Brice Sensabaugh,Brice,Sensabaugh,True,Jazz,1610612762
+485,1629012,Collin Sexton,Collin,Sexton,True,Jazz,1610612762
+486,1629013,Landry Shamet,Landry,Shamet,True,Wizards,1610612764
+487,1630545,Terrence Shannon Jr.,Terrence,Shannon Jr.,True,Timberwolves,1610612750
+488,1642481,Jamarion Sharp,Jamarion,Sharp,True,,0
+489,1630549,Day'Ron Sharpe,Day'Ron,Sharpe,True,Nets,1610612751
+490,1631101,Shaedon Sharpe,Shaedon,Sharpe,True,Trail Blazers,1610612757
+491,1642347,Jamal Shead,Jamal,Shead,True,Raptors,1610612761
+492,1641767,Ben Sheppard,Ben,Sheppard,True,Pacers,1610612754
+493,1642263,Reed Sheppard,Reed,Sheppard,True,Rockets,1610612745
+494,1627783,Pascal Siakam,Pascal,Siakam,True,Pacers,1610612754
+495,1627732,Ben Simmons,Ben,Simmons,True,Nets,1610612751
+496,1629014,Anfernee Simons,Anfernee,Simons,True,Trail Blazers,1610612757
+497,1642354,K.J. Simpson,K.J.,Simpson,True,Hornets,1610612766
+498,1630579,Jericho Sims,Jericho,Sims,True,Knicks,1610612752
+499,1631376,Dmytro Skapintsev,Dmytro,Skapintsev,True,,0
+500,1641771,Jalen Slawson,Jalen,Slawson,True,Kings,1610612758
+501,1630606,Javonte Smart,Javonte,Smart,True,,0
+502,203935,Marcus Smart,Marcus,Smart,True,Grizzlies,1610612763
+503,1630696,Dru Smith,Dru,Smith,True,Heat,1610612748
+504,1630188,Jalen Smith,Jalen,Smith,True,Bulls,1610612741
+505,1642449,Tolu Smith,Tolu,Smith,True,,0
+506,1641890,Tyler Smith,Tyler,Smith,True,Bucks,1610612749
+507,1629015,Zhaire Smith,Zhaire,Smith,True,76ers,1610612755
+508,1631095,Jabari Smith Jr.,Jabari,Smith Jr.,True,Rockets,1610612745
+509,1641733,Nick Smith Jr.,Nick,Smith Jr.,True,Hornets,1610612766
+510,1631110,Jeremy Sochan,Jeremy,Sochan,True,Spurs,1610612759
+511,1642285,Cam Spencer,Cam,Spencer,True,Grizzlies,1610612763
+512,1630311,Pat Spencer,Pat,Spencer,True,Warriors,1610612744
+513,1630531,Jaden Springer,Jaden,Springer,True,Celtics,1610612738
+514,1641815,Isaiah Stevens,Isaiah,Stevens,True,,0
+515,1630205,Lamar Stevens,Lamar,Stevens,True,Grizzlies,1610612763
+516,1641907,Erik Stevenson,Erik,Stevenson,True,,0
+517,1630569,DJ Steward,DJ,Steward,True,Bulls,1610612741
+518,1630191,Isaiah Stewart,Isaiah,Stewart,True,Pistons,1610612765
+519,1631124,Julian Strawther,Julian,Strawther,True,Nuggets,1610612743
+520,1629622,Max Strus,Max,Strus,True,Cavaliers,1610612739
+521,1630591,Jalen Suggs,Jalen,Suggs,True,Magic,1610612753
+522,1631306,Cole Swider,Cole,Swider,True,Pistons,1610612765
+523,1630256,Jae'Sean Tate,Jae'Sean,Tate,True,Rockets,1610612745
+524,1628369,Jayson Tatum,Jayson,Tatum,True,Celtics,1610612738
+525,1630678,Terry Taylor,Terry,Taylor,True,,0
+526,202066,Garrett Temple,Garrett,Temple,True,Raptors,1610612761
+527,1631207,Dalen Terry,Dalen,Terry,True,Bulls,1610612741
+528,1628464,Daniel Theis,Daniel,Theis,True,Pelicans,1610612740
+529,1630271,Brodric Thomas,Brodric,Thomas,True,Celtics,1610612738
+530,1630560,Cam Thomas,Cam,Thomas,True,Nets,1610612751
+531,1641708,Amen Thompson,Amen,Thompson,True,Rockets,1610612745
+532,1641709,Ausar Thompson,Ausar,Thompson,True,Pistons,1610612765
+533,1630679,Ethan Thompson,Ethan,Thompson,True,,0
+534,202691,Klay Thompson,Klay,Thompson,True,Mavericks,1610612742
+535,202684,Tristan Thompson,Tristan,Thompson,True,Cavaliers,1610612739
+536,1630550,JT Thor,JT,Thor,True,Cavaliers,1610612739
+537,1629680,Matisse Thybulle,Matisse,Thybulle,True,Trail Blazers,1610612757
+538,1630214,Xavier Tillman,Xavier,Tillman,True,Celtics,1610612738
+539,1642260,Nikola Topić,Nikola,Topić,True,Thunder,1610612760
+540,1631210,Jacob Toppin,Jacob,Toppin,True,Knicks,1610612752
+541,1630167,Obi Toppin,Obi,Toppin,True,Pacers,1610612754
+542,1626157,Karl-Anthony Towns,Karl-Anthony,Towns,True,Knicks,1610612752
+543,1642422,Armel Traoré,Armel,Traoré,True,Lakers,1610612747
+544,1631247,Luke Travers,Luke,Travers,True,Cavaliers,1610612739
+545,1629018,Gary Trent Jr.,Gary,Trent Jr.,True,Bucks,1610612749
+546,1631131,Oscar Tshiebwe,Oscar,Tshiebwe,True,Jazz,1610612762
+547,1630733,Jordan Tucker,Jordan,Tucker,True,,0
+548,200782,P.J. Tucker,P.J.,Tucker,True,Clippers,1610612746
+549,1626167,Myles Turner,Myles,Turner,True,Pacers,1610612754
+550,1641816,Hunter Tyson,Hunter,Tyson,True,Nuggets,1610612743
+551,1642281,Jaylon Tyson,Jaylon,Tyson,True,Cavaliers,1610612739
+552,1630649,Stanley Umude,Stanley,Umude,True,Bucks,1610612749
+553,202685,Jonas Valančiūnas,Jonas,Valančiūnas,True,Wizards,1610612764
+554,1627832,Fred VanVleet,Fred,VanVleet,True,Rockets,1610612745
+555,1629020,Jarred Vanderbilt,Jarred,Vanderbilt,True,Lakers,1610612747
+556,1630170,Devin Vassell,Devin,Vassell,True,Spurs,1610612759
+557,1629216,Gabe Vincent,Gabe,Vincent,True,Lakers,1610612747
+558,1641774,Tristan Vukcevic,Tristan,Vukcevic,True,Wizards,1610612764
+559,202696,Nikola Vučević,Nikola,Vučević,True,Bulls,1610612741
+560,1629731,Dean Wade,Dean,Wade,True,Cavaliers,1610612739
+561,1630532,Franz Wagner,Franz,Wagner,True,Magic,1610612753
+562,1629021,Moritz Wagner,Moritz,Wagner,True,Magic,1610612753
+563,1631133,Jabari Walker,Jabari,Walker,True,Trail Blazers,1610612757
+564,1641716,Jarace Walker,Jarace,Walker,True,Pacers,1610612754
+565,1629022,Lonnie Walker IV,Lonnie,Walker IV,True,Nets,1610612751
+566,1641717,Cason Wallace,Cason,Wallace,True,Thunder,1610612760
+567,1630811,Keaton Wallace,Keaton,Wallace,True,Hawks,1610612737
+568,1641775,Jordan Walsh,Jordan,Walsh,True,Celtics,1610612738
+569,1642266,Ja'Kobe Walter,Ja'Kobe,Walter,True,Raptors,1610612761
+570,1642276,Kel'el Ware,Kel'el,Ware,True,Heat,1610612748
+571,203933,T.J. Warren,T.J.,Warren,True,Timberwolves,1610612750
+572,1629023,P.J. Washington,P.J.,Washington,True,Mavericks,1610612742
+573,1631102,TyTy Washington Jr.,TyTy,Washington Jr.,True,Suns,1610612756
+574,1630322,Lindy Waters III,Lindy,Waters III,True,Warriors,1610612744
+575,1630570,Trendon Watford,Trendon,Watford,True,Nets,1610612751
+576,1641817,Anton Watson,Anton,Watson,True,Celtics,1610612738
+577,1631212,Peyton Watson,Peyton,Watson,True,Nuggets,1610612743
+578,1642377,Jaylen Wells,Jaylen,Wells,True,Grizzlies,1610612763
+579,1641705,Victor Wembanyama,Victor,Wembanyama,True,Spurs,1610612759
+580,1631104,Blake Wesley,Blake,Wesley,True,Spurs,1610612759
+581,201566,Russell Westbrook,Russell,Westbrook,True,Nuggets,1610612743
+582,1629632,Coby White,Coby,White,True,Bulls,1610612741
+583,1628401,Derrick White,Derrick,White,True,Celtics,1610612738
+584,1641727,Dariq Whitehead,Dariq,Whitehead,True,Nets,1610612751
+585,1641715,Cam Whitmore,Cam,Whitmore,True,Rockets,1610612745
+586,1630598,Aaron Wiggins,Aaron,Wiggins,True,Thunder,1610612760
+587,203952,Andrew Wiggins,Andrew,Wiggins,True,Warriors,1610612744
+588,1631214,Alondes Williams,Alondes,Williams,True,Pistons,1610612765
+589,1630314,Brandon Williams,Brandon,Williams,True,Mavericks,1610612742
+590,1642262,Cody Williams,Cody,Williams,True,Jazz,1610612762
+591,1629684,Grant Williams,Grant,Williams,True,Hornets,1610612766
+592,1631114,Jalen Williams,Jalen,Williams,True,Thunder,1610612760
+593,1631119,Jaylin Williams,Jaylin,Williams,True,Thunder,1610612760
+594,1629026,Kenrich Williams,Kenrich,Williams,True,Thunder,1610612760
+595,1631109,Mark Williams,Mark,Williams,True,Hornets,1610612766
+596,1631466,Nate Williams,Nate,Williams,True,Rockets,1610612745
+597,1630172,Patrick Williams,Patrick,Williams,True,Bulls,1610612741
+598,1630533,Ziaire Williams,Ziaire,Williams,True,Nets,1610612751
+599,1629057,Robert Williams III,Robert,Williams III,True,Trail Blazers,1610612757
+600,1631246,Vince Williams Jr.,Vince,Williams Jr.,True,Grizzlies,1610612763
+601,1629627,Zion Williamson,Zion,Williamson,True,Pelicans,1610612740
+602,1630592,Jalen Wilson,Jalen,Wilson,True,Nets,1610612751
+603,1630164,James Wiseman,James,Wiseman,True,Pacers,1610612754
+604,1626174,Christian Wood,Christian,Wood,True,Lakers,1610612747
+605,1642473,Moses Wood,Moses,Wood,True,,0
+606,1626153,Delon Wright,Delon,Wright,True,Bucks,1610612749
+607,1627824,Guerschon Yabusele,Guerschon,Yabusele,True,76ers,1610612755
+608,1642385,Cui Yongxi,Cui,Yongxi,True,Nets,1610612751
+609,1629027,Trae Young,Trae,Young,True,Hawks,1610612737
+610,203469,Cody Zeller,Cody,Zeller,True,Hawks,1610612737
+611,1627826,Ivica Zubac,Ivica,Zubac,True,Clippers,1610612746
+612,1641783,Tristan da Silva,Tristan,da Silva,True,Magic,1610612753
+613,1628427,Vlatko Čančar,Vlatko,Čančar,True,Nuggets,1610612743
+614,203967,Dario Šarić,Dario,Šarić,True,Nuggets,1610612743
