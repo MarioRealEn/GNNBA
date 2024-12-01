@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Strus, Max Cleveland Cavaliers" label="Strus, Max Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Porter Jr., Craig Cleveland Cavaliers" label="Porter Jr., Craig Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Bates, Emoni Cleveland Cavaliers" label="Bates, Emoni Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Nance, Pete Cleveland Cavaliers" label="Nance, Pete Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Mobley, Isaiah Cleveland Cavaliers" label="Mobley, Isaiah Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Mobley, Evan Cleveland Cavaliers" label="Mobley, Evan Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Merrill, Sam Cleveland Cavaliers" label="Merrill, Sam Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Okoro, Isaac Cleveland Cavaliers" label="Okoro, Isaac Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Wade, Dean Cleveland Cavaliers" label="Wade, Dean Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Jerome, Ty Cleveland Cavaliers" label="Jerome, Ty Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Garland, Darius Cleveland Cavaliers" label="Garland, Darius Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Allen, Jarrett Cleveland Cavaliers" label="Allen, Jarrett Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Mitchell, Donovan Cleveland Cavaliers" label="Mitchell, Donovan Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Niang, Georges Cleveland Cavaliers" label="Niang, Georges Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="LeVert, Caris Cleveland Cavaliers" label="LeVert, Caris Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Jones, Damian Cleveland Cavaliers" label="Jones, Damian Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Morris Sr., Marcus Cleveland Cavaliers" label="Morris Sr., Marcus Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="Thompson, Tristan Cleveland Cavaliers" label="Thompson, Tristan Cleveland Cavaliers">
+        <attvalues>
+          <attvalue for="0" value="Cleveland Cavaliers" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Strus, Max Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="0" weight="116" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="1" weight="15" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="2" weight="1" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="3" weight="4" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="4" weight="301" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="5" weight="74" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="6" weight="194" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="7" weight="117" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="8" weight="3" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="9" weight="462" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="10" weight="467" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="11" weight="642" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="12" weight="146" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="13" weight="285" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="14" weight="15" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="15" weight="10" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="16" weight="42" />
+      <edge source="Strus, Max Cleveland Cavaliers" target="GOAL" id="17" weight="919" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="18" weight="39" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="19" weight="9" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="20" weight="20" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="21" weight="57" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="22" weight="194" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="23" weight="58" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="24" weight="51" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="25" weight="42" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="26" weight="127" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="27" weight="120" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="28" weight="38" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="29" weight="129" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="30" weight="134" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="31" weight="45" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="32" weight="17" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="33" weight="80" />
+      <edge source="Porter Jr., Craig Cleveland Cavaliers" target="GOAL" id="34" weight="335" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="35" weight="30" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="36" weight="3" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="37" weight="10" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="38" weight="3" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="39" weight="3" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="40" weight="5" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="41" weight="1" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="42" weight="1" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="43" weight="5" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="44" weight="4" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="45" weight="5" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="46" weight="4" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="47" weight="3" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="48" weight="6" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="49" weight="3" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="50" weight="11" />
+      <edge source="Bates, Emoni Cleveland Cavaliers" target="GOAL" id="51" weight="29" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="52" weight="5" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="53" weight="6" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="54" weight="2" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="55" weight="2" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="56" weight="1" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="57" weight="2" />
+      <edge source="Nance, Pete Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="58" weight="2" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="59" weight="46" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="60" weight="15" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="61" weight="2" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="62" weight="1" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="63" weight="8" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="64" weight="5" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="65" weight="9" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="66" weight="2" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="67" weight="1" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="68" weight="1" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="69" weight="2" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="70" weight="6" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="71" weight="6" />
+      <edge source="Mobley, Isaiah Cleveland Cavaliers" target="GOAL" id="72" weight="21" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="73" weight="75" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="74" weight="6" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="75" weight="1" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="76" weight="45" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="77" weight="119" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="78" weight="26" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="79" weight="1" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="80" weight="723" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="81" weight="342" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="82" weight="106" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="83" weight="378" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="84" weight="98" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="85" weight="241" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="86" weight="3" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="87" weight="5" />
+      <edge source="Mobley, Evan Cleveland Cavaliers" target="GOAL" id="88" weight="564" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="89" weight="140" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="90" weight="6" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="91" weight="8" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="92" weight="44" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="93" weight="59" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="94" weight="28" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="95" weight="144" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="96" weight="53" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="97" weight="108" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="98" weight="110" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="99" weight="141" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="100" weight="135" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="101" weight="33" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="102" weight="14" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="103" weight="67" />
+      <edge source="Merrill, Sam Cleveland Cavaliers" target="GOAL" id="104" weight="359" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="105" weight="53" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="106" weight="7" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="107" weight="2" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="108" weight="4" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="109" weight="103" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="110" weight="53" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="111" weight="74" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="112" weight="1" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="113" weight="230" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="114" weight="150" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="115" weight="214" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="116" weight="253" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="117" weight="122" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="118" weight="184" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="119" weight="5" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="120" weight="10" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="121" weight="19" />
+      <edge source="Okoro, Isaac Cleveland Cavaliers" target="GOAL" id="122" weight="402" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="123" weight="91" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="124" weight="22" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="125" weight="41" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="126" weight="68" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="127" weight="3" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="128" weight="168" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="129" weight="150" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="130" weight="92" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="131" weight="321" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="132" weight="42" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="133" weight="124" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="134" weight="6" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="135" weight="7" />
+      <edge source="Wade, Dean Cleveland Cavaliers" target="GOAL" id="136" weight="210" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="137" weight="5" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="138" weight="1" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="139" weight="2" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="140" weight="3" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="141" weight="2" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="142" weight="3" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="143" weight="7" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="144" weight="1" />
+      <edge source="Jerome, Ty Cleveland Cavaliers" target="GOAL" id="145" weight="13" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="146" weight="33" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="147" weight="7" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="148" weight="463" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="149" weight="157" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="150" weight="259" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="151" weight="89" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="152" weight="1" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="153" weight="393" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="154" weight="447" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="155" weight="312" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="156" weight="343" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="157" weight="455" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="158" weight="12" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="159" weight="36" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="160" weight="48" />
+      <edge source="Garland, Darius Cleveland Cavaliers" target="GOAL" id="161" weight="1001" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="162" weight="158" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="163" weight="2" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="164" weight="2" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="165" weight="103" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="166" weight="86" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="167" weight="162" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="168" weight="66" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="169" weight="576" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="170" weight="410" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="171" weight="694" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="172" weight="97" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="173" weight="315" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="174" weight="1" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="175" weight="7" />
+      <edge source="Allen, Jarrett Cleveland Cavaliers" target="GOAL" id="176" weight="744" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="177" weight="27" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="178" weight="2" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="179" weight="221" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="180" weight="130" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="181" weight="223" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="182" weight="175" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="183" weight="1" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="184" weight="337" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="185" weight="615" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="186" weight="419" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="187" weight="186" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="188" weight="421" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="189" weight="9" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="190" weight="4" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="191" weight="27" />
+      <edge source="Mitchell, Donovan Cleveland Cavaliers" target="GOAL" id="192" weight="955" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="193" weight="221" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="194" weight="7" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="195" weight="75" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="196" weight="126" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="197" weight="144" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="198" weight="32" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="199" weight="6" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="200" weight="508" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="201" weight="127" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="202" weight="109" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="203" weight="331" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="204" weight="411" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="205" weight="15" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="206" weight="18" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="207" weight="56" />
+      <edge source="Niang, Georges Cleveland Cavaliers" target="GOAL" id="208" weight="442" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="209" weight="73" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="210" weight="1" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="211" weight="3" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="212" weight="222" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="213" weight="196" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="214" weight="192" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="215" weight="95" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="216" weight="4" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="217" weight="340" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="218" weight="212" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="219" weight="332" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="220" weight="333" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="221" weight="342" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="222" weight="35" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="223" weight="25" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="224" weight="90" />
+      <edge source="LeVert, Caris Cleveland Cavaliers" target="GOAL" id="225" weight="977" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="226" weight="66" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="227" weight="4" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Nance, Pete Cleveland Cavaliers" id="228" weight="1" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="229" weight="9" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="230" weight="33" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="231" weight="18" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="232" weight="1" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Jerome, Ty Cleveland Cavaliers" id="233" weight="5" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="234" weight="34" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="235" weight="12" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="236" weight="1" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="237" weight="23" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="238" weight="14" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="239" weight="37" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="240" weight="4" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="241" weight="2" />
+      <edge source="Jones, Damian Cleveland Cavaliers" target="GOAL" id="242" weight="66" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="243" weight="16" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="244" weight="3" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="245" weight="5" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="246" weight="14" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="247" weight="6" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="248" weight="62" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="249" weight="6" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Allen, Jarrett Cleveland Cavaliers" id="250" weight="6" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="251" weight="8" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="252" weight="11" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="253" weight="27" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="254" weight="5" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="Thompson, Tristan Cleveland Cavaliers" id="255" weight="4" />
+      <edge source="Morris Sr., Marcus Cleveland Cavaliers" target="GOAL" id="256" weight="29" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Porter Jr., Craig Cleveland Cavaliers" id="257" weight="90" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Bates, Emoni Cleveland Cavaliers" id="258" weight="8" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Mobley, Isaiah Cleveland Cavaliers" id="259" weight="4" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Mobley, Evan Cleveland Cavaliers" id="260" weight="6" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Merrill, Sam Cleveland Cavaliers" id="261" weight="70" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Okoro, Isaac Cleveland Cavaliers" id="262" weight="25" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Wade, Dean Cleveland Cavaliers" id="263" weight="8" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Garland, Darius Cleveland Cavaliers" id="264" weight="98" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Strus, Max Cleveland Cavaliers" id="265" weight="51" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Mitchell, Donovan Cleveland Cavaliers" id="266" weight="62" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Niang, Georges Cleveland Cavaliers" id="267" weight="57" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="LeVert, Caris Cleveland Cavaliers" id="268" weight="100" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Jones, Damian Cleveland Cavaliers" id="269" weight="4" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="Morris Sr., Marcus Cleveland Cavaliers" id="270" weight="8" />
+      <edge source="Thompson, Tristan Cleveland Cavaliers" target="GOAL" id="271" weight="178" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Lillard, Damian Milwaukee Bucks" label="Lillard, Damian Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Jackson Jr., Andre Milwaukee Bucks" label="Jackson Jr., Andre Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Green, AJ Milwaukee Bucks" label="Green, AJ Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Beauchamp, MarJon Milwaukee Bucks" label="Beauchamp, MarJon Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Beasley, Malik Milwaukee Bucks" label="Beasley, Malik Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Connaughton, Pat Milwaukee Bucks" label="Connaughton, Pat Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Portis, Bobby Milwaukee Bucks" label="Portis, Bobby Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Antetokounmpo, Thanasis Milwaukee Bucks" label="Antetokounmpo, Thanasis Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Antetokounmpo, Giannis Milwaukee Bucks" label="Antetokounmpo, Giannis Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Middleton, Khris Milwaukee Bucks" label="Middleton, Khris Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Crowder, Jae Milwaukee Bucks" label="Crowder, Jae Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Beverley, Patrick Milwaukee Bucks" label="Beverley, Patrick Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Lopez, Brook Milwaukee Bucks" label="Lopez, Brook Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Gallinari, Danilo Milwaukee Bucks" label="Gallinari, Danilo Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Livingston, Chris Milwaukee Bucks" label="Livingston, Chris Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Rollins, Ryan Milwaukee Bucks" label="Rollins, Ryan Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="Washington Jr., TyTy Milwaukee Bucks" label="Washington Jr., TyTy Milwaukee Bucks">
+        <attvalues>
+          <attvalue for="0" value="Milwaukee Bucks" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="0" weight="51" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="1" weight="41" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="2" weight="64" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="3" weight="499" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="4" weight="221" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="5" weight="382" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="6" weight="4" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="7" weight="1212" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="8" weight="438" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="9" weight="190" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="10" weight="82" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="11" weight="584" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="12" weight="14" />
+      <edge source="Lillard, Damian Milwaukee Bucks" target="GOAL" id="13" weight="1505" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="14" weight="6" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="15" weight="33" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Rollins, Ryan Milwaukee Bucks" id="16" weight="2" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="17" weight="28" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="18" weight="23" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="19" weight="19" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="20" weight="37" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="21" weight="28" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="22" weight="19" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="23" weight="71" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="24" weight="40" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="25" weight="8" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="26" weight="108" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="27" weight="14" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="28" weight="25" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="29" weight="7" />
+      <edge source="Jackson Jr., Andre Milwaukee Bucks" target="GOAL" id="30" weight="164" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="31" weight="7" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="32" weight="30" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="33" weight="8" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="34" weight="15" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="35" weight="11" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="36" weight="65" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="37" weight="39" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="38" weight="14" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="39" weight="68" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="40" weight="16" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="41" weight="16" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="42" weight="57" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="43" weight="41" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="44" weight="7" />
+      <edge source="Green, AJ Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="45" weight="9" />
+      <edge source="Green, AJ Milwaukee Bucks" target="GOAL" id="46" weight="92" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="47" weight="7" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="48" weight="19" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="49" weight="16" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Rollins, Ryan Milwaukee Bucks" id="50" weight="3" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="51" weight="8" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="52" weight="8" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="53" weight="29" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="54" weight="37" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="55" weight="14" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="56" weight="68" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="57" weight="20" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="58" weight="10" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="59" weight="59" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="60" weight="5" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="61" weight="17" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="62" weight="4" />
+      <edge source="Beauchamp, MarJon Milwaukee Bucks" target="GOAL" id="63" weight="120" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="64" weight="10" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="65" weight="11" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="66" weight="4" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="67" weight="6" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="68" weight="71" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="69" weight="93" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="70" weight="1" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="71" weight="327" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="72" weight="171" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="73" weight="63" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="74" weight="573" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="75" weight="37" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="76" weight="168" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="77" weight="6" />
+      <edge source="Beasley, Malik Milwaukee Bucks" target="GOAL" id="78" weight="431" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="79" weight="7" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="80" weight="18" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="81" weight="71" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="82" weight="31" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="83" weight="113" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="84" weight="268" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="85" weight="11" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="86" weight="427" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="87" weight="109" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="88" weight="79" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="89" weight="444" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="90" weight="92" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="91" weight="92" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="92" weight="34" />
+      <edge source="Connaughton, Pat Milwaukee Bucks" target="GOAL" id="93" weight="646" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="94" weight="39" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="95" weight="55" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="96" weight="2" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="97" weight="53" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="98" weight="101" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="99" weight="267" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="100" weight="3" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="101" weight="305" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="102" weight="195" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="103" weight="93" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="104" weight="692" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="105" weight="159" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="106" weight="45" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="107" weight="10" />
+      <edge source="Portis, Bobby Milwaukee Bucks" target="GOAL" id="108" weight="461" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="109" weight="4" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="110" weight="13" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="111" weight="21" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Rollins, Ryan Milwaukee Bucks" id="112" weight="2" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="113" weight="19" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="114" weight="12" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="115" weight="2" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="116" weight="10" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="117" weight="1" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="118" weight="4" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="119" weight="1" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="120" weight="6" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="121" weight="5" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="122" weight="4" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="123" weight="5" />
+      <edge source="Antetokounmpo, Thanasis Milwaukee Bucks" target="GOAL" id="124" weight="40" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="125" weight="4" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="126" weight="66" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="127" weight="75" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="128" weight="5" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="129" weight="68" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="130" weight="364" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="131" weight="327" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="132" weight="304" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="133" weight="4" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="134" weight="460" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="135" weight="176" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="136" weight="1162" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="137" weight="121" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="138" weight="276" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="139" weight="12" />
+      <edge source="Antetokounmpo, Giannis Milwaukee Bucks" target="GOAL" id="140" weight="1421" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="141" weight="1" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="142" weight="23" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="143" weight="17" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="144" weight="17" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="145" weight="147" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="146" weight="61" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="147" weight="138" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="148" weight="559" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="149" weight="28" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="150" weight="470" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="151" weight="52" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="152" weight="251" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="153" weight="6" />
+      <edge source="Middleton, Khris Milwaukee Bucks" target="GOAL" id="154" weight="765" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="155" weight="1" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="156" weight="6" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="157" weight="19" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="158" weight="2" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="159" weight="3" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="160" weight="85" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="161" weight="77" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="162" weight="68" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="163" weight="205" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="164" weight="47" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="165" weight="394" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="166" weight="56" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="167" weight="68" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="168" weight="7" />
+      <edge source="Crowder, Jae Milwaukee Bucks" target="GOAL" id="169" weight="271" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="170" weight="8" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="171" weight="31" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="172" weight="1" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="173" weight="4" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="174" weight="43" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="175" weight="90" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="176" weight="131" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="177" weight="8" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="178" weight="151" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="179" weight="62" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="180" weight="31" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="181" weight="119" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="182" weight="58" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="183" weight="48" />
+      <edge source="Beverley, Patrick Milwaukee Bucks" target="GOAL" id="184" weight="239" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="185" weight="25" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="186" weight="15" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="187" weight="11" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="188" weight="128" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="189" weight="72" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="190" weight="58" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="191" weight="2" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="192" weight="269" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="193" weight="202" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="194" weight="56" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="195" weight="602" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="196" weight="43" />
+      <edge source="Lopez, Brook Milwaukee Bucks" target="GOAL" id="197" weight="470" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="198" weight="2" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="199" weight="6" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="200" weight="10" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="201" weight="7" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="202" weight="4" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="203" weight="5" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="204" weight="40" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="205" weight="24" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="206" weight="2" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="207" weight="17" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="208" weight="8" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="209" weight="1" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="210" weight="7" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="211" weight="47" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="212" weight="2" />
+      <edge source="Gallinari, Danilo Milwaukee Bucks" target="GOAL" id="213" weight="45" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="214" weight="8" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="215" weight="6" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="216" weight="11" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="217" weight="11" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="218" weight="1" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Connaughton, Pat Milwaukee Bucks" id="219" weight="8" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="220" weight="1" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="221" weight="6" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="222" weight="2" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Middleton, Khris Milwaukee Bucks" id="223" weight="2" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="224" weight="3" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Lillard, Damian Milwaukee Bucks" id="225" weight="2" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="226" weight="1" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="227" weight="1" />
+      <edge source="Livingston, Chris Milwaukee Bucks" target="GOAL" id="228" weight="17" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="229" weight="1" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="230" weight="1" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="Washington Jr., TyTy Milwaukee Bucks" id="231" weight="5" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="232" weight="5" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="233" weight="1" />
+      <edge source="Rollins, Ryan Milwaukee Bucks" target="GOAL" id="234" weight="7" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Livingston, Chris Milwaukee Bucks" id="235" weight="3" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Jackson Jr., Andre Milwaukee Bucks" id="236" weight="10" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Green, AJ Milwaukee Bucks" id="237" weight="7" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Rollins, Ryan Milwaukee Bucks" id="238" weight="5" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Beauchamp, MarJon Milwaukee Bucks" id="239" weight="15" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Beasley, Malik Milwaukee Bucks" id="240" weight="5" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Portis, Bobby Milwaukee Bucks" id="241" weight="1" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Antetokounmpo, Thanasis Milwaukee Bucks" id="242" weight="23" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Antetokounmpo, Giannis Milwaukee Bucks" id="243" weight="4" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Crowder, Jae Milwaukee Bucks" id="244" weight="5" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Beverley, Patrick Milwaukee Bucks" id="245" weight="2" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Lopez, Brook Milwaukee Bucks" id="246" weight="1" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="Gallinari, Danilo Milwaukee Bucks" id="247" weight="11" />
+      <edge source="Washington Jr., TyTy Milwaukee Bucks" target="GOAL" id="248" weight="14" />
+    </edges>
+  </graph>
+</gexf>

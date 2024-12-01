@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Westbrook, Russell LA Clippers" label="Westbrook, Russell LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Brown, Kobe LA Clippers" label="Brown, Kobe LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Diabaté, Moussa LA Clippers" label="Diabaté, Moussa LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Hyland, Bones LA Clippers" label="Hyland, Bones LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Boston Jr., Brandon LA Clippers" label="Boston Jr., Brandon LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Mann, Terance LA Clippers" label="Mann, Terance LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Coffey, Amir LA Clippers" label="Coffey, Amir LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Theis, Daniel LA Clippers" label="Theis, Daniel LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Zubac, Ivica LA Clippers" label="Zubac, Ivica LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Powell, Norman LA Clippers" label="Powell, Norman LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Plumlee, Mason LA Clippers" label="Plumlee, Mason LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Leonard, Kawhi LA Clippers" label="Leonard, Kawhi LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="George, Paul LA Clippers" label="George, Paul LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Harden, James LA Clippers" label="Harden, James LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Tucker, P.J. LA Clippers" label="Tucker, P.J. LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Miller, Jordan LA Clippers" label="Miller, Jordan LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="Moon, Xavier LA Clippers" label="Moon, Xavier LA Clippers">
+        <attvalues>
+          <attvalue for="0" value="LA Clippers" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Westbrook, Russell LA Clippers" target="Brown, Kobe LA Clippers" id="0" weight="34" />
+      <edge source="Westbrook, Russell LA Clippers" target="Diabaté, Moussa LA Clippers" id="1" weight="1" />
+      <edge source="Westbrook, Russell LA Clippers" target="Hyland, Bones LA Clippers" id="2" weight="29" />
+      <edge source="Westbrook, Russell LA Clippers" target="Boston Jr., Brandon LA Clippers" id="3" weight="12" />
+      <edge source="Westbrook, Russell LA Clippers" target="Mann, Terance LA Clippers" id="4" weight="82" />
+      <edge source="Westbrook, Russell LA Clippers" target="Coffey, Amir LA Clippers" id="5" weight="104" />
+      <edge source="Westbrook, Russell LA Clippers" target="Theis, Daniel LA Clippers" id="6" weight="138" />
+      <edge source="Westbrook, Russell LA Clippers" target="Zubac, Ivica LA Clippers" id="7" weight="144" />
+      <edge source="Westbrook, Russell LA Clippers" target="Powell, Norman LA Clippers" id="8" weight="267" />
+      <edge source="Westbrook, Russell LA Clippers" target="Plumlee, Mason LA Clippers" id="9" weight="92" />
+      <edge source="Westbrook, Russell LA Clippers" target="Leonard, Kawhi LA Clippers" id="10" weight="435" />
+      <edge source="Westbrook, Russell LA Clippers" target="George, Paul LA Clippers" id="11" weight="463" />
+      <edge source="Westbrook, Russell LA Clippers" target="Harden, James LA Clippers" id="12" weight="252" />
+      <edge source="Westbrook, Russell LA Clippers" target="Tucker, P.J. LA Clippers" id="13" weight="13" />
+      <edge source="Westbrook, Russell LA Clippers" target="GOAL" id="14" weight="974" />
+      <edge source="Brown, Kobe LA Clippers" target="Miller, Jordan LA Clippers" id="15" weight="3" />
+      <edge source="Brown, Kobe LA Clippers" target="Diabaté, Moussa LA Clippers" id="16" weight="4" />
+      <edge source="Brown, Kobe LA Clippers" target="Hyland, Bones LA Clippers" id="17" weight="64" />
+      <edge source="Brown, Kobe LA Clippers" target="Boston Jr., Brandon LA Clippers" id="18" weight="40" />
+      <edge source="Brown, Kobe LA Clippers" target="Moon, Xavier LA Clippers" id="19" weight="43" />
+      <edge source="Brown, Kobe LA Clippers" target="Mann, Terance LA Clippers" id="20" weight="30" />
+      <edge source="Brown, Kobe LA Clippers" target="Coffey, Amir LA Clippers" id="21" weight="23" />
+      <edge source="Brown, Kobe LA Clippers" target="Theis, Daniel LA Clippers" id="22" weight="17" />
+      <edge source="Brown, Kobe LA Clippers" target="Zubac, Ivica LA Clippers" id="23" weight="4" />
+      <edge source="Brown, Kobe LA Clippers" target="Powell, Norman LA Clippers" id="24" weight="27" />
+      <edge source="Brown, Kobe LA Clippers" target="Plumlee, Mason LA Clippers" id="25" weight="17" />
+      <edge source="Brown, Kobe LA Clippers" target="Leonard, Kawhi LA Clippers" id="26" weight="7" />
+      <edge source="Brown, Kobe LA Clippers" target="George, Paul LA Clippers" id="27" weight="11" />
+      <edge source="Brown, Kobe LA Clippers" target="Harden, James LA Clippers" id="28" weight="33" />
+      <edge source="Brown, Kobe LA Clippers" target="Westbrook, Russell LA Clippers" id="29" weight="77" />
+      <edge source="Brown, Kobe LA Clippers" target="GOAL" id="30" weight="97" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Miller, Jordan LA Clippers" id="31" weight="1" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Brown, Kobe LA Clippers" id="32" weight="7" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Hyland, Bones LA Clippers" id="33" weight="22" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Boston Jr., Brandon LA Clippers" id="34" weight="2" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Mann, Terance LA Clippers" id="35" weight="4" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Coffey, Amir LA Clippers" id="36" weight="8" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Powell, Norman LA Clippers" id="37" weight="8" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Leonard, Kawhi LA Clippers" id="38" weight="1" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Harden, James LA Clippers" id="39" weight="4" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Westbrook, Russell LA Clippers" id="40" weight="3" />
+      <edge source="Diabaté, Moussa LA Clippers" target="Tucker, P.J. LA Clippers" id="41" weight="1" />
+      <edge source="Diabaté, Moussa LA Clippers" target="GOAL" id="42" weight="11" />
+      <edge source="Hyland, Bones LA Clippers" target="Brown, Kobe LA Clippers" id="43" weight="50" />
+      <edge source="Hyland, Bones LA Clippers" target="Diabaté, Moussa LA Clippers" id="44" weight="15" />
+      <edge source="Hyland, Bones LA Clippers" target="Boston Jr., Brandon LA Clippers" id="45" weight="72" />
+      <edge source="Hyland, Bones LA Clippers" target="Moon, Xavier LA Clippers" id="46" weight="23" />
+      <edge source="Hyland, Bones LA Clippers" target="Mann, Terance LA Clippers" id="47" weight="46" />
+      <edge source="Hyland, Bones LA Clippers" target="Coffey, Amir LA Clippers" id="48" weight="81" />
+      <edge source="Hyland, Bones LA Clippers" target="Theis, Daniel LA Clippers" id="49" weight="44" />
+      <edge source="Hyland, Bones LA Clippers" target="Zubac, Ivica LA Clippers" id="50" weight="30" />
+      <edge source="Hyland, Bones LA Clippers" target="Powell, Norman LA Clippers" id="51" weight="76" />
+      <edge source="Hyland, Bones LA Clippers" target="Plumlee, Mason LA Clippers" id="52" weight="66" />
+      <edge source="Hyland, Bones LA Clippers" target="Leonard, Kawhi LA Clippers" id="53" weight="82" />
+      <edge source="Hyland, Bones LA Clippers" target="George, Paul LA Clippers" id="54" weight="103" />
+      <edge source="Hyland, Bones LA Clippers" target="Harden, James LA Clippers" id="55" weight="24" />
+      <edge source="Hyland, Bones LA Clippers" target="Westbrook, Russell LA Clippers" id="56" weight="42" />
+      <edge source="Hyland, Bones LA Clippers" target="Tucker, P.J. LA Clippers" id="57" weight="15" />
+      <edge source="Hyland, Bones LA Clippers" target="GOAL" id="58" weight="264" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Miller, Jordan LA Clippers" id="59" weight="5" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Brown, Kobe LA Clippers" id="60" weight="34" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Diabaté, Moussa LA Clippers" id="61" weight="1" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Hyland, Bones LA Clippers" id="62" weight="77" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Moon, Xavier LA Clippers" id="63" weight="48" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Mann, Terance LA Clippers" id="64" weight="20" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Coffey, Amir LA Clippers" id="65" weight="34" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Theis, Daniel LA Clippers" id="66" weight="15" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Zubac, Ivica LA Clippers" id="67" weight="2" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Powell, Norman LA Clippers" id="68" weight="13" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Plumlee, Mason LA Clippers" id="69" weight="19" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Leonard, Kawhi LA Clippers" id="70" weight="7" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="George, Paul LA Clippers" id="71" weight="3" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Harden, James LA Clippers" id="72" weight="23" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Westbrook, Russell LA Clippers" id="73" weight="19" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="Tucker, P.J. LA Clippers" id="74" weight="3" />
+      <edge source="Boston Jr., Brandon LA Clippers" target="GOAL" id="75" weight="49" />
+      <edge source="Mann, Terance LA Clippers" target="Brown, Kobe LA Clippers" id="76" weight="18" />
+      <edge source="Mann, Terance LA Clippers" target="Diabaté, Moussa LA Clippers" id="77" weight="2" />
+      <edge source="Mann, Terance LA Clippers" target="Hyland, Bones LA Clippers" id="78" weight="57" />
+      <edge source="Mann, Terance LA Clippers" target="Boston Jr., Brandon LA Clippers" id="79" weight="29" />
+      <edge source="Mann, Terance LA Clippers" target="Moon, Xavier LA Clippers" id="80" weight="20" />
+      <edge source="Mann, Terance LA Clippers" target="Coffey, Amir LA Clippers" id="81" weight="63" />
+      <edge source="Mann, Terance LA Clippers" target="Theis, Daniel LA Clippers" id="82" weight="30" />
+      <edge source="Mann, Terance LA Clippers" target="Zubac, Ivica LA Clippers" id="83" weight="123" />
+      <edge source="Mann, Terance LA Clippers" target="Powell, Norman LA Clippers" id="84" weight="77" />
+      <edge source="Mann, Terance LA Clippers" target="Plumlee, Mason LA Clippers" id="85" weight="38" />
+      <edge source="Mann, Terance LA Clippers" target="Leonard, Kawhi LA Clippers" id="86" weight="200" />
+      <edge source="Mann, Terance LA Clippers" target="George, Paul LA Clippers" id="87" weight="216" />
+      <edge source="Mann, Terance LA Clippers" target="Harden, James LA Clippers" id="88" weight="550" />
+      <edge source="Mann, Terance LA Clippers" target="Westbrook, Russell LA Clippers" id="89" weight="119" />
+      <edge source="Mann, Terance LA Clippers" target="Tucker, P.J. LA Clippers" id="90" weight="10" />
+      <edge source="Mann, Terance LA Clippers" target="GOAL" id="91" weight="434" />
+      <edge source="Coffey, Amir LA Clippers" target="Miller, Jordan LA Clippers" id="92" weight="2" />
+      <edge source="Coffey, Amir LA Clippers" target="Brown, Kobe LA Clippers" id="93" weight="19" />
+      <edge source="Coffey, Amir LA Clippers" target="Diabaté, Moussa LA Clippers" id="94" weight="6" />
+      <edge source="Coffey, Amir LA Clippers" target="Hyland, Bones LA Clippers" id="95" weight="94" />
+      <edge source="Coffey, Amir LA Clippers" target="Boston Jr., Brandon LA Clippers" id="96" weight="26" />
+      <edge source="Coffey, Amir LA Clippers" target="Moon, Xavier LA Clippers" id="97" weight="23" />
+      <edge source="Coffey, Amir LA Clippers" target="Mann, Terance LA Clippers" id="98" weight="67" />
+      <edge source="Coffey, Amir LA Clippers" target="Theis, Daniel LA Clippers" id="99" weight="60" />
+      <edge source="Coffey, Amir LA Clippers" target="Zubac, Ivica LA Clippers" id="100" weight="30" />
+      <edge source="Coffey, Amir LA Clippers" target="Powell, Norman LA Clippers" id="101" weight="71" />
+      <edge source="Coffey, Amir LA Clippers" target="Plumlee, Mason LA Clippers" id="102" weight="31" />
+      <edge source="Coffey, Amir LA Clippers" target="Leonard, Kawhi LA Clippers" id="103" weight="94" />
+      <edge source="Coffey, Amir LA Clippers" target="George, Paul LA Clippers" id="104" weight="62" />
+      <edge source="Coffey, Amir LA Clippers" target="Harden, James LA Clippers" id="105" weight="220" />
+      <edge source="Coffey, Amir LA Clippers" target="Westbrook, Russell LA Clippers" id="106" weight="140" />
+      <edge source="Coffey, Amir LA Clippers" target="Tucker, P.J. LA Clippers" id="107" weight="10" />
+      <edge source="Coffey, Amir LA Clippers" target="GOAL" id="108" weight="306" />
+      <edge source="Theis, Daniel LA Clippers" target="Brown, Kobe LA Clippers" id="109" weight="19" />
+      <edge source="Theis, Daniel LA Clippers" target="Hyland, Bones LA Clippers" id="110" weight="57" />
+      <edge source="Theis, Daniel LA Clippers" target="Boston Jr., Brandon LA Clippers" id="111" weight="29" />
+      <edge source="Theis, Daniel LA Clippers" target="Moon, Xavier LA Clippers" id="112" weight="17" />
+      <edge source="Theis, Daniel LA Clippers" target="Mann, Terance LA Clippers" id="113" weight="22" />
+      <edge source="Theis, Daniel LA Clippers" target="Coffey, Amir LA Clippers" id="114" weight="51" />
+      <edge source="Theis, Daniel LA Clippers" target="Powell, Norman LA Clippers" id="115" weight="125" />
+      <edge source="Theis, Daniel LA Clippers" target="Leonard, Kawhi LA Clippers" id="116" weight="73" />
+      <edge source="Theis, Daniel LA Clippers" target="George, Paul LA Clippers" id="117" weight="87" />
+      <edge source="Theis, Daniel LA Clippers" target="Harden, James LA Clippers" id="118" weight="299" />
+      <edge source="Theis, Daniel LA Clippers" target="Westbrook, Russell LA Clippers" id="119" weight="176" />
+      <edge source="Theis, Daniel LA Clippers" target="Tucker, P.J. LA Clippers" id="120" weight="5" />
+      <edge source="Theis, Daniel LA Clippers" target="GOAL" id="121" weight="271" />
+      <edge source="Zubac, Ivica LA Clippers" target="Miller, Jordan LA Clippers" id="122" weight="2" />
+      <edge source="Zubac, Ivica LA Clippers" target="Brown, Kobe LA Clippers" id="123" weight="1" />
+      <edge source="Zubac, Ivica LA Clippers" target="Hyland, Bones LA Clippers" id="124" weight="49" />
+      <edge source="Zubac, Ivica LA Clippers" target="Boston Jr., Brandon LA Clippers" id="125" weight="9" />
+      <edge source="Zubac, Ivica LA Clippers" target="Mann, Terance LA Clippers" id="126" weight="145" />
+      <edge source="Zubac, Ivica LA Clippers" target="Coffey, Amir LA Clippers" id="127" weight="40" />
+      <edge source="Zubac, Ivica LA Clippers" target="Powell, Norman LA Clippers" id="128" weight="97" />
+      <edge source="Zubac, Ivica LA Clippers" target="Leonard, Kawhi LA Clippers" id="129" weight="192" />
+      <edge source="Zubac, Ivica LA Clippers" target="George, Paul LA Clippers" id="130" weight="385" />
+      <edge source="Zubac, Ivica LA Clippers" target="Harden, James LA Clippers" id="131" weight="985" />
+      <edge source="Zubac, Ivica LA Clippers" target="Westbrook, Russell LA Clippers" id="132" weight="249" />
+      <edge source="Zubac, Ivica LA Clippers" target="Tucker, P.J. LA Clippers" id="133" weight="11" />
+      <edge source="Zubac, Ivica LA Clippers" target="GOAL" id="134" weight="436" />
+      <edge source="Powell, Norman LA Clippers" target="Miller, Jordan LA Clippers" id="135" weight="1" />
+      <edge source="Powell, Norman LA Clippers" target="Brown, Kobe LA Clippers" id="136" weight="11" />
+      <edge source="Powell, Norman LA Clippers" target="Diabaté, Moussa LA Clippers" id="137" weight="3" />
+      <edge source="Powell, Norman LA Clippers" target="Hyland, Bones LA Clippers" id="138" weight="71" />
+      <edge source="Powell, Norman LA Clippers" target="Boston Jr., Brandon LA Clippers" id="139" weight="12" />
+      <edge source="Powell, Norman LA Clippers" target="Mann, Terance LA Clippers" id="140" weight="61" />
+      <edge source="Powell, Norman LA Clippers" target="Coffey, Amir LA Clippers" id="141" weight="73" />
+      <edge source="Powell, Norman LA Clippers" target="Theis, Daniel LA Clippers" id="142" weight="40" />
+      <edge source="Powell, Norman LA Clippers" target="Zubac, Ivica LA Clippers" id="143" weight="41" />
+      <edge source="Powell, Norman LA Clippers" target="Plumlee, Mason LA Clippers" id="144" weight="23" />
+      <edge source="Powell, Norman LA Clippers" target="Leonard, Kawhi LA Clippers" id="145" weight="99" />
+      <edge source="Powell, Norman LA Clippers" target="George, Paul LA Clippers" id="146" weight="127" />
+      <edge source="Powell, Norman LA Clippers" target="Harden, James LA Clippers" id="147" weight="258" />
+      <edge source="Powell, Norman LA Clippers" target="Westbrook, Russell LA Clippers" id="148" weight="245" />
+      <edge source="Powell, Norman LA Clippers" target="Tucker, P.J. LA Clippers" id="149" weight="7" />
+      <edge source="Powell, Norman LA Clippers" target="GOAL" id="150" weight="302" />
+      <edge source="Plumlee, Mason LA Clippers" target="Miller, Jordan LA Clippers" id="151" weight="1" />
+      <edge source="Plumlee, Mason LA Clippers" target="Brown, Kobe LA Clippers" id="152" weight="16" />
+      <edge source="Plumlee, Mason LA Clippers" target="Hyland, Bones LA Clippers" id="153" weight="104" />
+      <edge source="Plumlee, Mason LA Clippers" target="Boston Jr., Brandon LA Clippers" id="154" weight="36" />
+      <edge source="Plumlee, Mason LA Clippers" target="Moon, Xavier LA Clippers" id="155" weight="30" />
+      <edge source="Plumlee, Mason LA Clippers" target="Mann, Terance LA Clippers" id="156" weight="43" />
+      <edge source="Plumlee, Mason LA Clippers" target="Coffey, Amir LA Clippers" id="157" weight="48" />
+      <edge source="Plumlee, Mason LA Clippers" target="Theis, Daniel LA Clippers" id="158" weight="1" />
+      <edge source="Plumlee, Mason LA Clippers" target="Powell, Norman LA Clippers" id="159" weight="77" />
+      <edge source="Plumlee, Mason LA Clippers" target="Leonard, Kawhi LA Clippers" id="160" weight="50" />
+      <edge source="Plumlee, Mason LA Clippers" target="George, Paul LA Clippers" id="161" weight="71" />
+      <edge source="Plumlee, Mason LA Clippers" target="Harden, James LA Clippers" id="162" weight="238" />
+      <edge source="Plumlee, Mason LA Clippers" target="Westbrook, Russell LA Clippers" id="163" weight="139" />
+      <edge source="Plumlee, Mason LA Clippers" target="Tucker, P.J. LA Clippers" id="164" weight="7" />
+      <edge source="Plumlee, Mason LA Clippers" target="GOAL" id="165" weight="250" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Brown, Kobe LA Clippers" id="166" weight="6" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Diabaté, Moussa LA Clippers" id="167" weight="1" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Hyland, Bones LA Clippers" id="168" weight="82" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Boston Jr., Brandon LA Clippers" id="169" weight="5" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Mann, Terance LA Clippers" id="170" weight="182" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Coffey, Amir LA Clippers" id="171" weight="100" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Theis, Daniel LA Clippers" id="172" weight="75" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Zubac, Ivica LA Clippers" id="173" weight="197" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Powell, Norman LA Clippers" id="174" weight="180" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Plumlee, Mason LA Clippers" id="175" weight="41" />
+      <edge source="Leonard, Kawhi LA Clippers" target="George, Paul LA Clippers" id="176" weight="364" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Harden, James LA Clippers" id="177" weight="526" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Westbrook, Russell LA Clippers" id="178" weight="274" />
+      <edge source="Leonard, Kawhi LA Clippers" target="Tucker, P.J. LA Clippers" id="179" weight="10" />
+      <edge source="Leonard, Kawhi LA Clippers" target="GOAL" id="180" weight="737" />
+      <edge source="George, Paul LA Clippers" target="Brown, Kobe LA Clippers" id="181" weight="11" />
+      <edge source="George, Paul LA Clippers" target="Hyland, Bones LA Clippers" id="182" weight="84" />
+      <edge source="George, Paul LA Clippers" target="Boston Jr., Brandon LA Clippers" id="183" weight="8" />
+      <edge source="George, Paul LA Clippers" target="Mann, Terance LA Clippers" id="184" weight="224" />
+      <edge source="George, Paul LA Clippers" target="Coffey, Amir LA Clippers" id="185" weight="66" />
+      <edge source="George, Paul LA Clippers" target="Theis, Daniel LA Clippers" id="186" weight="72" />
+      <edge source="George, Paul LA Clippers" target="Zubac, Ivica LA Clippers" id="187" weight="244" />
+      <edge source="George, Paul LA Clippers" target="Powell, Norman LA Clippers" id="188" weight="139" />
+      <edge source="George, Paul LA Clippers" target="Plumlee, Mason LA Clippers" id="189" weight="60" />
+      <edge source="George, Paul LA Clippers" target="Leonard, Kawhi LA Clippers" id="190" weight="351" />
+      <edge source="George, Paul LA Clippers" target="Harden, James LA Clippers" id="191" weight="891" />
+      <edge source="George, Paul LA Clippers" target="Westbrook, Russell LA Clippers" id="192" weight="350" />
+      <edge source="George, Paul LA Clippers" target="Tucker, P.J. LA Clippers" id="193" weight="26" />
+      <edge source="George, Paul LA Clippers" target="GOAL" id="194" weight="810" />
+      <edge source="Harden, James LA Clippers" target="Brown, Kobe LA Clippers" id="195" weight="19" />
+      <edge source="Harden, James LA Clippers" target="Diabaté, Moussa LA Clippers" id="196" weight="3" />
+      <edge source="Harden, James LA Clippers" target="Hyland, Bones LA Clippers" id="197" weight="31" />
+      <edge source="Harden, James LA Clippers" target="Boston Jr., Brandon LA Clippers" id="198" weight="12" />
+      <edge source="Harden, James LA Clippers" target="Mann, Terance LA Clippers" id="199" weight="449" />
+      <edge source="Harden, James LA Clippers" target="Coffey, Amir LA Clippers" id="200" weight="203" />
+      <edge source="Harden, James LA Clippers" target="Theis, Daniel LA Clippers" id="201" weight="165" />
+      <edge source="Harden, James LA Clippers" target="Zubac, Ivica LA Clippers" id="202" weight="452" />
+      <edge source="Harden, James LA Clippers" target="Powell, Norman LA Clippers" id="203" weight="289" />
+      <edge source="Harden, James LA Clippers" target="Plumlee, Mason LA Clippers" id="204" weight="105" />
+      <edge source="Harden, James LA Clippers" target="Leonard, Kawhi LA Clippers" id="205" weight="950" />
+      <edge source="Harden, James LA Clippers" target="George, Paul LA Clippers" id="206" weight="1046" />
+      <edge source="Harden, James LA Clippers" target="Westbrook, Russell LA Clippers" id="207" weight="272" />
+      <edge source="Harden, James LA Clippers" target="Tucker, P.J. LA Clippers" id="208" weight="25" />
+      <edge source="Harden, James LA Clippers" target="GOAL" id="209" weight="1804" />
+      <edge source="Tucker, P.J. LA Clippers" target="Diabaté, Moussa LA Clippers" id="210" weight="1" />
+      <edge source="Tucker, P.J. LA Clippers" target="Hyland, Bones LA Clippers" id="211" weight="28" />
+      <edge source="Tucker, P.J. LA Clippers" target="Boston Jr., Brandon LA Clippers" id="212" weight="8" />
+      <edge source="Tucker, P.J. LA Clippers" target="Moon, Xavier LA Clippers" id="213" weight="9" />
+      <edge source="Tucker, P.J. LA Clippers" target="Mann, Terance LA Clippers" id="214" weight="12" />
+      <edge source="Tucker, P.J. LA Clippers" target="Coffey, Amir LA Clippers" id="215" weight="14" />
+      <edge source="Tucker, P.J. LA Clippers" target="Theis, Daniel LA Clippers" id="216" weight="4" />
+      <edge source="Tucker, P.J. LA Clippers" target="Zubac, Ivica LA Clippers" id="217" weight="5" />
+      <edge source="Tucker, P.J. LA Clippers" target="Powell, Norman LA Clippers" id="218" weight="18" />
+      <edge source="Tucker, P.J. LA Clippers" target="Plumlee, Mason LA Clippers" id="219" weight="3" />
+      <edge source="Tucker, P.J. LA Clippers" target="Leonard, Kawhi LA Clippers" id="220" weight="30" />
+      <edge source="Tucker, P.J. LA Clippers" target="George, Paul LA Clippers" id="221" weight="51" />
+      <edge source="Tucker, P.J. LA Clippers" target="Harden, James LA Clippers" id="222" weight="74" />
+      <edge source="Tucker, P.J. LA Clippers" target="Westbrook, Russell LA Clippers" id="223" weight="52" />
+      <edge source="Tucker, P.J. LA Clippers" target="GOAL" id="224" weight="85" />
+      <edge source="Miller, Jordan LA Clippers" target="Brown, Kobe LA Clippers" id="225" weight="3" />
+      <edge source="Miller, Jordan LA Clippers" target="Boston Jr., Brandon LA Clippers" id="226" weight="4" />
+      <edge source="Miller, Jordan LA Clippers" target="Moon, Xavier LA Clippers" id="227" weight="5" />
+      <edge source="Miller, Jordan LA Clippers" target="Mann, Terance LA Clippers" id="228" weight="1" />
+      <edge source="Miller, Jordan LA Clippers" target="Coffey, Amir LA Clippers" id="229" weight="4" />
+      <edge source="Miller, Jordan LA Clippers" target="Zubac, Ivica LA Clippers" id="230" weight="1" />
+      <edge source="Miller, Jordan LA Clippers" target="Powell, Norman LA Clippers" id="231" weight="1" />
+      <edge source="Miller, Jordan LA Clippers" target="Plumlee, Mason LA Clippers" id="232" weight="2" />
+      <edge source="Miller, Jordan LA Clippers" target="GOAL" id="233" weight="2" />
+      <edge source="Moon, Xavier LA Clippers" target="Miller, Jordan LA Clippers" id="234" weight="2" />
+      <edge source="Moon, Xavier LA Clippers" target="Brown, Kobe LA Clippers" id="235" weight="29" />
+      <edge source="Moon, Xavier LA Clippers" target="Hyland, Bones LA Clippers" id="236" weight="29" />
+      <edge source="Moon, Xavier LA Clippers" target="Boston Jr., Brandon LA Clippers" id="237" weight="42" />
+      <edge source="Moon, Xavier LA Clippers" target="Mann, Terance LA Clippers" id="238" weight="20" />
+      <edge source="Moon, Xavier LA Clippers" target="Coffey, Amir LA Clippers" id="239" weight="33" />
+      <edge source="Moon, Xavier LA Clippers" target="Theis, Daniel LA Clippers" id="240" weight="20" />
+      <edge source="Moon, Xavier LA Clippers" target="Powell, Norman LA Clippers" id="241" weight="2" />
+      <edge source="Moon, Xavier LA Clippers" target="Plumlee, Mason LA Clippers" id="242" weight="34" />
+      <edge source="Moon, Xavier LA Clippers" target="Tucker, P.J. LA Clippers" id="243" weight="4" />
+      <edge source="Moon, Xavier LA Clippers" target="GOAL" id="244" weight="54" />
+    </edges>
+  </graph>
+</gexf>

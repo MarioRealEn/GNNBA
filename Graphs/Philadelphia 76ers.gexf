@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Maxey, Tyrese Philadelphia 76ers" label="Maxey, Tyrese Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Council IV, Ricky Philadelphia 76ers" label="Council IV, Ricky Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Dowtin Jr., Jeff Philadelphia 76ers" label="Dowtin Jr., Jeff Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Martin, KJ Philadelphia 76ers" label="Martin, KJ Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Reed, Paul Philadelphia 76ers" label="Reed, Paul Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Melton, De'Anthony Philadelphia 76ers" label="Melton, De'Anthony Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Bamba, Mo Philadelphia 76ers" label="Bamba, Mo Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Hield, Buddy Philadelphia 76ers" label="Hield, Buddy Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Payne, Cameron Philadelphia 76ers" label="Payne, Cameron Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Oubre Jr., Kelly Philadelphia 76ers" label="Oubre Jr., Kelly Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Embiid, Joel Philadelphia 76ers" label="Embiid, Joel Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Covington, Robert Philadelphia 76ers" label="Covington, Robert Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Harris, Tobias Philadelphia 76ers" label="Harris, Tobias Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Batum, Nicolas Philadelphia 76ers" label="Batum, Nicolas Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Lowry, Kyle Philadelphia 76ers" label="Lowry, Kyle Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="Smith, Terquavion Philadelphia 76ers" label="Smith, Terquavion Philadelphia 76ers">
+        <attvalues>
+          <attvalue for="0" value="Philadelphia 76ers" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="0" weight="34" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="1" weight="4" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="2" weight="103" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="3" weight="284" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="4" weight="323" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="5" weight="116" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="6" weight="230" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="7" weight="96" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="8" weight="390" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="9" weight="848" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="10" weight="40" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="11" weight="736" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="12" weight="289" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="13" weight="221" />
+      <edge source="Maxey, Tyrese Philadelphia 76ers" target="GOAL" id="14" weight="1206" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="15" weight="20" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="16" weight="11" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="17" weight="13" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="18" weight="15" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="19" weight="36" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="20" weight="5" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="21" weight="23" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="22" weight="34" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="23" weight="18" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="24" weight="3" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="25" weight="3" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="26" weight="6" />
+      <edge source="Council IV, Ricky Philadelphia 76ers" target="GOAL" id="27" weight="52" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="28" weight="13" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="29" weight="4" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="30" weight="18" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="31" weight="32" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="32" weight="10" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="33" weight="2" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="34" weight="6" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="35" weight="35" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="36" weight="17" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="37" weight="33" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="38" weight="10" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="39" weight="20" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="40" weight="8" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="41" weight="8" />
+      <edge source="Dowtin Jr., Jeff Philadelphia 76ers" target="GOAL" id="42" weight="86" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="43" weight="19" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="44" weight="29" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="45" weight="35" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="46" weight="29" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="47" weight="111" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="48" weight="8" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="49" weight="10" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="50" weight="57" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="51" weight="77" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="52" weight="63" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="53" weight="10" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="54" weight="3" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="55" weight="29" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="56" weight="8" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="57" weight="18" />
+      <edge source="Martin, KJ Philadelphia 76ers" target="GOAL" id="58" weight="162" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="59" weight="13" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="60" weight="19" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="61" weight="29" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="62" weight="35" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="63" weight="521" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="64" weight="69" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="65" weight="3" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="66" weight="111" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="67" weight="149" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="68" weight="129" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="69" weight="3" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="70" weight="18" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="71" weight="156" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="72" weight="42" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="73" weight="56" />
+      <edge source="Reed, Paul Philadelphia 76ers" target="GOAL" id="74" weight="396" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="75" weight="1" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="76" weight="7" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="77" weight="11" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="78" weight="59" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="79" weight="456" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="80" weight="20" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="81" weight="4" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="82" weight="9" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="83" weight="57" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="84" weight="285" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="85" weight="38" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="86" weight="232" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="87" weight="60" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="88" weight="10" />
+      <edge source="Melton, De'Anthony Philadelphia 76ers" target="GOAL" id="89" weight="362" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="90" weight="6" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="91" weight="10" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="92" weight="6" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="93" weight="18" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="94" weight="5" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="95" weight="184" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="96" weight="21" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="97" weight="30" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="98" weight="61" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="99" weight="47" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="100" weight="5" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="101" weight="74" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="102" weight="21" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="103" weight="125" />
+      <edge source="Bamba, Mo Philadelphia 76ers" target="GOAL" id="104" weight="134" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="105" weight="35" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="106" weight="9" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="107" weight="45" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="108" weight="40" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="109" weight="81" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="110" weight="292" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="111" weight="10" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="112" weight="23" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="113" weight="190" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="114" weight="116" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="115" weight="17" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="116" weight="77" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="117" weight="49" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="118" weight="139" />
+      <edge source="Hield, Buddy Philadelphia 76ers" target="GOAL" id="119" weight="329" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="120" weight="34" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="121" weight="4" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="122" weight="10" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="123" weight="57" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="124" weight="106" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="125" weight="112" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="126" weight="12" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="127" weight="34" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="128" weight="163" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="129" weight="137" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="130" weight="36" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="131" weight="163" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="132" weight="73" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="133" weight="65" />
+      <edge source="Payne, Cameron Philadelphia 76ers" target="GOAL" id="134" weight="267" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="135" weight="19" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="136" weight="5" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="137" weight="14" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="138" weight="46" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="139" weight="115" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="140" weight="443" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="141" weight="61" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="142" weight="51" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="143" weight="87" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="144" weight="103" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="145" weight="128" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="146" weight="14" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="147" weight="138" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="148" weight="71" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="149" weight="106" />
+      <edge source="Oubre Jr., Kelly Philadelphia 76ers" target="GOAL" id="150" weight="366" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="151" weight="1" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="152" weight="10" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="153" weight="9" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="154" weight="661" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="155" weight="178" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="156" weight="14" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="157" weight="17" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="158" weight="111" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="159" weight="35" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="160" weight="233" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="161" weight="113" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="162" weight="27" />
+      <edge source="Embiid, Joel Philadelphia 76ers" target="GOAL" id="163" weight="592" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="164" weight="5" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="165" weight="14" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="166" weight="126" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="167" weight="72" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="168" weight="6" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="169" weight="9" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="170" weight="43" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="171" weight="29" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="172" weight="3" />
+      <edge source="Covington, Robert Philadelphia 76ers" target="GOAL" id="173" weight="88" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="174" weight="11" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Smith, Terquavion Philadelphia 76ers" id="175" weight="4" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="176" weight="17" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="177" weight="19" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="178" weight="148" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="179" weight="712" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="180" weight="220" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="181" weight="70" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="182" weight="115" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="183" weight="148" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="184" weight="184" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="185" weight="244" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="186" weight="23" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="187" weight="124" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="188" weight="166" />
+      <edge source="Harris, Tobias Philadelphia 76ers" target="GOAL" id="189" weight="646" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="190" weight="9" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="191" weight="12" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="192" weight="14" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="193" weight="54" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="194" weight="455" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="195" weight="80" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="196" weight="22" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="197" weight="71" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="198" weight="104" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="199" weight="137" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="200" weight="161" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Covington, Robert Philadelphia 76ers" id="201" weight="7" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="202" weight="120" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="Lowry, Kyle Philadelphia 76ers" id="203" weight="103" />
+      <edge source="Batum, Nicolas Philadelphia 76ers" target="GOAL" id="204" weight="389" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="205" weight="9" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="206" weight="6" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="207" weight="19" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="208" weight="34" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Maxey, Tyrese Philadelphia 76ers" id="209" weight="300" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Melton, De'Anthony Philadelphia 76ers" id="210" weight="11" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="211" weight="76" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="212" weight="127" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="213" weight="79" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="214" weight="173" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Embiid, Joel Philadelphia 76ers" id="215" weight="34" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="216" weight="148" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="Batum, Nicolas Philadelphia 76ers" id="217" weight="92" />
+      <edge source="Lowry, Kyle Philadelphia 76ers" target="GOAL" id="218" weight="308" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Council IV, Ricky Philadelphia 76ers" id="219" weight="22" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Dowtin Jr., Jeff Philadelphia 76ers" id="220" weight="3" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Martin, KJ Philadelphia 76ers" id="221" weight="22" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Reed, Paul Philadelphia 76ers" id="222" weight="16" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Bamba, Mo Philadelphia 76ers" id="223" weight="7" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Hield, Buddy Philadelphia 76ers" id="224" weight="6" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Payne, Cameron Philadelphia 76ers" id="225" weight="6" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Oubre Jr., Kelly Philadelphia 76ers" id="226" weight="6" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="Harris, Tobias Philadelphia 76ers" id="227" weight="5" />
+      <edge source="Smith, Terquavion Philadelphia 76ers" target="GOAL" id="228" weight="33" />
+    </edges>
+  </graph>
+</gexf>

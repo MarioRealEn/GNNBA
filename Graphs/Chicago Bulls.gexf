@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Funk, Andrew Chicago Bulls" label="Funk, Andrew Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Terry, Dalen Chicago Bulls" label="Terry, Dalen Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Drell, Henri Chicago Bulls" label="Drell, Henri Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Carter, Jevon Chicago Bulls" label="Carter, Jevon Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="White, Coby Chicago Bulls" label="White, Coby Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Bitim, Onuralp Chicago Bulls" label="Bitim, Onuralp Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Sanogo, Adama Chicago Bulls" label="Sanogo, Adama Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Phillips, Julian Chicago Bulls" label="Phillips, Julian Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Dosunmu, Ayo Chicago Bulls" label="Dosunmu, Ayo Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Williams, Patrick Chicago Bulls" label="Williams, Patrick Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Green, Javonte Chicago Bulls" label="Green, Javonte Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Craig, Torrey Chicago Bulls" label="Craig, Torrey Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Caruso, Alex Chicago Bulls" label="Caruso, Alex Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="LaVine, Zach Chicago Bulls" label="LaVine, Zach Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Drummond, Andre Chicago Bulls" label="Drummond, Andre Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="Vučević, Nikola Chicago Bulls" label="Vučević, Nikola Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="DeRozan, DeMar Chicago Bulls" label="DeRozan, DeMar Chicago Bulls">
+        <attvalues>
+          <attvalue for="0" value="Chicago Bulls" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Funk, Andrew Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="0" weight="5" />
+      <edge source="Funk, Andrew Chicago Bulls" target="Drell, Henri Chicago Bulls" id="1" weight="1" />
+      <edge source="Funk, Andrew Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="2" weight="2" />
+      <edge source="Funk, Andrew Chicago Bulls" target="GOAL" id="3" weight="5" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="4" weight="29" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Funk, Andrew Chicago Bulls" id="5" weight="3" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="6" weight="16" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="7" weight="18" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Drell, Henri Chicago Bulls" id="8" weight="6" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="9" weight="141" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="10" weight="20" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Green, Javonte Chicago Bulls" id="11" weight="13" />
+      <edge source="Terry, Dalen Chicago Bulls" target="White, Coby Chicago Bulls" id="12" weight="149" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="13" weight="57" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="14" weight="40" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="15" weight="70" />
+      <edge source="Terry, Dalen Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="16" weight="7" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="17" weight="45" />
+      <edge source="Terry, Dalen Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="18" weight="66" />
+      <edge source="Terry, Dalen Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="19" weight="126" />
+      <edge source="Terry, Dalen Chicago Bulls" target="GOAL" id="20" weight="286" />
+      <edge source="Drell, Henri Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="21" weight="1" />
+      <edge source="Drell, Henri Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="22" weight="13" />
+      <edge source="Drell, Henri Chicago Bulls" target="Green, Javonte Chicago Bulls" id="23" weight="2" />
+      <edge source="Drell, Henri Chicago Bulls" target="White, Coby Chicago Bulls" id="24" weight="5" />
+      <edge source="Drell, Henri Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="25" weight="8" />
+      <edge source="Drell, Henri Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="26" weight="1" />
+      <edge source="Drell, Henri Chicago Bulls" target="GOAL" id="27" weight="14" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="28" weight="19" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Funk, Andrew Chicago Bulls" id="29" weight="4" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="30" weight="9" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="31" weight="23" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="32" weight="61" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Drell, Henri Chicago Bulls" id="33" weight="4" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="34" weight="147" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="35" weight="49" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Green, Javonte Chicago Bulls" id="36" weight="9" />
+      <edge source="Carter, Jevon Chicago Bulls" target="White, Coby Chicago Bulls" id="37" weight="165" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="38" weight="71" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="39" weight="101" />
+      <edge source="Carter, Jevon Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="40" weight="44" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="41" weight="100" />
+      <edge source="Carter, Jevon Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="42" weight="120" />
+      <edge source="Carter, Jevon Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="43" weight="182" />
+      <edge source="Carter, Jevon Chicago Bulls" target="GOAL" id="44" weight="317" />
+      <edge source="White, Coby Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="45" weight="25" />
+      <edge source="White, Coby Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="46" weight="1" />
+      <edge source="White, Coby Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="47" weight="47" />
+      <edge source="White, Coby Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="48" weight="122" />
+      <edge source="White, Coby Chicago Bulls" target="Drell, Henri Chicago Bulls" id="49" weight="6" />
+      <edge source="White, Coby Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="50" weight="469" />
+      <edge source="White, Coby Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="51" weight="290" />
+      <edge source="White, Coby Chicago Bulls" target="Green, Javonte Chicago Bulls" id="52" weight="35" />
+      <edge source="White, Coby Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="53" weight="150" />
+      <edge source="White, Coby Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="54" weight="138" />
+      <edge source="White, Coby Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="55" weight="449" />
+      <edge source="White, Coby Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="56" weight="261" />
+      <edge source="White, Coby Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="57" weight="118" />
+      <edge source="White, Coby Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="58" weight="859" />
+      <edge source="White, Coby Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="59" weight="1077" />
+      <edge source="White, Coby Chicago Bulls" target="GOAL" id="60" weight="1312" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Funk, Andrew Chicago Bulls" id="61" weight="1" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="62" weight="1" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="63" weight="3" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="64" weight="19" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Drell, Henri Chicago Bulls" id="65" weight="1" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="66" weight="43" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Green, Javonte Chicago Bulls" id="67" weight="5" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="White, Coby Chicago Bulls" id="68" weight="39" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="69" weight="12" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="70" weight="12" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="71" weight="21" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="72" weight="11" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="73" weight="24" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="74" weight="21" />
+      <edge source="Bitim, Onuralp Chicago Bulls" target="GOAL" id="75" weight="45" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="76" weight="2" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="77" weight="14" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Drell, Henri Chicago Bulls" id="78" weight="3" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Green, Javonte Chicago Bulls" id="79" weight="1" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="White, Coby Chicago Bulls" id="80" weight="11" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="81" weight="13" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="82" weight="3" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="83" weight="2" />
+      <edge source="Sanogo, Adama Chicago Bulls" target="GOAL" id="84" weight="4" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="85" weight="5" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="86" weight="1" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="87" weight="17" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="88" weight="38" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="89" weight="3" />
+      <edge source="Phillips, Julian Chicago Bulls" target="White, Coby Chicago Bulls" id="90" weight="56" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="91" weight="21" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="92" weight="10" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="93" weight="14" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="94" weight="8" />
+      <edge source="Phillips, Julian Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="95" weight="13" />
+      <edge source="Phillips, Julian Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="96" weight="26" />
+      <edge source="Phillips, Julian Chicago Bulls" target="GOAL" id="97" weight="44" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="98" weight="47" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="99" weight="30" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="100" weight="96" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="101" weight="111" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Green, Javonte Chicago Bulls" id="102" weight="16" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="White, Coby Chicago Bulls" id="103" weight="461" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="104" weight="149" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="105" weight="124" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="106" weight="271" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="107" weight="87" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="108" weight="92" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="109" weight="531" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="110" weight="555" />
+      <edge source="Dosunmu, Ayo Chicago Bulls" target="GOAL" id="111" weight="745" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="112" weight="4" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="113" weight="41" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="114" weight="129" />
+      <edge source="Williams, Patrick Chicago Bulls" target="White, Coby Chicago Bulls" id="115" weight="360" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="116" weight="67" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="117" weight="15" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="118" weight="91" />
+      <edge source="Williams, Patrick Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="119" weight="82" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="120" weight="49" />
+      <edge source="Williams, Patrick Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="121" weight="129" />
+      <edge source="Williams, Patrick Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="122" weight="192" />
+      <edge source="Williams, Patrick Chicago Bulls" target="GOAL" id="123" weight="260" />
+      <edge source="Green, Javonte Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="124" weight="1" />
+      <edge source="Green, Javonte Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="125" weight="1" />
+      <edge source="Green, Javonte Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="126" weight="19" />
+      <edge source="Green, Javonte Chicago Bulls" target="Drell, Henri Chicago Bulls" id="127" weight="1" />
+      <edge source="Green, Javonte Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="128" weight="33" />
+      <edge source="Green, Javonte Chicago Bulls" target="White, Coby Chicago Bulls" id="129" weight="59" />
+      <edge source="Green, Javonte Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="130" weight="14" />
+      <edge source="Green, Javonte Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="131" weight="3" />
+      <edge source="Green, Javonte Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="132" weight="46" />
+      <edge source="Green, Javonte Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="133" weight="2" />
+      <edge source="Green, Javonte Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="134" weight="9" />
+      <edge source="Green, Javonte Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="135" weight="65" />
+      <edge source="Green, Javonte Chicago Bulls" target="GOAL" id="136" weight="59" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="137" weight="10" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Funk, Andrew Chicago Bulls" id="138" weight="1" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="139" weight="3" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="140" weight="7" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="141" weight="41" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Drell, Henri Chicago Bulls" id="142" weight="1" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="143" weight="172" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="144" weight="19" />
+      <edge source="Craig, Torrey Chicago Bulls" target="White, Coby Chicago Bulls" id="145" weight="274" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="146" weight="90" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="147" weight="80" />
+      <edge source="Craig, Torrey Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="148" weight="70" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="149" weight="35" />
+      <edge source="Craig, Torrey Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="150" weight="122" />
+      <edge source="Craig, Torrey Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="151" weight="197" />
+      <edge source="Craig, Torrey Chicago Bulls" target="GOAL" id="152" weight="243" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="153" weight="16" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="154" weight="9" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="155" weight="53" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="156" weight="364" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="157" weight="82" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Green, Javonte Chicago Bulls" id="158" weight="17" />
+      <edge source="Caruso, Alex Chicago Bulls" target="White, Coby Chicago Bulls" id="159" weight="672" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="160" weight="114" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="161" weight="50" />
+      <edge source="Caruso, Alex Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="162" weight="150" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="163" weight="129" />
+      <edge source="Caruso, Alex Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="164" weight="488" />
+      <edge source="Caruso, Alex Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="165" weight="737" />
+      <edge source="Caruso, Alex Chicago Bulls" target="GOAL" id="166" weight="813" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="167" weight="6" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="168" weight="57" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="169" weight="32" />
+      <edge source="LaVine, Zach Chicago Bulls" target="White, Coby Chicago Bulls" id="170" weight="315" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="171" weight="28" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="172" weight="30" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="173" weight="98" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="174" weight="23" />
+      <edge source="LaVine, Zach Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="175" weight="301" />
+      <edge source="LaVine, Zach Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="176" weight="170" />
+      <edge source="LaVine, Zach Chicago Bulls" target="GOAL" id="177" weight="291" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="178" weight="12" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="179" weight="5" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="180" weight="45" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="181" weight="129" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="182" weight="31" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Green, Javonte Chicago Bulls" id="183" weight="5" />
+      <edge source="Drummond, Andre Chicago Bulls" target="White, Coby Chicago Bulls" id="184" weight="189" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="185" weight="106" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="186" weight="36" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="187" weight="153" />
+      <edge source="Drummond, Andre Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="188" weight="24" />
+      <edge source="Drummond, Andre Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="189" weight="12" />
+      <edge source="Drummond, Andre Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="190" weight="222" />
+      <edge source="Drummond, Andre Chicago Bulls" target="GOAL" id="191" weight="214" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="192" weight="21" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="193" weight="21" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="194" weight="47" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="195" weight="457" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="196" weight="152" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Green, Javonte Chicago Bulls" id="197" weight="20" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="White, Coby Chicago Bulls" id="198" weight="999" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="199" weight="141" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="200" weight="126" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="201" weight="430" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="202" weight="209" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="203" weight="26" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="DeRozan, DeMar Chicago Bulls" id="204" weight="732" />
+      <edge source="Vučević, Nikola Chicago Bulls" target="GOAL" id="205" weight="948" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Bitim, Onuralp Chicago Bulls" id="206" weight="19" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Sanogo, Adama Chicago Bulls" id="207" weight="1" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Phillips, Julian Chicago Bulls" id="208" weight="13" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Terry, Dalen Chicago Bulls" id="209" weight="67" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Dosunmu, Ayo Chicago Bulls" id="210" weight="356" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Williams, Patrick Chicago Bulls" id="211" weight="146" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Green, Javonte Chicago Bulls" id="212" weight="26" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="White, Coby Chicago Bulls" id="213" weight="758" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Carter, Jevon Chicago Bulls" id="214" weight="190" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Craig, Torrey Chicago Bulls" id="215" weight="107" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Caruso, Alex Chicago Bulls" id="216" weight="390" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="LaVine, Zach Chicago Bulls" id="217" weight="157" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Drummond, Andre Chicago Bulls" id="218" weight="136" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="Vučević, Nikola Chicago Bulls" id="219" weight="728" />
+      <edge source="DeRozan, DeMar Chicago Bulls" target="GOAL" id="220" weight="1156" />
+    </edges>
+  </graph>
+</gexf>

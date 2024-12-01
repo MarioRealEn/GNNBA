@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Anderson, Kyle Minnesota Timberwolves" label="Anderson, Kyle Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Moore Jr., Wendell Minnesota Timberwolves" label="Moore Jr., Wendell Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Garza, Luka Minnesota Timberwolves" label="Garza, Luka Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Nix, Daishen Minnesota Timberwolves" label="Nix, Daishen Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="McDaniels, Jaden Minnesota Timberwolves" label="McDaniels, Jaden Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Edwards, Anthony Minnesota Timberwolves" label="Edwards, Anthony Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Reid, Naz Minnesota Timberwolves" label="Reid, Naz Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Alexander-Walker, Nickeil Minnesota Timberwolves" label="Alexander-Walker, Nickeil Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="McLaughlin, Jordan Minnesota Timberwolves" label="McLaughlin, Jordan Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Morris, Monté Minnesota Timberwolves" label="Morris, Monté Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Towns, Karl-Anthony Minnesota Timberwolves" label="Towns, Karl-Anthony Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Warren, T.J. Minnesota Timberwolves" label="Warren, T.J. Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Gobert, Rudy Minnesota Timberwolves" label="Gobert, Rudy Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Conley, Mike Minnesota Timberwolves" label="Conley, Mike Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Minott, Josh Minnesota Timberwolves" label="Minott, Josh Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="Miller, Leonard Minnesota Timberwolves" label="Miller, Leonard Minnesota Timberwolves">
+        <attvalues>
+          <attvalue for="0" value="Minnesota Timberwolves" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="0" weight="2" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="1" weight="2" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="2" weight="3" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="3" weight="139" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="4" weight="461" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="5" weight="361" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="6" weight="337" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="7" weight="119" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="8" weight="93" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="9" weight="283" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="10" weight="5" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="11" weight="142" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="12" weight="383" />
+      <edge source="Anderson, Kyle Minnesota Timberwolves" target="GOAL" id="13" weight="918" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="14" weight="11" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="15" weight="12" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="16" weight="11" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="17" weight="9" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="18" weight="3" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="19" weight="8" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="20" weight="4" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="21" weight="4" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="22" weight="6" />
+      <edge source="Moore Jr., Wendell Minnesota Timberwolves" target="GOAL" id="23" weight="16" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="24" weight="4" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="25" weight="3" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="26" weight="12" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="27" weight="9" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="28" weight="3" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="29" weight="10" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="30" weight="1" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="31" weight="8" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="32" weight="27" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="33" weight="13" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="34" weight="3" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="35" weight="4" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="36" weight="7" />
+      <edge source="Garza, Luka Minnesota Timberwolves" target="GOAL" id="37" weight="15" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="38" weight="13" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="39" weight="6" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="40" weight="4" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="41" weight="9" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="42" weight="1" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="43" weight="1" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="44" weight="3" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="45" weight="6" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="46" weight="2" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="47" weight="4" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="48" weight="6" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="49" weight="2" />
+      <edge source="Nix, Daishen Minnesota Timberwolves" target="GOAL" id="50" weight="21" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="51" weight="4" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="52" weight="231" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="53" weight="127" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="54" weight="158" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="55" weight="70" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="56" weight="46" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="57" weight="169" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="58" weight="90" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="59" weight="4" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="60" weight="174" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="61" weight="480" />
+      <edge source="McDaniels, Jaden Minnesota Timberwolves" target="GOAL" id="62" weight="328" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="63" weight="9" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="64" weight="327" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="65" weight="330" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="66" weight="419" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="67" weight="84" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="68" weight="112" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="69" weight="512" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="70" weight="377" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="71" weight="13" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="72" weight="295" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="73" weight="807" />
+      <edge source="Edwards, Anthony Minnesota Timberwolves" target="GOAL" id="74" weight="1159" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="75" weight="2" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="76" weight="1" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="77" weight="3" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="78" weight="106" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="79" weight="444" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="80" weight="352" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="81" weight="196" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="82" weight="86" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="83" weight="51" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="84" weight="266" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="85" weight="9" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="86" weight="39" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="87" weight="427" />
+      <edge source="Reid, Naz Minnesota Timberwolves" target="GOAL" id="88" weight="424" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="89" weight="2" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="90" weight="1" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="91" weight="13" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="92" weight="8" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="93" weight="153" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="94" weight="561" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="95" weight="265" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="96" weight="137" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="97" weight="70" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="98" weight="279" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="99" weight="376" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="100" weight="19" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="101" weight="142" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="102" weight="328" />
+      <edge source="Alexander-Walker, Nickeil Minnesota Timberwolves" target="GOAL" id="103" weight="671" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="104" weight="13" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="105" weight="2" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="106" weight="11" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="107" weight="20" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="108" weight="10" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="109" weight="72" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="110" weight="121" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="111" weight="166" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="112" weight="154" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="113" weight="28" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="114" weight="80" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="115" weight="158" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="116" weight="12" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="117" weight="39" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="118" weight="169" />
+      <edge source="McLaughlin, Jordan Minnesota Timberwolves" target="GOAL" id="119" weight="299" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="120" weight="2" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="121" weight="2" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="122" weight="5" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="123" weight="11" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="124" weight="1" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="125" weight="28" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="126" weight="155" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="127" weight="89" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="128" weight="72" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="129" weight="25" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="130" weight="33" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="131" weight="83" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="132" weight="8" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="133" weight="51" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="134" weight="48" />
+      <edge source="Morris, Monté Minnesota Timberwolves" target="GOAL" id="135" weight="190" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="136" weight="3" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="137" weight="121" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="138" weight="505" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="139" weight="79" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="140" weight="239" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="141" weight="55" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="142" weight="15" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="143" weight="192" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="144" weight="177" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="145" weight="477" />
+      <edge source="Towns, Karl-Anthony Minnesota Timberwolves" target="GOAL" id="146" weight="592" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="147" weight="1" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="148" weight="2" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="149" weight="2" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="150" weight="5" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="151" weight="2" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="152" weight="1" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="153" weight="15" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="154" weight="13" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="155" weight="17" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="156" weight="10" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="157" weight="7" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="158" weight="4" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="159" weight="5" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="160" weight="7" />
+      <edge source="Warren, T.J. Minnesota Timberwolves" target="GOAL" id="161" weight="30" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="162" weight="1" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="163" weight="1" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="164" weight="120" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="165" weight="589" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="166" weight="65" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="167" weight="287" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="168" weight="99" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="169" weight="69" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="170" weight="93" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="171" weight="169" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="172" weight="1" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="Conley, Mike Minnesota Timberwolves" id="173" weight="980" />
+      <edge source="Gobert, Rudy Minnesota Timberwolves" target="GOAL" id="174" weight="516" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="175" weight="10" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="McDaniels, Jaden Minnesota Timberwolves" id="176" weight="515" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="177" weight="1018" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="178" weight="336" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="179" weight="279" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="180" weight="127" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="181" weight="42" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Towns, Karl-Anthony Minnesota Timberwolves" id="182" weight="662" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Anderson, Kyle Minnesota Timberwolves" id="183" weight="391" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="184" weight="10" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="Gobert, Rudy Minnesota Timberwolves" id="185" weight="569" />
+      <edge source="Conley, Mike Minnesota Timberwolves" target="GOAL" id="186" weight="1274" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Miller, Leonard Minnesota Timberwolves" id="187" weight="11" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="188" weight="5" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="189" weight="8" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="190" weight="13" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Reid, Naz Minnesota Timberwolves" id="191" weight="1" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Alexander-Walker, Nickeil Minnesota Timberwolves" id="192" weight="1" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="193" weight="14" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="194" weight="5" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="195" weight="1" />
+      <edge source="Minott, Josh Minnesota Timberwolves" target="GOAL" id="196" weight="23" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Minott, Josh Minnesota Timberwolves" id="197" weight="13" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Moore Jr., Wendell Minnesota Timberwolves" id="198" weight="21" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Garza, Luka Minnesota Timberwolves" id="199" weight="6" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Nix, Daishen Minnesota Timberwolves" id="200" weight="12" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Edwards, Anthony Minnesota Timberwolves" id="201" weight="1" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="McLaughlin, Jordan Minnesota Timberwolves" id="202" weight="5" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Morris, Monté Minnesota Timberwolves" id="203" weight="3" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="Warren, T.J. Minnesota Timberwolves" id="204" weight="2" />
+      <edge source="Miller, Leonard Minnesota Timberwolves" target="GOAL" id="205" weight="27" />
+    </edges>
+  </graph>
+</gexf>

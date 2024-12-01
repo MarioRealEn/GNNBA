@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Tatum, Jayson Boston Celtics" label="Tatum, Jayson Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Hauser, Sam Boston Celtics" label="Hauser, Sam Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Springer, Jaden Boston Celtics" label="Springer, Jaden Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Tillman, Xavier Boston Celtics" label="Tillman, Xavier Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Pritchard, Payton Boston Celtics" label="Pritchard, Payton Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Queta, Neemias Boston Celtics" label="Queta, Neemias Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Brissett, Oshae Boston Celtics" label="Brissett, Oshae Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Mykhailiuk, Svi Boston Celtics" label="Mykhailiuk, Svi Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Kornet, Luke Boston Celtics" label="Kornet, Luke Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="White, Derrick Boston Celtics" label="White, Derrick Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Brown, Jaylen Boston Celtics" label="Brown, Jaylen Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Porziņģis, Kristaps Boston Celtics" label="Porziņģis, Kristaps Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Holiday, Jrue Boston Celtics" label="Holiday, Jrue Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Horford, Al Boston Celtics" label="Horford, Al Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Walsh, Jordan Boston Celtics" label="Walsh, Jordan Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Peterson, Drew Boston Celtics" label="Peterson, Drew Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="Davison, JD Boston Celtics" label="Davison, JD Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="Boston Celtics" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Tatum, Jayson Boston Celtics" target="Hauser, Sam Boston Celtics" id="0" weight="170" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Springer, Jaden Boston Celtics" id="1" weight="2" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Tillman, Xavier Boston Celtics" id="2" weight="20" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Pritchard, Payton Boston Celtics" id="3" weight="374" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Queta, Neemias Boston Celtics" id="4" weight="23" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Brissett, Oshae Boston Celtics" id="5" weight="24" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="6" weight="14" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Kornet, Luke Boston Celtics" id="7" weight="101" />
+      <edge source="Tatum, Jayson Boston Celtics" target="White, Derrick Boston Celtics" id="8" weight="826" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Brown, Jaylen Boston Celtics" id="9" weight="491" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="10" weight="429" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Holiday, Jrue Boston Celtics" id="11" weight="782" />
+      <edge source="Tatum, Jayson Boston Celtics" target="Horford, Al Boston Celtics" id="12" weight="326" />
+      <edge source="Tatum, Jayson Boston Celtics" target="GOAL" id="13" weight="1172" />
+      <edge source="Hauser, Sam Boston Celtics" target="Peterson, Drew Boston Celtics" id="14" weight="1" />
+      <edge source="Hauser, Sam Boston Celtics" target="Walsh, Jordan Boston Celtics" id="15" weight="3" />
+      <edge source="Hauser, Sam Boston Celtics" target="Davison, JD Boston Celtics" id="16" weight="11" />
+      <edge source="Hauser, Sam Boston Celtics" target="Springer, Jaden Boston Celtics" id="17" weight="7" />
+      <edge source="Hauser, Sam Boston Celtics" target="Tillman, Xavier Boston Celtics" id="18" weight="14" />
+      <edge source="Hauser, Sam Boston Celtics" target="Pritchard, Payton Boston Celtics" id="19" weight="409" />
+      <edge source="Hauser, Sam Boston Celtics" target="Queta, Neemias Boston Celtics" id="20" weight="13" />
+      <edge source="Hauser, Sam Boston Celtics" target="Brissett, Oshae Boston Celtics" id="21" weight="32" />
+      <edge source="Hauser, Sam Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="22" weight="35" />
+      <edge source="Hauser, Sam Boston Celtics" target="Kornet, Luke Boston Celtics" id="23" weight="58" />
+      <edge source="Hauser, Sam Boston Celtics" target="White, Derrick Boston Celtics" id="24" weight="243" />
+      <edge source="Hauser, Sam Boston Celtics" target="Tatum, Jayson Boston Celtics" id="25" weight="187" />
+      <edge source="Hauser, Sam Boston Celtics" target="Brown, Jaylen Boston Celtics" id="26" weight="108" />
+      <edge source="Hauser, Sam Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="27" weight="45" />
+      <edge source="Hauser, Sam Boston Celtics" target="Holiday, Jrue Boston Celtics" id="28" weight="188" />
+      <edge source="Hauser, Sam Boston Celtics" target="Horford, Al Boston Celtics" id="29" weight="51" />
+      <edge source="Hauser, Sam Boston Celtics" target="GOAL" id="30" weight="354" />
+      <edge source="Springer, Jaden Boston Celtics" target="Peterson, Drew Boston Celtics" id="31" weight="1" />
+      <edge source="Springer, Jaden Boston Celtics" target="Walsh, Jordan Boston Celtics" id="32" weight="2" />
+      <edge source="Springer, Jaden Boston Celtics" target="Davison, JD Boston Celtics" id="33" weight="5" />
+      <edge source="Springer, Jaden Boston Celtics" target="Hauser, Sam Boston Celtics" id="34" weight="5" />
+      <edge source="Springer, Jaden Boston Celtics" target="Tillman, Xavier Boston Celtics" id="35" weight="3" />
+      <edge source="Springer, Jaden Boston Celtics" target="Pritchard, Payton Boston Celtics" id="36" weight="24" />
+      <edge source="Springer, Jaden Boston Celtics" target="Queta, Neemias Boston Celtics" id="37" weight="2" />
+      <edge source="Springer, Jaden Boston Celtics" target="Brissett, Oshae Boston Celtics" id="38" weight="6" />
+      <edge source="Springer, Jaden Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="39" weight="7" />
+      <edge source="Springer, Jaden Boston Celtics" target="Kornet, Luke Boston Celtics" id="40" weight="3" />
+      <edge source="Springer, Jaden Boston Celtics" target="White, Derrick Boston Celtics" id="41" weight="4" />
+      <edge source="Springer, Jaden Boston Celtics" target="Tatum, Jayson Boston Celtics" id="42" weight="3" />
+      <edge source="Springer, Jaden Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="43" weight="1" />
+      <edge source="Springer, Jaden Boston Celtics" target="GOAL" id="44" weight="23" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Walsh, Jordan Boston Celtics" id="45" weight="1" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Davison, JD Boston Celtics" id="46" weight="1" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Hauser, Sam Boston Celtics" id="47" weight="11" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Springer, Jaden Boston Celtics" id="48" weight="4" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Pritchard, Payton Boston Celtics" id="49" weight="96" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Queta, Neemias Boston Celtics" id="50" weight="1" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Brissett, Oshae Boston Celtics" id="51" weight="10" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="52" weight="13" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Kornet, Luke Boston Celtics" id="53" weight="1" />
+      <edge source="Tillman, Xavier Boston Celtics" target="White, Derrick Boston Celtics" id="54" weight="33" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Tatum, Jayson Boston Celtics" id="55" weight="24" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Brown, Jaylen Boston Celtics" id="56" weight="17" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="57" weight="4" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Holiday, Jrue Boston Celtics" id="58" weight="26" />
+      <edge source="Tillman, Xavier Boston Celtics" target="Horford, Al Boston Celtics" id="59" weight="2" />
+      <edge source="Tillman, Xavier Boston Celtics" target="GOAL" id="60" weight="90" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Peterson, Drew Boston Celtics" id="61" weight="2" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Walsh, Jordan Boston Celtics" id="62" weight="7" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Davison, JD Boston Celtics" id="63" weight="4" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Hauser, Sam Boston Celtics" id="64" weight="326" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Springer, Jaden Boston Celtics" id="65" weight="18" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Tillman, Xavier Boston Celtics" id="66" weight="56" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Queta, Neemias Boston Celtics" id="67" weight="65" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Brissett, Oshae Boston Celtics" id="68" weight="143" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="69" weight="135" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Kornet, Luke Boston Celtics" id="70" weight="172" />
+      <edge source="Pritchard, Payton Boston Celtics" target="White, Derrick Boston Celtics" id="71" weight="262" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Tatum, Jayson Boston Celtics" id="72" weight="482" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Brown, Jaylen Boston Celtics" id="73" weight="232" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="74" weight="127" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Holiday, Jrue Boston Celtics" id="75" weight="267" />
+      <edge source="Pritchard, Payton Boston Celtics" target="Horford, Al Boston Celtics" id="76" weight="167" />
+      <edge source="Pritchard, Payton Boston Celtics" target="GOAL" id="77" weight="970" />
+      <edge source="Queta, Neemias Boston Celtics" target="Peterson, Drew Boston Celtics" id="78" weight="2" />
+      <edge source="Queta, Neemias Boston Celtics" target="Walsh, Jordan Boston Celtics" id="79" weight="4" />
+      <edge source="Queta, Neemias Boston Celtics" target="Davison, JD Boston Celtics" id="80" weight="18" />
+      <edge source="Queta, Neemias Boston Celtics" target="Hauser, Sam Boston Celtics" id="81" weight="24" />
+      <edge source="Queta, Neemias Boston Celtics" target="Springer, Jaden Boston Celtics" id="82" weight="1" />
+      <edge source="Queta, Neemias Boston Celtics" target="Tillman, Xavier Boston Celtics" id="83" weight="1" />
+      <edge source="Queta, Neemias Boston Celtics" target="Pritchard, Payton Boston Celtics" id="84" weight="75" />
+      <edge source="Queta, Neemias Boston Celtics" target="Brissett, Oshae Boston Celtics" id="85" weight="10" />
+      <edge source="Queta, Neemias Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="86" weight="16" />
+      <edge source="Queta, Neemias Boston Celtics" target="Kornet, Luke Boston Celtics" id="87" weight="1" />
+      <edge source="Queta, Neemias Boston Celtics" target="White, Derrick Boston Celtics" id="88" weight="29" />
+      <edge source="Queta, Neemias Boston Celtics" target="Tatum, Jayson Boston Celtics" id="89" weight="23" />
+      <edge source="Queta, Neemias Boston Celtics" target="Brown, Jaylen Boston Celtics" id="90" weight="7" />
+      <edge source="Queta, Neemias Boston Celtics" target="Holiday, Jrue Boston Celtics" id="91" weight="19" />
+      <edge source="Queta, Neemias Boston Celtics" target="Horford, Al Boston Celtics" id="92" weight="5" />
+      <edge source="Queta, Neemias Boston Celtics" target="GOAL" id="93" weight="82" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Walsh, Jordan Boston Celtics" id="94" weight="5" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Davison, JD Boston Celtics" id="95" weight="8" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Hauser, Sam Boston Celtics" id="96" weight="42" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Springer, Jaden Boston Celtics" id="97" weight="6" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Tillman, Xavier Boston Celtics" id="98" weight="6" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Pritchard, Payton Boston Celtics" id="99" weight="272" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Queta, Neemias Boston Celtics" id="100" weight="5" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="101" weight="26" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Kornet, Luke Boston Celtics" id="102" weight="9" />
+      <edge source="Brissett, Oshae Boston Celtics" target="White, Derrick Boston Celtics" id="103" weight="71" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Tatum, Jayson Boston Celtics" id="104" weight="46" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Brown, Jaylen Boston Celtics" id="105" weight="37" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="106" weight="11" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Holiday, Jrue Boston Celtics" id="107" weight="52" />
+      <edge source="Brissett, Oshae Boston Celtics" target="Horford, Al Boston Celtics" id="108" weight="11" />
+      <edge source="Brissett, Oshae Boston Celtics" target="GOAL" id="109" weight="173" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Walsh, Jordan Boston Celtics" id="110" weight="5" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Davison, JD Boston Celtics" id="111" weight="6" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Hauser, Sam Boston Celtics" id="112" weight="20" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Springer, Jaden Boston Celtics" id="113" weight="12" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Tillman, Xavier Boston Celtics" id="114" weight="4" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Pritchard, Payton Boston Celtics" id="115" weight="168" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Queta, Neemias Boston Celtics" id="116" weight="15" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Brissett, Oshae Boston Celtics" id="117" weight="18" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Kornet, Luke Boston Celtics" id="118" weight="24" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="White, Derrick Boston Celtics" id="119" weight="11" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Tatum, Jayson Boston Celtics" id="120" weight="17" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Brown, Jaylen Boston Celtics" id="121" weight="2" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="122" weight="5" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="Holiday, Jrue Boston Celtics" id="123" weight="7" />
+      <edge source="Mykhailiuk, Svi Boston Celtics" target="GOAL" id="124" weight="119" />
+      <edge source="Kornet, Luke Boston Celtics" target="Peterson, Drew Boston Celtics" id="125" weight="1" />
+      <edge source="Kornet, Luke Boston Celtics" target="Walsh, Jordan Boston Celtics" id="126" weight="3" />
+      <edge source="Kornet, Luke Boston Celtics" target="Davison, JD Boston Celtics" id="127" weight="2" />
+      <edge source="Kornet, Luke Boston Celtics" target="Hauser, Sam Boston Celtics" id="128" weight="72" />
+      <edge source="Kornet, Luke Boston Celtics" target="Springer, Jaden Boston Celtics" id="129" weight="3" />
+      <edge source="Kornet, Luke Boston Celtics" target="Tillman, Xavier Boston Celtics" id="130" weight="7" />
+      <edge source="Kornet, Luke Boston Celtics" target="Pritchard, Payton Boston Celtics" id="131" weight="214" />
+      <edge source="Kornet, Luke Boston Celtics" target="Queta, Neemias Boston Celtics" id="132" weight="2" />
+      <edge source="Kornet, Luke Boston Celtics" target="Brissett, Oshae Boston Celtics" id="133" weight="20" />
+      <edge source="Kornet, Luke Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="134" weight="29" />
+      <edge source="Kornet, Luke Boston Celtics" target="White, Derrick Boston Celtics" id="135" weight="132" />
+      <edge source="Kornet, Luke Boston Celtics" target="Tatum, Jayson Boston Celtics" id="136" weight="99" />
+      <edge source="Kornet, Luke Boston Celtics" target="Brown, Jaylen Boston Celtics" id="137" weight="69" />
+      <edge source="Kornet, Luke Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="138" weight="7" />
+      <edge source="Kornet, Luke Boston Celtics" target="Holiday, Jrue Boston Celtics" id="139" weight="89" />
+      <edge source="Kornet, Luke Boston Celtics" target="Horford, Al Boston Celtics" id="140" weight="15" />
+      <edge source="Kornet, Luke Boston Celtics" target="GOAL" id="141" weight="269" />
+      <edge source="White, Derrick Boston Celtics" target="Hauser, Sam Boston Celtics" id="142" weight="134" />
+      <edge source="White, Derrick Boston Celtics" target="Springer, Jaden Boston Celtics" id="143" weight="4" />
+      <edge source="White, Derrick Boston Celtics" target="Tillman, Xavier Boston Celtics" id="144" weight="25" />
+      <edge source="White, Derrick Boston Celtics" target="Pritchard, Payton Boston Celtics" id="145" weight="235" />
+      <edge source="White, Derrick Boston Celtics" target="Queta, Neemias Boston Celtics" id="146" weight="12" />
+      <edge source="White, Derrick Boston Celtics" target="Brissett, Oshae Boston Celtics" id="147" weight="33" />
+      <edge source="White, Derrick Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="148" weight="13" />
+      <edge source="White, Derrick Boston Celtics" target="Kornet, Luke Boston Celtics" id="149" weight="92" />
+      <edge source="White, Derrick Boston Celtics" target="Tatum, Jayson Boston Celtics" id="150" weight="923" />
+      <edge source="White, Derrick Boston Celtics" target="Brown, Jaylen Boston Celtics" id="151" weight="719" />
+      <edge source="White, Derrick Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="152" weight="466" />
+      <edge source="White, Derrick Boston Celtics" target="Holiday, Jrue Boston Celtics" id="153" weight="439" />
+      <edge source="White, Derrick Boston Celtics" target="Horford, Al Boston Celtics" id="154" weight="235" />
+      <edge source="White, Derrick Boston Celtics" target="GOAL" id="155" weight="1241" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Hauser, Sam Boston Celtics" id="156" weight="91" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Tillman, Xavier Boston Celtics" id="157" weight="12" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Pritchard, Payton Boston Celtics" id="158" weight="168" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Queta, Neemias Boston Celtics" id="159" weight="11" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Brissett, Oshae Boston Celtics" id="160" weight="26" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Kornet, Luke Boston Celtics" id="161" weight="46" />
+      <edge source="Brown, Jaylen Boston Celtics" target="White, Derrick Boston Celtics" id="162" weight="487" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Tatum, Jayson Boston Celtics" id="163" weight="311" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="164" weight="359" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Holiday, Jrue Boston Celtics" id="165" weight="290" />
+      <edge source="Brown, Jaylen Boston Celtics" target="Horford, Al Boston Celtics" id="166" weight="195" />
+      <edge source="Brown, Jaylen Boston Celtics" target="GOAL" id="167" weight="755" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Hauser, Sam Boston Celtics" id="168" weight="37" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Tillman, Xavier Boston Celtics" id="169" weight="2" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Pritchard, Payton Boston Celtics" id="170" weight="90" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Brissett, Oshae Boston Celtics" id="171" weight="17" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="172" weight="4" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Kornet, Luke Boston Celtics" id="173" weight="4" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="White, Derrick Boston Celtics" id="174" weight="452" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Tatum, Jayson Boston Celtics" id="175" weight="385" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Brown, Jaylen Boston Celtics" id="176" weight="320" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Holiday, Jrue Boston Celtics" id="177" weight="294" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="Horford, Al Boston Celtics" id="178" weight="56" />
+      <edge source="Porziņģis, Kristaps Boston Celtics" target="GOAL" id="179" weight="517" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Walsh, Jordan Boston Celtics" id="180" weight="1" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Hauser, Sam Boston Celtics" id="181" weight="148" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Tillman, Xavier Boston Celtics" id="182" weight="16" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Pritchard, Payton Boston Celtics" id="183" weight="273" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Queta, Neemias Boston Celtics" id="184" weight="18" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Brissett, Oshae Boston Celtics" id="185" weight="30" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="186" weight="6" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Kornet, Luke Boston Celtics" id="187" weight="68" />
+      <edge source="Holiday, Jrue Boston Celtics" target="White, Derrick Boston Celtics" id="188" weight="456" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Tatum, Jayson Boston Celtics" id="189" weight="745" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Brown, Jaylen Boston Celtics" id="190" weight="499" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="191" weight="275" />
+      <edge source="Holiday, Jrue Boston Celtics" target="Horford, Al Boston Celtics" id="192" weight="187" />
+      <edge source="Holiday, Jrue Boston Celtics" target="GOAL" id="193" weight="1070" />
+      <edge source="Horford, Al Boston Celtics" target="Hauser, Sam Boston Celtics" id="194" weight="80" />
+      <edge source="Horford, Al Boston Celtics" target="Tillman, Xavier Boston Celtics" id="195" weight="6" />
+      <edge source="Horford, Al Boston Celtics" target="Pritchard, Payton Boston Celtics" id="196" weight="229" />
+      <edge source="Horford, Al Boston Celtics" target="Queta, Neemias Boston Celtics" id="197" weight="5" />
+      <edge source="Horford, Al Boston Celtics" target="Brissett, Oshae Boston Celtics" id="198" weight="8" />
+      <edge source="Horford, Al Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="199" weight="2" />
+      <edge source="Horford, Al Boston Celtics" target="Kornet, Luke Boston Celtics" id="200" weight="20" />
+      <edge source="Horford, Al Boston Celtics" target="White, Derrick Boston Celtics" id="201" weight="355" />
+      <edge source="Horford, Al Boston Celtics" target="Tatum, Jayson Boston Celtics" id="202" weight="362" />
+      <edge source="Horford, Al Boston Celtics" target="Brown, Jaylen Boston Celtics" id="203" weight="244" />
+      <edge source="Horford, Al Boston Celtics" target="Porziņģis, Kristaps Boston Celtics" id="204" weight="54" />
+      <edge source="Horford, Al Boston Celtics" target="Holiday, Jrue Boston Celtics" id="205" weight="260" />
+      <edge source="Horford, Al Boston Celtics" target="GOAL" id="206" weight="601" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Davison, JD Boston Celtics" id="207" weight="8" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Hauser, Sam Boston Celtics" id="208" weight="6" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Springer, Jaden Boston Celtics" id="209" weight="2" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Tillman, Xavier Boston Celtics" id="210" weight="3" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Pritchard, Payton Boston Celtics" id="211" weight="15" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Queta, Neemias Boston Celtics" id="212" weight="5" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Brissett, Oshae Boston Celtics" id="213" weight="4" />
+      <edge source="Walsh, Jordan Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="214" weight="10" />
+      <edge source="Walsh, Jordan Boston Celtics" target="White, Derrick Boston Celtics" id="215" weight="3" />
+      <edge source="Walsh, Jordan Boston Celtics" target="GOAL" id="216" weight="16" />
+      <edge source="Peterson, Drew Boston Celtics" target="Davison, JD Boston Celtics" id="217" weight="6" />
+      <edge source="Peterson, Drew Boston Celtics" target="Hauser, Sam Boston Celtics" id="218" weight="1" />
+      <edge source="Peterson, Drew Boston Celtics" target="Springer, Jaden Boston Celtics" id="219" weight="1" />
+      <edge source="Peterson, Drew Boston Celtics" target="Pritchard, Payton Boston Celtics" id="220" weight="6" />
+      <edge source="Peterson, Drew Boston Celtics" target="Queta, Neemias Boston Celtics" id="221" weight="2" />
+      <edge source="Peterson, Drew Boston Celtics" target="GOAL" id="222" weight="2" />
+      <edge source="Davison, JD Boston Celtics" target="Peterson, Drew Boston Celtics" id="223" weight="6" />
+      <edge source="Davison, JD Boston Celtics" target="Walsh, Jordan Boston Celtics" id="224" weight="13" />
+      <edge source="Davison, JD Boston Celtics" target="Hauser, Sam Boston Celtics" id="225" weight="10" />
+      <edge source="Davison, JD Boston Celtics" target="Springer, Jaden Boston Celtics" id="226" weight="6" />
+      <edge source="Davison, JD Boston Celtics" target="Pritchard, Payton Boston Celtics" id="227" weight="4" />
+      <edge source="Davison, JD Boston Celtics" target="Queta, Neemias Boston Celtics" id="228" weight="9" />
+      <edge source="Davison, JD Boston Celtics" target="Brissett, Oshae Boston Celtics" id="229" weight="11" />
+      <edge source="Davison, JD Boston Celtics" target="Mykhailiuk, Svi Boston Celtics" id="230" weight="4" />
+      <edge source="Davison, JD Boston Celtics" target="Kornet, Luke Boston Celtics" id="231" weight="1" />
+      <edge source="Davison, JD Boston Celtics" target="GOAL" id="232" weight="29" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Gilgeous-Alexander, Shai Oklahoma City Thunder" label="Gilgeous-Alexander, Shai Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Johnson, Keyontae Oklahoma City Thunder" label="Johnson, Keyontae Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Wallace, Cason Oklahoma City Thunder" label="Wallace, Cason Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Dieng, Ousmane Oklahoma City Thunder" label="Dieng, Ousmane Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Williams, Jaylin Oklahoma City Thunder" label="Williams, Jaylin Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Williams, Jalen Oklahoma City Thunder" label="Williams, Jalen Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Holmgren, Chet Oklahoma City Thunder" label="Holmgren, Chet Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Sarr, Olivier Oklahoma City Thunder" label="Sarr, Olivier Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Wiggins, Aaron Oklahoma City Thunder" label="Wiggins, Aaron Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Giddey, Josh Oklahoma City Thunder" label="Giddey, Josh Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Waters III, Lindy Oklahoma City Thunder" label="Waters III, Lindy Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Joe, Isaiah Oklahoma City Thunder" label="Joe, Isaiah Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Dort, Luguentz Oklahoma City Thunder" label="Dort, Luguentz Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Williams, Kenrich Oklahoma City Thunder" label="Williams, Kenrich Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Muscala, Mike Oklahoma City Thunder" label="Muscala, Mike Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Biyombo, Bismack Oklahoma City Thunder" label="Biyombo, Bismack Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Hayward, Gordon Oklahoma City Thunder" label="Hayward, Gordon Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="Flagler, Adam Oklahoma City Thunder" label="Flagler, Adam Oklahoma City Thunder">
+        <attvalues>
+          <attvalue for="0" value="Oklahoma City Thunder" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="0" weight="1" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="1" weight="193" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="2" weight="42" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="3" weight="262" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="4" weight="519" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="5" weight="535" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="6" weight="6" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="7" weight="108" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="8" weight="513" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="9" weight="13" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="10" weight="372" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="11" weight="345" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="12" weight="149" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="13" weight="3" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="14" weight="1" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="15" weight="59" />
+      <edge source="Gilgeous-Alexander, Shai Oklahoma City Thunder" target="GOAL" id="16" weight="1312" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Flagler, Adam Oklahoma City Thunder" id="17" weight="1" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="18" weight="4" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="19" weight="4" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="20" weight="5" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="21" weight="1" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="22" weight="6" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="23" weight="1" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="24" weight="5" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="25" weight="1" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="26" weight="5" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="27" weight="10" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="28" weight="3" />
+      <edge source="Johnson, Keyontae Oklahoma City Thunder" target="GOAL" id="29" weight="8" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="30" weight="4" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="31" weight="29" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="32" weight="63" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="33" weight="149" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="34" weight="120" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="35" weight="4" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="36" weight="64" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="37" weight="151" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="38" weight="18" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="39" weight="82" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="40" weight="50" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="41" weight="73" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="42" weight="241" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="43" weight="13" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="44" weight="6" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="45" weight="24" />
+      <edge source="Wallace, Cason Oklahoma City Thunder" target="GOAL" id="46" weight="369" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="47" weight="4" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="48" weight="31" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="49" weight="24" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="50" weight="27" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="51" weight="14" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="52" weight="7" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="53" weight="11" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="54" weight="24" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="55" weight="33" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="56" weight="23" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="57" weight="10" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="58" weight="14" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="59" weight="60" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="60" weight="1" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="61" weight="3" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="62" weight="4" />
+      <edge source="Dieng, Ousmane Oklahoma City Thunder" target="GOAL" id="63" weight="116" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="64" weight="9" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="65" weight="77" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="66" weight="16" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="67" weight="167" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="68" weight="30" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="69" weight="85" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="70" weight="170" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="71" weight="33" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="72" weight="191" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="73" weight="109" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="74" weight="40" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="75" weight="520" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="76" weight="32" />
+      <edge source="Williams, Jaylin Oklahoma City Thunder" target="GOAL" id="77" weight="443" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="78" weight="125" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="79" weight="39" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="80" weight="99" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="81" weight="582" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="82" weight="1" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="83" weight="138" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="84" weight="605" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="85" weight="15" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="86" weight="163" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="87" weight="223" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="88" weight="99" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="89" weight="507" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="90" weight="2" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="91" weight="2" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="92" weight="42" />
+      <edge source="Williams, Jalen Oklahoma City Thunder" target="GOAL" id="93" weight="1000" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="94" weight="138" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="95" weight="10" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="96" weight="21" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="97" weight="831" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="98" weight="100" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="99" weight="614" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="100" weight="17" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="101" weight="125" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="102" weight="226" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="103" weight="48" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="104" weight="943" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="105" weight="32" />
+      <edge source="Holmgren, Chet Oklahoma City Thunder" target="GOAL" id="106" weight="877" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="107" weight="4" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="108" weight="9" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="109" weight="11" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="110" weight="4" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="111" weight="3" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="112" weight="12" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="113" weight="11" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="114" weight="8" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="115" weight="2" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="116" weight="18" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="117" weight="1" />
+      <edge source="Sarr, Olivier Oklahoma City Thunder" target="GOAL" id="118" weight="15" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="119" weight="3" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Flagler, Adam Oklahoma City Thunder" id="120" weight="6" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="121" weight="73" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="122" weight="21" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="123" weight="61" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="124" weight="182" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="125" weight="94" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="126" weight="2" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="127" weight="160" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="128" weight="25" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="129" weight="53" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="130" weight="54" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="131" weight="50" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="132" weight="168" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="133" weight="8" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="134" weight="9" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="135" weight="22" />
+      <edge source="Wiggins, Aaron Oklahoma City Thunder" target="GOAL" id="136" weight="309" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="137" weight="1" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="138" weight="185" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="139" weight="28" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="140" weight="140" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="141" weight="753" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="142" weight="598" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="143" weight="9" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="144" weight="162" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="145" weight="23" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="146" weight="123" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="147" weight="369" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="148" weight="90" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="149" weight="771" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="150" weight="19" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="151" weight="54" />
+      <edge source="Giddey, Josh Oklahoma City Thunder" target="GOAL" id="152" weight="1242" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="153" weight="4" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Flagler, Adam Oklahoma City Thunder" id="154" weight="4" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="155" weight="30" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="156" weight="34" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="157" weight="19" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="158" weight="7" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="159" weight="19" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="160" weight="10" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="161" weight="27" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="162" weight="12" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="163" weight="8" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="164" weight="7" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="165" weight="28" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="166" weight="9" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="167" weight="13" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="168" weight="13" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="169" weight="7" />
+      <edge source="Waters III, Lindy Oklahoma City Thunder" target="GOAL" id="170" weight="75" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="171" weight="74" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="172" weight="26" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="173" weight="171" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="174" weight="137" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="175" weight="116" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="176" weight="3" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="177" weight="51" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="178" weight="93" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="179" weight="5" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="180" weight="90" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="181" weight="67" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="182" weight="408" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="183" weight="4" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="184" weight="2" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="185" weight="32" />
+      <edge source="Joe, Isaiah Oklahoma City Thunder" target="GOAL" id="186" weight="378" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="187" weight="1" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="188" weight="35" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="189" weight="8" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="190" weight="61" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="191" weight="208" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="192" weight="170" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="193" weight="33" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="194" weight="295" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="195" weight="3" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="196" weight="79" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="197" weight="39" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="198" weight="353" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="199" weight="5" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="200" weight="1" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="201" weight="19" />
+      <edge source="Dort, Luguentz Oklahoma City Thunder" target="GOAL" id="202" weight="454" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="203" weight="1" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="204" weight="95" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="205" weight="14" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="206" weight="34" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="207" weight="131" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="208" weight="54" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="209" weight="59" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="210" weight="90" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="211" weight="30" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="212" weight="90" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="213" weight="71" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="214" weight="234" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="215" weight="7" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="216" weight="5" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="217" weight="25" />
+      <edge source="Williams, Kenrich Oklahoma City Thunder" target="GOAL" id="218" weight="342" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Flagler, Adam Oklahoma City Thunder" id="219" weight="4" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="220" weight="18" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="221" weight="3" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="222" weight="3" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="223" weight="13" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="224" weight="20" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="225" weight="19" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="226" weight="5" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="227" weight="3" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="228" weight="9" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="229" weight="10" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="230" weight="1" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="231" weight="12" />
+      <edge source="Muscala, Mike Oklahoma City Thunder" target="GOAL" id="232" weight="19" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Flagler, Adam Oklahoma City Thunder" id="233" weight="3" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="234" weight="8" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="235" weight="1" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="236" weight="1" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="237" weight="12" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="238" weight="1" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="239" weight="24" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="240" weight="1" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="241" weight="1" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="242" weight="11" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="243" weight="10" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="244" weight="2" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="Hayward, Gordon Oklahoma City Thunder" id="245" weight="3" />
+      <edge source="Biyombo, Bismack Oklahoma City Thunder" target="GOAL" id="246" weight="14" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="247" weight="3" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="248" weight="31" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Dieng, Ousmane Oklahoma City Thunder" id="249" weight="4" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Williams, Jaylin Oklahoma City Thunder" id="250" weight="21" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Williams, Jalen Oklahoma City Thunder" id="251" weight="66" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Holmgren, Chet Oklahoma City Thunder" id="252" weight="37" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Sarr, Olivier Oklahoma City Thunder" id="253" weight="1" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="254" weight="35" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Giddey, Josh Oklahoma City Thunder" id="255" weight="47" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="256" weight="5" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Joe, Isaiah Oklahoma City Thunder" id="257" weight="52" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Dort, Luguentz Oklahoma City Thunder" id="258" weight="20" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Williams, Kenrich Oklahoma City Thunder" id="259" weight="24" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Gilgeous-Alexander, Shai Oklahoma City Thunder" id="260" weight="94" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="261" weight="7" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="262" weight="1" />
+      <edge source="Hayward, Gordon Oklahoma City Thunder" target="GOAL" id="263" weight="159" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Johnson, Keyontae Oklahoma City Thunder" id="264" weight="1" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Wallace, Cason Oklahoma City Thunder" id="265" weight="1" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Wiggins, Aaron Oklahoma City Thunder" id="266" weight="4" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Waters III, Lindy Oklahoma City Thunder" id="267" weight="2" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Muscala, Mike Oklahoma City Thunder" id="268" weight="2" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="Biyombo, Bismack Oklahoma City Thunder" id="269" weight="2" />
+      <edge source="Flagler, Adam Oklahoma City Thunder" target="GOAL" id="270" weight="11" />
+    </edges>
+  </graph>
+</gexf>

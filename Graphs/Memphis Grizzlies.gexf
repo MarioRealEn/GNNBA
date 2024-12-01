@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Goodwin, Jordan Memphis Grizzlies" label="Goodwin, Jordan Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Jemison III, Trey Memphis Grizzlies" label="Jemison III, Trey Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Jackson, GG Memphis Grizzlies" label="Jackson, GG Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Williams Jr., Vince Memphis Grizzlies" label="Williams Jr., Vince Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="LaRavia, Jake Memphis Grizzlies" label="LaRavia, Jake Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Pippen Jr., Scotty Memphis Grizzlies" label="Pippen Jr., Scotty Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Aldama, Santi Memphis Grizzlies" label="Aldama, Santi Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Williams, Ziaire Memphis Grizzlies" label="Williams, Ziaire Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Stevens, Lamar Memphis Grizzlies" label="Stevens, Lamar Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Konchar, John Memphis Grizzlies" label="Konchar, John Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Clarke, Brandon Memphis Grizzlies" label="Clarke, Brandon Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Watanabe, Yuta Memphis Grizzlies" label="Watanabe, Yuta Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Jackson Jr., Jaren Memphis Grizzlies" label="Jackson Jr., Jaren Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Kennard, Luke Memphis Grizzlies" label="Kennard, Luke Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Rose, Derrick Memphis Grizzlies" label="Rose, Derrick Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Bane, Desmond Memphis Grizzlies" label="Bane, Desmond Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Morant, Ja Memphis Grizzlies" label="Morant, Ja Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="Smart, Marcus Memphis Grizzlies" label="Smart, Marcus Memphis Grizzlies">
+        <attvalues>
+          <attvalue for="0" value="Memphis Grizzlies" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="0" weight="47" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="1" weight="94" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="2" weight="51" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="3" weight="73" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="4" weight="74" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="5" weight="70" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="6" weight="27" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="7" weight="40" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="8" weight="25" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="9" weight="34" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="10" weight="7" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="11" weight="84" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="12" weight="50" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="13" weight="3" />
+      <edge source="Goodwin, Jordan Memphis Grizzlies" target="GOAL" id="14" weight="226" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="15" weight="82" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="16" weight="50" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="17" weight="42" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="18" weight="60" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="19" weight="63" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="20" weight="23" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="21" weight="9" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="22" weight="6" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="23" weight="14" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="24" weight="24" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="25" weight="5" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="26" weight="4" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="27" weight="2" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="28" weight="30" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="29" weight="5" />
+      <edge source="Jemison III, Trey Memphis Grizzlies" target="GOAL" id="30" weight="101" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="31" weight="50" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="32" weight="83" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="33" weight="80" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="34" weight="99" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="35" weight="145" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="36" weight="81" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="37" weight="26" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="38" weight="39" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="39" weight="41" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="40" weight="58" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="41" weight="20" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="42" weight="6" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="43" weight="117" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="44" weight="63" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="45" weight="39" />
+      <edge source="Jackson, GG Memphis Grizzlies" target="GOAL" id="46" weight="188" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="47" weight="45" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="48" weight="83" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="49" weight="36" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="50" weight="33" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="51" weight="38" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="52" weight="201" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="53" weight="105" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="54" weight="145" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="55" weight="45" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="56" weight="111" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="57" weight="55" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="58" weight="11" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="59" weight="327" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="60" weight="145" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="61" weight="36" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="62" weight="57" />
+      <edge source="Williams Jr., Vince Memphis Grizzlies" target="GOAL" id="63" weight="516" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="64" weight="33" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="65" weight="104" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="66" weight="42" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="67" weight="82" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="68" weight="70" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="69" weight="34" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="70" weight="17" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="71" weight="41" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="72" weight="42" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="73" weight="41" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="74" weight="7" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="75" weight="3" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="76" weight="72" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="77" weight="32" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="78" weight="29" />
+      <edge source="LaRavia, Jake Memphis Grizzlies" target="GOAL" id="79" weight="188" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="80" weight="70" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="81" weight="126" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="82" weight="42" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="83" weight="72" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="84" weight="46" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="85" weight="65" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="86" weight="6" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="87" weight="28" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="88" weight="26" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="89" weight="36" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="90" weight="9" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="91" weight="116" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="92" weight="45" />
+      <edge source="Pippen Jr., Scotty Memphis Grizzlies" target="GOAL" id="93" weight="270" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="94" weight="28" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="95" weight="122" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="96" weight="224" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="97" weight="37" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="98" weight="65" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="99" weight="72" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="100" weight="72" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="101" weight="268" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="102" weight="32" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="103" weight="145" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="104" weight="48" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="105" weight="3" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="106" weight="256" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="107" weight="150" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="108" weight="35" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="109" weight="60" />
+      <edge source="Aldama, Santi Memphis Grizzlies" target="GOAL" id="110" weight="438" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="111" weight="7" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="112" weight="39" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="113" weight="78" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="114" weight="9" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="115" weight="33" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="116" weight="9" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="117" weight="71" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="118" weight="111" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="119" weight="8" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="120" weight="32" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="121" weight="16" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="122" weight="2" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="123" weight="112" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="124" weight="41" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="125" weight="59" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="126" weight="34" />
+      <edge source="Williams, Ziaire Memphis Grizzlies" target="GOAL" id="127" weight="191" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="128" weight="12" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="129" weight="47" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="130" weight="55" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="131" weight="44" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="132" weight="50" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="133" weight="38" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="134" weight="24" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="135" weight="10" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="136" weight="6" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="137" weight="22" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="138" weight="8" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="139" weight="6" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="140" weight="32" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="141" weight="16" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="142" weight="19" />
+      <edge source="Stevens, Lamar Memphis Grizzlies" target="GOAL" id="143" weight="63" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="144" weight="27" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="145" weight="80" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="146" weight="141" />
+      <edge source="Konchar, John Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="147" weight="52" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="148" weight="31" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="149" weight="69" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="150" weight="188" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="151" weight="56" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="152" weight="152" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="153" weight="15" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="154" weight="24" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="155" weight="2" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="156" weight="230" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="157" weight="86" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="158" weight="31" />
+      <edge source="Konchar, John Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="159" weight="65" />
+      <edge source="Konchar, John Memphis Grizzlies" target="GOAL" id="160" weight="330" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="161" weight="4" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="162" weight="17" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="163" weight="9" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="164" weight="21" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="165" weight="9" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="166" weight="1" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="167" weight="7" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="168" weight="11" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="169" weight="6" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="170" weight="19" />
+      <edge source="Clarke, Brandon Memphis Grizzlies" target="GOAL" id="171" weight="22" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="172" weight="2" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="173" weight="8" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="174" weight="4" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="175" weight="8" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="176" weight="11" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="177" weight="4" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="178" weight="4" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="179" weight="2" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="180" weight="10" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="181" weight="3" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="182" weight="6" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="183" weight="3" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="184" weight="3" />
+      <edge source="Watanabe, Yuta Memphis Grizzlies" target="GOAL" id="185" weight="22" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="186" weight="2" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="187" weight="94" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="188" weight="240" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="189" weight="56" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="190" weight="55" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="191" weight="73" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="192" weight="192" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="193" weight="100" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="194" weight="353" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="195" weight="20" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="196" weight="109" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="197" weight="4" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="198" weight="66" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="199" weight="11" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="200" weight="148" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="201" weight="106" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="202" weight="85" />
+      <edge source="Jackson Jr., Jaren Memphis Grizzlies" target="GOAL" id="203" weight="467" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="204" weight="38" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="205" weight="77" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="206" weight="142" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="207" weight="36" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="208" weight="24" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="209" weight="40" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="210" weight="114" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="211" weight="35" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="212" weight="72" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="213" weight="17" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="214" weight="79" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="215" weight="22" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="216" weight="20" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="217" weight="6" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="218" weight="185" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="219" weight="45" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="220" weight="27" />
+      <edge source="Kennard, Luke Memphis Grizzlies" target="GOAL" id="221" weight="329" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="222" weight="4" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="223" weight="30" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="224" weight="43" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="225" weight="27" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Goodwin, Jordan Memphis Grizzlies" id="226" weight="3" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="227" weight="57" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="228" weight="32" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="229" weight="88" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="230" weight="10" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="231" weight="36" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Watanabe, Yuta Memphis Grizzlies" id="232" weight="2" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="233" weight="110" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="234" weight="26" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="235" weight="6" />
+      <edge source="Rose, Derrick Memphis Grizzlies" target="GOAL" id="236" weight="166" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Jemison III, Trey Memphis Grizzlies" id="237" weight="7" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Jackson, GG Memphis Grizzlies" id="238" weight="34" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="239" weight="110" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="LaRavia, Jake Memphis Grizzlies" id="240" weight="31" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Pippen Jr., Scotty Memphis Grizzlies" id="241" weight="29" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="242" weight="218" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="243" weight="98" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Stevens, Lamar Memphis Grizzlies" id="244" weight="8" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="245" weight="104" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Clarke, Brandon Memphis Grizzlies" id="246" weight="7" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="247" weight="119" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="248" weight="385" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="249" weight="75" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="250" weight="262" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="251" weight="87" />
+      <edge source="Bane, Desmond Memphis Grizzlies" target="GOAL" id="252" weight="551" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="253" weight="36" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="254" weight="33" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="255" weight="40" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="256" weight="125" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="257" weight="8" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="258" weight="56" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="259" weight="16" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="Smart, Marcus Memphis Grizzlies" id="260" weight="62" />
+      <edge source="Morant, Ja Memphis Grizzlies" target="GOAL" id="261" weight="170" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Williams Jr., Vince Memphis Grizzlies" id="262" weight="14" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Aldama, Santi Memphis Grizzlies" id="263" weight="25" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Williams, Ziaire Memphis Grizzlies" id="264" weight="40" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Bane, Desmond Memphis Grizzlies" id="265" weight="253" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Konchar, John Memphis Grizzlies" id="266" weight="11" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Morant, Ja Memphis Grizzlies" id="267" weight="48" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Jackson Jr., Jaren Memphis Grizzlies" id="268" weight="127" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Kennard, Luke Memphis Grizzlies" id="269" weight="46" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="Rose, Derrick Memphis Grizzlies" id="270" weight="2" />
+      <edge source="Smart, Marcus Memphis Grizzlies" target="GOAL" id="271" weight="235" />
+    </edges>
+  </graph>
+</gexf>

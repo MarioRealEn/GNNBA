@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="O'Neale, Royce Phoenix Suns" label="O'Neale, Royce Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Wainright, Ish Phoenix Suns" label="Wainright, Ish Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Lee, Saben Phoenix Suns" label="Lee, Saben Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Little, Nassir Phoenix Suns" label="Little, Nassir Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Bol, Bol Phoenix Suns" label="Bol, Bol Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Eubanks, Drew Phoenix Suns" label="Eubanks, Drew Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Okogie, Josh Phoenix Suns" label="Okogie, Josh Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Allen, Grayson Phoenix Suns" label="Allen, Grayson Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Booker, Devin Phoenix Suns" label="Booker, Devin Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Nurkić, Jusuf Phoenix Suns" label="Nurkić, Jusuf Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Beal, Bradley Phoenix Suns" label="Beal, Bradley Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Gordon, Eric Phoenix Suns" label="Gordon, Eric Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Young, Thaddeus Phoenix Suns" label="Young, Thaddeus Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Durant, Kevin Phoenix Suns" label="Durant, Kevin Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Roddy, David Phoenix Suns" label="Roddy, David Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Azubuike, Udoka Phoenix Suns" label="Azubuike, Udoka Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="Thomas, Isaiah Phoenix Suns" label="Thomas, Isaiah Phoenix Suns">
+        <attvalues>
+          <attvalue for="0" value="Phoenix Suns" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="O'Neale, Royce Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="0" weight="3" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Lee, Saben Phoenix Suns" id="1" weight="26" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Little, Nassir Phoenix Suns" id="2" weight="1" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Bol, Bol Phoenix Suns" id="3" weight="14" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="4" weight="18" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="5" weight="10" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="6" weight="129" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Booker, Devin Phoenix Suns" id="7" weight="237" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="8" weight="99" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="9" weight="193" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="10" weight="79" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="11" weight="10" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="12" weight="183" />
+      <edge source="O'Neale, Royce Phoenix Suns" target="GOAL" id="13" weight="280" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Roddy, David Phoenix Suns" id="14" weight="1" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Little, Nassir Phoenix Suns" id="15" weight="1" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Bol, Bol Phoenix Suns" id="16" weight="1" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="17" weight="1" />
+      <edge source="Wainright, Ish Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="18" weight="6" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="19" weight="5" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="20" weight="1" />
+      <edge source="Wainright, Ish Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="21" weight="5" />
+      <edge source="Wainright, Ish Phoenix Suns" target="GOAL" id="22" weight="2" />
+      <edge source="Lee, Saben Phoenix Suns" target="Roddy, David Phoenix Suns" id="23" weight="5" />
+      <edge source="Lee, Saben Phoenix Suns" target="Little, Nassir Phoenix Suns" id="24" weight="6" />
+      <edge source="Lee, Saben Phoenix Suns" target="Bol, Bol Phoenix Suns" id="25" weight="11" />
+      <edge source="Lee, Saben Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="26" weight="12" />
+      <edge source="Lee, Saben Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="27" weight="11" />
+      <edge source="Lee, Saben Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="28" weight="4" />
+      <edge source="Lee, Saben Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="29" weight="18" />
+      <edge source="Lee, Saben Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="30" weight="15" />
+      <edge source="Lee, Saben Phoenix Suns" target="Booker, Devin Phoenix Suns" id="31" weight="29" />
+      <edge source="Lee, Saben Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="32" weight="12" />
+      <edge source="Lee, Saben Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="33" weight="19" />
+      <edge source="Lee, Saben Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="34" weight="4" />
+      <edge source="Lee, Saben Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="35" weight="25" />
+      <edge source="Lee, Saben Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="36" weight="3" />
+      <edge source="Lee, Saben Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="37" weight="43" />
+      <edge source="Lee, Saben Phoenix Suns" target="GOAL" id="38" weight="81" />
+      <edge source="Little, Nassir Phoenix Suns" target="Roddy, David Phoenix Suns" id="39" weight="8" />
+      <edge source="Little, Nassir Phoenix Suns" target="Lee, Saben Phoenix Suns" id="40" weight="16" />
+      <edge source="Little, Nassir Phoenix Suns" target="Bol, Bol Phoenix Suns" id="41" weight="3" />
+      <edge source="Little, Nassir Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="42" weight="18" />
+      <edge source="Little, Nassir Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="43" weight="12" />
+      <edge source="Little, Nassir Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="44" weight="2" />
+      <edge source="Little, Nassir Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="45" weight="32" />
+      <edge source="Little, Nassir Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="46" weight="1" />
+      <edge source="Little, Nassir Phoenix Suns" target="Booker, Devin Phoenix Suns" id="47" weight="64" />
+      <edge source="Little, Nassir Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="48" weight="23" />
+      <edge source="Little, Nassir Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="49" weight="10" />
+      <edge source="Little, Nassir Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="50" weight="8" />
+      <edge source="Little, Nassir Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="51" weight="37" />
+      <edge source="Little, Nassir Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="52" weight="3" />
+      <edge source="Little, Nassir Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="53" weight="53" />
+      <edge source="Little, Nassir Phoenix Suns" target="GOAL" id="54" weight="89" />
+      <edge source="Bol, Bol Phoenix Suns" target="Roddy, David Phoenix Suns" id="55" weight="4" />
+      <edge source="Bol, Bol Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="56" weight="1" />
+      <edge source="Bol, Bol Phoenix Suns" target="Lee, Saben Phoenix Suns" id="57" weight="19" />
+      <edge source="Bol, Bol Phoenix Suns" target="Little, Nassir Phoenix Suns" id="58" weight="4" />
+      <edge source="Bol, Bol Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="59" weight="6" />
+      <edge source="Bol, Bol Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="60" weight="12" />
+      <edge source="Bol, Bol Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="61" weight="1" />
+      <edge source="Bol, Bol Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="62" weight="23" />
+      <edge source="Bol, Bol Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="63" weight="22" />
+      <edge source="Bol, Bol Phoenix Suns" target="Booker, Devin Phoenix Suns" id="64" weight="67" />
+      <edge source="Bol, Bol Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="65" weight="23" />
+      <edge source="Bol, Bol Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="66" weight="67" />
+      <edge source="Bol, Bol Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="67" weight="4" />
+      <edge source="Bol, Bol Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="68" weight="34" />
+      <edge source="Bol, Bol Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="69" weight="3" />
+      <edge source="Bol, Bol Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="70" weight="41" />
+      <edge source="Bol, Bol Phoenix Suns" target="GOAL" id="71" weight="68" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Roddy, David Phoenix Suns" id="72" weight="1" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Lee, Saben Phoenix Suns" id="73" weight="19" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Little, Nassir Phoenix Suns" id="74" weight="19" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Bol, Bol Phoenix Suns" id="75" weight="12" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="76" weight="38" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="77" weight="108" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="78" weight="35" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Booker, Devin Phoenix Suns" id="79" weight="273" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="80" weight="154" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="81" weight="138" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="82" weight="255" />
+      <edge source="Eubanks, Drew Phoenix Suns" target="GOAL" id="83" weight="250" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Roddy, David Phoenix Suns" id="84" weight="6" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Lee, Saben Phoenix Suns" id="85" weight="7" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Little, Nassir Phoenix Suns" id="86" weight="15" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Bol, Bol Phoenix Suns" id="87" weight="15" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="88" weight="33" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="89" weight="3" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="90" weight="91" />
+      <edge source="Okogie, Josh Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="91" weight="9" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Booker, Devin Phoenix Suns" id="92" weight="121" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="93" weight="67" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="94" weight="82" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="95" weight="10" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="96" weight="102" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="97" weight="4" />
+      <edge source="Okogie, Josh Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="98" weight="151" />
+      <edge source="Okogie, Josh Phoenix Suns" target="GOAL" id="99" weight="198" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Roddy, David Phoenix Suns" id="100" weight="2" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Lee, Saben Phoenix Suns" id="101" weight="22" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Little, Nassir Phoenix Suns" id="102" weight="26" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Bol, Bol Phoenix Suns" id="103" weight="35" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="104" weight="68" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="105" weight="68" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="106" weight="5" />
+      <edge source="Allen, Grayson Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="107" weight="86" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Booker, Devin Phoenix Suns" id="108" weight="676" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="109" weight="405" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="110" weight="370" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="111" weight="231" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="112" weight="5" />
+      <edge source="Allen, Grayson Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="113" weight="534" />
+      <edge source="Allen, Grayson Phoenix Suns" target="GOAL" id="114" weight="717" />
+      <edge source="Booker, Devin Phoenix Suns" target="Roddy, David Phoenix Suns" id="115" weight="2" />
+      <edge source="Booker, Devin Phoenix Suns" target="Lee, Saben Phoenix Suns" id="116" weight="20" />
+      <edge source="Booker, Devin Phoenix Suns" target="Little, Nassir Phoenix Suns" id="117" weight="55" />
+      <edge source="Booker, Devin Phoenix Suns" target="Bol, Bol Phoenix Suns" id="118" weight="40" />
+      <edge source="Booker, Devin Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="119" weight="132" />
+      <edge source="Booker, Devin Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="120" weight="105" />
+      <edge source="Booker, Devin Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="121" weight="11" />
+      <edge source="Booker, Devin Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="122" weight="533" />
+      <edge source="Booker, Devin Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="123" weight="139" />
+      <edge source="Booker, Devin Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="124" weight="442" />
+      <edge source="Booker, Devin Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="125" weight="376" />
+      <edge source="Booker, Devin Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="126" weight="252" />
+      <edge source="Booker, Devin Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="127" weight="15" />
+      <edge source="Booker, Devin Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="128" weight="744" />
+      <edge source="Booker, Devin Phoenix Suns" target="GOAL" id="129" weight="1175" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Lee, Saben Phoenix Suns" id="130" weight="12" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Little, Nassir Phoenix Suns" id="131" weight="21" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Bol, Bol Phoenix Suns" id="132" weight="22" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="133" weight="59" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="134" weight="393" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="135" weight="78" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Booker, Devin Phoenix Suns" id="136" weight="812" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="137" weight="578" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="138" weight="245" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="139" weight="817" />
+      <edge source="Nurkić, Jusuf Phoenix Suns" target="GOAL" id="140" weight="1014" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Roddy, David Phoenix Suns" id="141" weight="2" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="142" weight="8" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Lee, Saben Phoenix Suns" id="143" weight="15" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Little, Nassir Phoenix Suns" id="144" weight="4" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Bol, Bol Phoenix Suns" id="145" weight="55" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="146" weight="80" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="147" weight="54" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="148" weight="2" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="149" weight="316" />
+      <edge source="Beal, Bradley Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="150" weight="123" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Booker, Devin Phoenix Suns" id="151" weight="514" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="152" weight="404" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="153" weight="180" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="154" weight="18" />
+      <edge source="Beal, Bradley Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="155" weight="612" />
+      <edge source="Beal, Bradley Phoenix Suns" target="GOAL" id="156" weight="769" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Roddy, David Phoenix Suns" id="157" weight="1" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Lee, Saben Phoenix Suns" id="158" weight="24" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Little, Nassir Phoenix Suns" id="159" weight="27" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Bol, Bol Phoenix Suns" id="160" weight="13" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="161" weight="100" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="162" weight="81" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="163" weight="1" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="164" weight="182" />
+      <edge source="Gordon, Eric Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="165" weight="38" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Booker, Devin Phoenix Suns" id="166" weight="295" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="167" weight="232" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="168" weight="190" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="169" weight="3" />
+      <edge source="Gordon, Eric Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="170" weight="273" />
+      <edge source="Gordon, Eric Phoenix Suns" target="GOAL" id="171" weight="431" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Roddy, David Phoenix Suns" id="172" weight="6" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="173" weight="4" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Lee, Saben Phoenix Suns" id="174" weight="2" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Little, Nassir Phoenix Suns" id="175" weight="3" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Bol, Bol Phoenix Suns" id="176" weight="5" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="177" weight="9" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="178" weight="8" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="179" weight="14" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Booker, Devin Phoenix Suns" id="180" weight="22" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="181" weight="19" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="182" weight="5" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="183" weight="10" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="184" weight="15" />
+      <edge source="Young, Thaddeus Phoenix Suns" target="GOAL" id="185" weight="32" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Roddy, David Phoenix Suns" id="186" weight="3" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Lee, Saben Phoenix Suns" id="187" weight="27" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Little, Nassir Phoenix Suns" id="188" weight="51" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Bol, Bol Phoenix Suns" id="189" weight="27" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="190" weight="209" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="191" weight="86" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="192" weight="16" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="193" weight="415" />
+      <edge source="Durant, Kevin Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="194" weight="116" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Booker, Devin Phoenix Suns" id="195" weight="753" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="196" weight="568" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="197" weight="498" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="198" weight="287" />
+      <edge source="Durant, Kevin Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="199" weight="10" />
+      <edge source="Durant, Kevin Phoenix Suns" target="GOAL" id="200" weight="1053" />
+      <edge source="Roddy, David Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="201" weight="1" />
+      <edge source="Roddy, David Phoenix Suns" target="Lee, Saben Phoenix Suns" id="202" weight="10" />
+      <edge source="Roddy, David Phoenix Suns" target="Little, Nassir Phoenix Suns" id="203" weight="4" />
+      <edge source="Roddy, David Phoenix Suns" target="Bol, Bol Phoenix Suns" id="204" weight="8" />
+      <edge source="Roddy, David Phoenix Suns" target="Eubanks, Drew Phoenix Suns" id="205" weight="1" />
+      <edge source="Roddy, David Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="206" weight="6" />
+      <edge source="Roddy, David Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="207" weight="3" />
+      <edge source="Roddy, David Phoenix Suns" target="O'Neale, Royce Phoenix Suns" id="208" weight="2" />
+      <edge source="Roddy, David Phoenix Suns" target="Nurkić, Jusuf Phoenix Suns" id="209" weight="1" />
+      <edge source="Roddy, David Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="210" weight="4" />
+      <edge source="Roddy, David Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="211" weight="13" />
+      <edge source="Roddy, David Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="212" weight="1" />
+      <edge source="Roddy, David Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="213" weight="5" />
+      <edge source="Roddy, David Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="214" weight="5" />
+      <edge source="Roddy, David Phoenix Suns" target="GOAL" id="215" weight="15" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Lee, Saben Phoenix Suns" id="216" weight="6" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Little, Nassir Phoenix Suns" id="217" weight="7" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="218" weight="1" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Allen, Grayson Phoenix Suns" id="219" weight="4" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Booker, Devin Phoenix Suns" id="220" weight="21" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Beal, Bradley Phoenix Suns" id="221" weight="5" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Thomas, Isaiah Phoenix Suns" id="222" weight="1" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Gordon, Eric Phoenix Suns" id="223" weight="1" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="Durant, Kevin Phoenix Suns" id="224" weight="10" />
+      <edge source="Azubuike, Udoka Phoenix Suns" target="GOAL" id="225" weight="12" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Roddy, David Phoenix Suns" id="226" weight="4" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Wainright, Ish Phoenix Suns" id="227" weight="1" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Lee, Saben Phoenix Suns" id="228" weight="1" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Little, Nassir Phoenix Suns" id="229" weight="17" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Bol, Bol Phoenix Suns" id="230" weight="2" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Okogie, Josh Phoenix Suns" id="231" weight="3" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Azubuike, Udoka Phoenix Suns" id="232" weight="1" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="Young, Thaddeus Phoenix Suns" id="233" weight="5" />
+      <edge source="Thomas, Isaiah Phoenix Suns" target="GOAL" id="234" weight="17" />
+    </edges>
+  </graph>
+</gexf>

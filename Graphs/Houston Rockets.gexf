@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Samuels Jr., Jermaine Houston Rockets" label="Samuels Jr., Jermaine Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Whitmore, Cam Houston Rockets" label="Whitmore, Cam Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Thompson, Amen Houston Rockets" label="Thompson, Amen Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Williams, Nate Houston Rockets" label="Williams, Nate Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Hinton, Nate Houston Rockets" label="Hinton, Nate Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Holiday, Aaron Houston Rockets" label="Holiday, Aaron Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Marjanović, Boban Houston Rockets" label="Marjanović, Boban Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Bullock Jr., Reggie Houston Rockets" label="Bullock Jr., Reggie Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Eason, Tari Houston Rockets" label="Eason, Tari Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Smith Jr., Jabari Houston Rockets" label="Smith Jr., Jabari Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Sengun, Alperen Houston Rockets" label="Sengun, Alperen Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Tate, Jae'Sean Houston Rockets" label="Tate, Jae'Sean Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Green, Jalen Houston Rockets" label="Green, Jalen Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Landale, Jock Houston Rockets" label="Landale, Jock Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Brooks, Dillon Houston Rockets" label="Brooks, Dillon Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="VanVleet, Fred Houston Rockets" label="VanVleet, Fred Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="Green, Jeff Houston Rockets" label="Green, Jeff Houston Rockets">
+        <attvalues>
+          <attvalue for="0" value="Houston Rockets" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Whitmore, Cam Houston Rockets" id="0" weight="7" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Thompson, Amen Houston Rockets" id="1" weight="8" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Williams, Nate Houston Rockets" id="2" weight="2" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Hinton, Nate Houston Rockets" id="3" weight="12" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Holiday, Aaron Houston Rockets" id="4" weight="18" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Marjanović, Boban Houston Rockets" id="5" weight="1" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="6" weight="1" />
+      <edge source="Samuels Jr., Jermaine Houston Rockets" target="GOAL" id="7" weight="22" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Thompson, Amen Houston Rockets" id="8" weight="140" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Williams, Nate Houston Rockets" id="9" weight="3" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="10" weight="4" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Eason, Tari Houston Rockets" id="11" weight="1" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="12" weight="35" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Sengun, Alperen Houston Rockets" id="13" weight="28" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="14" weight="14" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Green, Jalen Houston Rockets" id="15" weight="58" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Hinton, Nate Houston Rockets" id="16" weight="5" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Landale, Jock Houston Rockets" id="17" weight="27" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Holiday, Aaron Houston Rockets" id="18" weight="81" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Brooks, Dillon Houston Rockets" id="19" weight="13" />
+      <edge source="Whitmore, Cam Houston Rockets" target="VanVleet, Fred Houston Rockets" id="20" weight="112" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Marjanović, Boban Houston Rockets" id="21" weight="5" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="22" weight="14" />
+      <edge source="Whitmore, Cam Houston Rockets" target="Green, Jeff Houston Rockets" id="23" weight="31" />
+      <edge source="Whitmore, Cam Houston Rockets" target="GOAL" id="24" weight="127" />
+      <edge source="Thompson, Amen Houston Rockets" target="Whitmore, Cam Houston Rockets" id="25" weight="170" />
+      <edge source="Thompson, Amen Houston Rockets" target="Williams, Nate Houston Rockets" id="26" weight="15" />
+      <edge source="Thompson, Amen Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="27" weight="6" />
+      <edge source="Thompson, Amen Houston Rockets" target="Eason, Tari Houston Rockets" id="28" weight="13" />
+      <edge source="Thompson, Amen Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="29" weight="153" />
+      <edge source="Thompson, Amen Houston Rockets" target="Sengun, Alperen Houston Rockets" id="30" weight="170" />
+      <edge source="Thompson, Amen Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="31" weight="57" />
+      <edge source="Thompson, Amen Houston Rockets" target="Green, Jalen Houston Rockets" id="32" weight="289" />
+      <edge source="Thompson, Amen Houston Rockets" target="Hinton, Nate Houston Rockets" id="33" weight="9" />
+      <edge source="Thompson, Amen Houston Rockets" target="Landale, Jock Houston Rockets" id="34" weight="91" />
+      <edge source="Thompson, Amen Houston Rockets" target="Holiday, Aaron Houston Rockets" id="35" weight="185" />
+      <edge source="Thompson, Amen Houston Rockets" target="Brooks, Dillon Houston Rockets" id="36" weight="124" />
+      <edge source="Thompson, Amen Houston Rockets" target="VanVleet, Fred Houston Rockets" id="37" weight="334" />
+      <edge source="Thompson, Amen Houston Rockets" target="Marjanović, Boban Houston Rockets" id="38" weight="18" />
+      <edge source="Thompson, Amen Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="39" weight="29" />
+      <edge source="Thompson, Amen Houston Rockets" target="Green, Jeff Houston Rockets" id="40" weight="168" />
+      <edge source="Thompson, Amen Houston Rockets" target="GOAL" id="41" weight="580" />
+      <edge source="Williams, Nate Houston Rockets" target="Whitmore, Cam Houston Rockets" id="42" weight="7" />
+      <edge source="Williams, Nate Houston Rockets" target="Thompson, Amen Houston Rockets" id="43" weight="17" />
+      <edge source="Williams, Nate Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="44" weight="1" />
+      <edge source="Williams, Nate Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="45" weight="7" />
+      <edge source="Williams, Nate Houston Rockets" target="Sengun, Alperen Houston Rockets" id="46" weight="1" />
+      <edge source="Williams, Nate Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="47" weight="6" />
+      <edge source="Williams, Nate Houston Rockets" target="Green, Jalen Houston Rockets" id="48" weight="2" />
+      <edge source="Williams, Nate Houston Rockets" target="Hinton, Nate Houston Rockets" id="49" weight="7" />
+      <edge source="Williams, Nate Houston Rockets" target="Landale, Jock Houston Rockets" id="50" weight="7" />
+      <edge source="Williams, Nate Houston Rockets" target="Holiday, Aaron Houston Rockets" id="51" weight="30" />
+      <edge source="Williams, Nate Houston Rockets" target="Brooks, Dillon Houston Rockets" id="52" weight="1" />
+      <edge source="Williams, Nate Houston Rockets" target="VanVleet, Fred Houston Rockets" id="53" weight="3" />
+      <edge source="Williams, Nate Houston Rockets" target="Marjanović, Boban Houston Rockets" id="54" weight="2" />
+      <edge source="Williams, Nate Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="55" weight="2" />
+      <edge source="Williams, Nate Houston Rockets" target="Green, Jeff Houston Rockets" id="56" weight="3" />
+      <edge source="Williams, Nate Houston Rockets" target="GOAL" id="57" weight="24" />
+      <edge source="Hinton, Nate Houston Rockets" target="Whitmore, Cam Houston Rockets" id="58" weight="16" />
+      <edge source="Hinton, Nate Houston Rockets" target="Thompson, Amen Houston Rockets" id="59" weight="15" />
+      <edge source="Hinton, Nate Houston Rockets" target="Williams, Nate Houston Rockets" id="60" weight="7" />
+      <edge source="Hinton, Nate Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="61" weight="10" />
+      <edge source="Hinton, Nate Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="62" weight="4" />
+      <edge source="Hinton, Nate Houston Rockets" target="Sengun, Alperen Houston Rockets" id="63" weight="1" />
+      <edge source="Hinton, Nate Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="64" weight="2" />
+      <edge source="Hinton, Nate Houston Rockets" target="Green, Jalen Houston Rockets" id="65" weight="4" />
+      <edge source="Hinton, Nate Houston Rockets" target="Landale, Jock Houston Rockets" id="66" weight="9" />
+      <edge source="Hinton, Nate Houston Rockets" target="Holiday, Aaron Houston Rockets" id="67" weight="13" />
+      <edge source="Hinton, Nate Houston Rockets" target="Brooks, Dillon Houston Rockets" id="68" weight="2" />
+      <edge source="Hinton, Nate Houston Rockets" target="VanVleet, Fred Houston Rockets" id="69" weight="1" />
+      <edge source="Hinton, Nate Houston Rockets" target="Marjanović, Boban Houston Rockets" id="70" weight="7" />
+      <edge source="Hinton, Nate Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="71" weight="2" />
+      <edge source="Hinton, Nate Houston Rockets" target="Green, Jeff Houston Rockets" id="72" weight="3" />
+      <edge source="Hinton, Nate Houston Rockets" target="GOAL" id="73" weight="33" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Whitmore, Cam Houston Rockets" id="74" weight="86" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Thompson, Amen Houston Rockets" id="75" weight="161" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Williams, Nate Houston Rockets" id="76" weight="31" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="77" weight="7" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Eason, Tari Houston Rockets" id="78" weight="56" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="79" weight="100" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Sengun, Alperen Houston Rockets" id="80" weight="135" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="81" weight="94" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Green, Jalen Houston Rockets" id="82" weight="192" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Hinton, Nate Houston Rockets" id="83" weight="11" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Landale, Jock Houston Rockets" id="84" weight="75" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Brooks, Dillon Houston Rockets" id="85" weight="84" />
+      <edge source="Holiday, Aaron Houston Rockets" target="VanVleet, Fred Houston Rockets" id="86" weight="216" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Marjanović, Boban Houston Rockets" id="87" weight="12" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="88" weight="64" />
+      <edge source="Holiday, Aaron Houston Rockets" target="Green, Jeff Houston Rockets" id="89" weight="149" />
+      <edge source="Holiday, Aaron Houston Rockets" target="GOAL" id="90" weight="512" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Whitmore, Cam Houston Rockets" id="91" weight="8" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Thompson, Amen Houston Rockets" id="92" weight="17" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Williams, Nate Houston Rockets" id="93" weight="8" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="94" weight="1" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Hinton, Nate Houston Rockets" id="95" weight="10" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Landale, Jock Houston Rockets" id="96" weight="1" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Holiday, Aaron Houston Rockets" id="97" weight="16" />
+      <edge source="Marjanović, Boban Houston Rockets" target="VanVleet, Fred Houston Rockets" id="98" weight="1" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="99" weight="8" />
+      <edge source="Marjanović, Boban Houston Rockets" target="Green, Jeff Houston Rockets" id="100" weight="1" />
+      <edge source="Marjanović, Boban Houston Rockets" target="GOAL" id="101" weight="20" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Whitmore, Cam Houston Rockets" id="102" weight="15" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Thompson, Amen Houston Rockets" id="103" weight="37" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Williams, Nate Houston Rockets" id="104" weight="2" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="105" weight="2" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Eason, Tari Houston Rockets" id="106" weight="4" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="107" weight="17" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Sengun, Alperen Houston Rockets" id="108" weight="8" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="109" weight="16" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Green, Jalen Houston Rockets" id="110" weight="38" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Hinton, Nate Houston Rockets" id="111" weight="3" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Landale, Jock Houston Rockets" id="112" weight="16" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Holiday, Aaron Houston Rockets" id="113" weight="94" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Brooks, Dillon Houston Rockets" id="114" weight="16" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="VanVleet, Fred Houston Rockets" id="115" weight="58" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Marjanović, Boban Houston Rockets" id="116" weight="13" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="Green, Jeff Houston Rockets" id="117" weight="27" />
+      <edge source="Bullock Jr., Reggie Houston Rockets" target="GOAL" id="118" weight="74" />
+      <edge source="Eason, Tari Houston Rockets" target="Whitmore, Cam Houston Rockets" id="119" weight="2" />
+      <edge source="Eason, Tari Houston Rockets" target="Thompson, Amen Houston Rockets" id="120" weight="29" />
+      <edge source="Eason, Tari Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="121" weight="22" />
+      <edge source="Eason, Tari Houston Rockets" target="Sengun, Alperen Houston Rockets" id="122" weight="37" />
+      <edge source="Eason, Tari Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="123" weight="19" />
+      <edge source="Eason, Tari Houston Rockets" target="Green, Jalen Houston Rockets" id="124" weight="73" />
+      <edge source="Eason, Tari Houston Rockets" target="Landale, Jock Houston Rockets" id="125" weight="7" />
+      <edge source="Eason, Tari Houston Rockets" target="Holiday, Aaron Houston Rockets" id="126" weight="87" />
+      <edge source="Eason, Tari Houston Rockets" target="Brooks, Dillon Houston Rockets" id="127" weight="15" />
+      <edge source="Eason, Tari Houston Rockets" target="VanVleet, Fred Houston Rockets" id="128" weight="151" />
+      <edge source="Eason, Tari Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="129" weight="4" />
+      <edge source="Eason, Tari Houston Rockets" target="Green, Jeff Houston Rockets" id="130" weight="18" />
+      <edge source="Eason, Tari Houston Rockets" target="GOAL" id="131" weight="120" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Whitmore, Cam Houston Rockets" id="132" weight="57" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Thompson, Amen Houston Rockets" id="133" weight="179" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Williams, Nate Houston Rockets" id="134" weight="2" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="135" weight="1" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Eason, Tari Houston Rockets" id="136" weight="28" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Sengun, Alperen Houston Rockets" id="137" weight="231" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="138" weight="45" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Green, Jalen Houston Rockets" id="139" weight="472" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Hinton, Nate Houston Rockets" id="140" weight="3" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Landale, Jock Houston Rockets" id="141" weight="31" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Holiday, Aaron Houston Rockets" id="142" weight="192" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Brooks, Dillon Houston Rockets" id="143" weight="141" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="VanVleet, Fred Houston Rockets" id="144" weight="916" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="145" weight="17" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="Green, Jeff Houston Rockets" id="146" weight="77" />
+      <edge source="Smith Jr., Jabari Houston Rockets" target="GOAL" id="147" weight="579" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Whitmore, Cam Houston Rockets" id="148" weight="49" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Thompson, Amen Houston Rockets" id="149" weight="95" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Eason, Tari Houston Rockets" id="150" weight="42" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="151" weight="256" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="152" weight="65" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Green, Jalen Houston Rockets" id="153" weight="643" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Hinton, Nate Houston Rockets" id="154" weight="1" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Holiday, Aaron Houston Rockets" id="155" weight="116" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Brooks, Dillon Houston Rockets" id="156" weight="304" />
+      <edge source="Sengun, Alperen Houston Rockets" target="VanVleet, Fred Houston Rockets" id="157" weight="861" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="158" weight="11" />
+      <edge source="Sengun, Alperen Houston Rockets" target="Green, Jeff Houston Rockets" id="159" weight="47" />
+      <edge source="Sengun, Alperen Houston Rockets" target="GOAL" id="160" weight="954" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Whitmore, Cam Houston Rockets" id="161" weight="28" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Thompson, Amen Houston Rockets" id="162" weight="62" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Williams, Nate Houston Rockets" id="163" weight="8" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Eason, Tari Houston Rockets" id="164" weight="21" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="165" weight="52" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Sengun, Alperen Houston Rockets" id="166" weight="51" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Green, Jalen Houston Rockets" id="167" weight="145" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Hinton, Nate Houston Rockets" id="168" weight="1" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Landale, Jock Houston Rockets" id="169" weight="14" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Holiday, Aaron Houston Rockets" id="170" weight="132" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Brooks, Dillon Houston Rockets" id="171" weight="32" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="VanVleet, Fred Houston Rockets" id="172" weight="250" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Marjanović, Boban Houston Rockets" id="173" weight="3" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="174" weight="19" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="Green, Jeff Houston Rockets" id="175" weight="44" />
+      <edge source="Tate, Jae'Sean Houston Rockets" target="GOAL" id="176" weight="280" />
+      <edge source="Green, Jalen Houston Rockets" target="Whitmore, Cam Houston Rockets" id="177" weight="63" />
+      <edge source="Green, Jalen Houston Rockets" target="Thompson, Amen Houston Rockets" id="178" weight="223" />
+      <edge source="Green, Jalen Houston Rockets" target="Williams, Nate Houston Rockets" id="179" weight="1" />
+      <edge source="Green, Jalen Houston Rockets" target="Eason, Tari Houston Rockets" id="180" weight="31" />
+      <edge source="Green, Jalen Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="181" weight="288" />
+      <edge source="Green, Jalen Houston Rockets" target="Sengun, Alperen Houston Rockets" id="182" weight="660" />
+      <edge source="Green, Jalen Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="183" weight="68" />
+      <edge source="Green, Jalen Houston Rockets" target="Hinton, Nate Houston Rockets" id="184" weight="6" />
+      <edge source="Green, Jalen Houston Rockets" target="Landale, Jock Houston Rockets" id="185" weight="134" />
+      <edge source="Green, Jalen Houston Rockets" target="Holiday, Aaron Houston Rockets" id="186" weight="146" />
+      <edge source="Green, Jalen Houston Rockets" target="Brooks, Dillon Houston Rockets" id="187" weight="283" />
+      <edge source="Green, Jalen Houston Rockets" target="VanVleet, Fred Houston Rockets" id="188" weight="1044" />
+      <edge source="Green, Jalen Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="189" weight="13" />
+      <edge source="Green, Jalen Houston Rockets" target="Green, Jeff Houston Rockets" id="190" weight="113" />
+      <edge source="Green, Jalen Houston Rockets" target="GOAL" id="191" weight="909" />
+      <edge source="Landale, Jock Houston Rockets" target="Whitmore, Cam Houston Rockets" id="192" weight="49" />
+      <edge source="Landale, Jock Houston Rockets" target="Thompson, Amen Houston Rockets" id="193" weight="91" />
+      <edge source="Landale, Jock Houston Rockets" target="Williams, Nate Houston Rockets" id="194" weight="7" />
+      <edge source="Landale, Jock Houston Rockets" target="Samuels Jr., Jermaine Houston Rockets" id="195" weight="1" />
+      <edge source="Landale, Jock Houston Rockets" target="Eason, Tari Houston Rockets" id="196" weight="8" />
+      <edge source="Landale, Jock Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="197" weight="32" />
+      <edge source="Landale, Jock Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="198" weight="17" />
+      <edge source="Landale, Jock Houston Rockets" target="Green, Jalen Houston Rockets" id="199" weight="151" />
+      <edge source="Landale, Jock Houston Rockets" target="Hinton, Nate Houston Rockets" id="200" weight="7" />
+      <edge source="Landale, Jock Houston Rockets" target="Holiday, Aaron Houston Rockets" id="201" weight="99" />
+      <edge source="Landale, Jock Houston Rockets" target="Brooks, Dillon Houston Rockets" id="202" weight="40" />
+      <edge source="Landale, Jock Houston Rockets" target="VanVleet, Fred Houston Rockets" id="203" weight="171" />
+      <edge source="Landale, Jock Houston Rockets" target="Marjanović, Boban Houston Rockets" id="204" weight="1" />
+      <edge source="Landale, Jock Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="205" weight="12" />
+      <edge source="Landale, Jock Houston Rockets" target="Green, Jeff Houston Rockets" id="206" weight="24" />
+      <edge source="Landale, Jock Houston Rockets" target="GOAL" id="207" weight="263" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Whitmore, Cam Houston Rockets" id="208" weight="21" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Thompson, Amen Houston Rockets" id="209" weight="94" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Williams, Nate Houston Rockets" id="210" weight="2" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Eason, Tari Houston Rockets" id="211" weight="15" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="212" weight="124" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Sengun, Alperen Houston Rockets" id="213" weight="266" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="214" weight="21" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Green, Jalen Houston Rockets" id="215" weight="274" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Hinton, Nate Houston Rockets" id="216" weight="2" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Landale, Jock Houston Rockets" id="217" weight="30" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Holiday, Aaron Houston Rockets" id="218" weight="72" />
+      <edge source="Brooks, Dillon Houston Rockets" target="VanVleet, Fred Houston Rockets" id="219" weight="446" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="220" weight="6" />
+      <edge source="Brooks, Dillon Houston Rockets" target="Green, Jeff Houston Rockets" id="221" weight="72" />
+      <edge source="Brooks, Dillon Houston Rockets" target="GOAL" id="222" weight="406" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Whitmore, Cam Houston Rockets" id="223" weight="112" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Thompson, Amen Houston Rockets" id="224" weight="229" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Williams, Nate Houston Rockets" id="225" weight="1" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Eason, Tari Houston Rockets" id="226" weight="67" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="227" weight="469" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Sengun, Alperen Houston Rockets" id="228" weight="1212" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="229" weight="159" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Green, Jalen Houston Rockets" id="230" weight="1029" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Landale, Jock Houston Rockets" id="231" weight="138" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Holiday, Aaron Houston Rockets" id="232" weight="178" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Brooks, Dillon Houston Rockets" id="233" weight="546" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Marjanović, Boban Houston Rockets" id="234" weight="1" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="235" weight="37" />
+      <edge source="VanVleet, Fred Houston Rockets" target="Green, Jeff Houston Rockets" id="236" weight="243" />
+      <edge source="VanVleet, Fred Houston Rockets" target="GOAL" id="237" weight="1776" />
+      <edge source="Green, Jeff Houston Rockets" target="Whitmore, Cam Houston Rockets" id="238" weight="56" />
+      <edge source="Green, Jeff Houston Rockets" target="Thompson, Amen Houston Rockets" id="239" weight="88" />
+      <edge source="Green, Jeff Houston Rockets" target="Williams, Nate Houston Rockets" id="240" weight="2" />
+      <edge source="Green, Jeff Houston Rockets" target="Eason, Tari Houston Rockets" id="241" weight="18" />
+      <edge source="Green, Jeff Houston Rockets" target="Smith Jr., Jabari Houston Rockets" id="242" weight="85" />
+      <edge source="Green, Jeff Houston Rockets" target="Sengun, Alperen Houston Rockets" id="243" weight="24" />
+      <edge source="Green, Jeff Houston Rockets" target="Tate, Jae'Sean Houston Rockets" id="244" weight="48" />
+      <edge source="Green, Jeff Houston Rockets" target="Green, Jalen Houston Rockets" id="245" weight="155" />
+      <edge source="Green, Jeff Houston Rockets" target="Hinton, Nate Houston Rockets" id="246" weight="1" />
+      <edge source="Green, Jeff Houston Rockets" target="Landale, Jock Houston Rockets" id="247" weight="18" />
+      <edge source="Green, Jeff Houston Rockets" target="Holiday, Aaron Houston Rockets" id="248" weight="131" />
+      <edge source="Green, Jeff Houston Rockets" target="Brooks, Dillon Houston Rockets" id="249" weight="80" />
+      <edge source="Green, Jeff Houston Rockets" target="VanVleet, Fred Houston Rockets" id="250" weight="238" />
+      <edge source="Green, Jeff Houston Rockets" target="Bullock Jr., Reggie Houston Rockets" id="251" weight="21" />
+      <edge source="Green, Jeff Houston Rockets" target="GOAL" id="252" weight="283" />
+    </edges>
+  </graph>
+</gexf>

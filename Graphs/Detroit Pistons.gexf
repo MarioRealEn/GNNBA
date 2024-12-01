@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Duren, Jalen Detroit Pistons" label="Duren, Jalen Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Evbuomwan, Tosan Detroit Pistons" label="Evbuomwan, Tosan Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Thompson, Ausar Detroit Pistons" label="Thompson, Ausar Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Fontecchio, Simone Detroit Pistons" label="Fontecchio, Simone Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Boeheim, Buddy Detroit Pistons" label="Boeheim, Buddy Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Sasser, Marcus Detroit Pistons" label="Sasser, Marcus Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Ivey, Jaden Detroit Pistons" label="Ivey, Jaden Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Umude, Stanley Detroit Pistons" label="Umude, Stanley Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Cunningham, Cade Detroit Pistons" label="Cunningham, Cade Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Flynn, Malachi Detroit Pistons" label="Flynn, Malachi Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Stewart, Isaiah Detroit Pistons" label="Stewart, Isaiah Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Grimes, Quentin Detroit Pistons" label="Grimes, Quentin Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Metu, Chimezie Detroit Pistons" label="Metu, Chimezie Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Brown Jr., Troy Detroit Pistons" label="Brown Jr., Troy Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Fournier, Evan Detroit Pistons" label="Fournier, Evan Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Gibson, Taj Detroit Pistons" label="Gibson, Taj Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Rhoden, Jared Detroit Pistons" label="Rhoden, Jared Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="Wiseman, James Detroit Pistons" label="Wiseman, James Detroit Pistons">
+        <attvalues>
+          <attvalue for="0" value="Detroit Pistons" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Duren, Jalen Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="0" weight="8" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="1" weight="112" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="2" weight="26" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="3" weight="1" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="4" weight="209" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="5" weight="491" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="6" weight="10" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="7" weight="1112" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="8" weight="33" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="9" weight="86" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="10" weight="2" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="11" weight="12" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="12" weight="14" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="13" weight="21" />
+      <edge source="Duren, Jalen Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="14" weight="1" />
+      <edge source="Duren, Jalen Detroit Pistons" target="GOAL" id="15" weight="560" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="16" weight="2" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="17" weight="29" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="18" weight="1" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="19" weight="7" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="20" weight="33" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="21" weight="2" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="22" weight="44" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="23" weight="24" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Wiseman, James Detroit Pistons" id="24" weight="7" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="25" weight="7" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="26" weight="6" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="27" weight="11" />
+      <edge source="Evbuomwan, Tosan Detroit Pistons" target="GOAL" id="28" weight="48" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="29" weight="19" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="30" weight="151" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="31" weight="91" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="32" weight="141" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="33" weight="6" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="34" weight="340" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="35" weight="6" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="36" weight="89" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Wiseman, James Detroit Pistons" id="37" weight="29" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="38" weight="5" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="39" weight="1" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="40" weight="6" />
+      <edge source="Thompson, Ausar Detroit Pistons" target="GOAL" id="41" weight="258" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="42" weight="24" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="43" weight="46" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="44" weight="24" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="45" weight="40" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="46" weight="2" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="47" weight="125" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="48" weight="12" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="49" weight="23" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Wiseman, James Detroit Pistons" id="50" weight="13" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="51" weight="11" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="52" weight="4" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="53" weight="24" />
+      <edge source="Fontecchio, Simone Detroit Pistons" target="GOAL" id="54" weight="88" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="55" weight="3" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="56" weight="16" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="57" weight="1" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="58" weight="2" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="59" weight="10" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Wiseman, James Detroit Pistons" id="60" weight="6" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="61" weight="8" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="62" weight="1" />
+      <edge source="Boeheim, Buddy Detroit Pistons" target="GOAL" id="63" weight="9" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="64" weight="21" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="65" weight="110" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="66" weight="47" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="67" weight="17" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="68" weight="36" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="69" weight="136" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="70" weight="333" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="71" weight="36" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="72" weight="151" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="73" weight="31" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="74" weight="63" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Wiseman, James Detroit Pistons" id="75" weight="184" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="76" weight="15" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="77" weight="70" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="78" weight="47" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="79" weight="113" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="80" weight="8" />
+      <edge source="Sasser, Marcus Detroit Pistons" target="GOAL" id="81" weight="487" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="82" weight="28" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="83" weight="101" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="84" weight="49" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="85" weight="8" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="86" weight="234" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="87" weight="12" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="88" weight="341" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="89" weight="14" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="90" weight="561" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="91" weight="26" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="92" weight="113" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Wiseman, James Detroit Pistons" id="93" weight="97" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="94" weight="5" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="95" weight="56" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="96" weight="33" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="97" weight="30" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="98" weight="1" />
+      <edge source="Ivey, Jaden Detroit Pistons" target="GOAL" id="99" weight="621" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="100" weight="1" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="101" weight="3" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="102" weight="3" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="103" weight="40" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="104" weight="4" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="105" weight="18" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="106" weight="25" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="107" weight="1" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="108" weight="4" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Wiseman, James Detroit Pistons" id="109" weight="4" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="110" weight="2" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="111" weight="1" />
+      <edge source="Umude, Stanley Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="112" weight="2" />
+      <edge source="Umude, Stanley Detroit Pistons" target="GOAL" id="113" weight="30" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="114" weight="31" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="115" weight="273" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="116" weight="133" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="117" weight="158" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="118" weight="5" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="119" weight="573" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="120" weight="620" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="121" weight="25" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="122" weight="2" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="123" weight="301" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Wiseman, James Detroit Pistons" id="124" weight="91" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="125" weight="15" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="126" weight="8" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="127" weight="12" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="128" weight="41" />
+      <edge source="Cunningham, Cade Detroit Pistons" target="GOAL" id="129" weight="836" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="130" weight="14" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="131" weight="6" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="132" weight="17" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="133" weight="15" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="134" weight="31" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="135" weight="36" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="136" weight="22" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="137" weight="41" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="138" weight="1" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="139" weight="5" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Wiseman, James Detroit Pistons" id="140" weight="95" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="141" weight="23" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="142" weight="51" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="143" weight="46" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="144" weight="115" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="145" weight="7" />
+      <edge source="Flynn, Malachi Detroit Pistons" target="GOAL" id="146" weight="142" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="147" weight="93" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="148" weight="14" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="149" weight="80" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="150" weight="1" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="151" weight="51" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="152" weight="151" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="153" weight="4" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="154" weight="449" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Wiseman, James Detroit Pistons" id="155" weight="4" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="156" weight="4" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="157" weight="12" />
+      <edge source="Stewart, Isaiah Detroit Pistons" target="GOAL" id="158" weight="225" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="159" weight="1" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="160" weight="1" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="161" weight="13" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="162" weight="8" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="163" weight="2" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="164" weight="5" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="165" weight="2" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="166" weight="18" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="167" weight="21" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="168" weight="3" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Wiseman, James Detroit Pistons" id="169" weight="16" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="170" weight="15" />
+      <edge source="Grimes, Quentin Detroit Pistons" target="GOAL" id="171" weight="43" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="172" weight="8" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="173" weight="8" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="174" weight="96" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="175" weight="25" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="176" weight="7" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="177" weight="57" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="178" weight="25" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="179" weight="62" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Wiseman, James Detroit Pistons" id="180" weight="17" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="181" weight="23" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="182" weight="27" />
+      <edge source="Metu, Chimezie Detroit Pistons" target="GOAL" id="183" weight="105" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="184" weight="15" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="185" weight="2" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="186" weight="67" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="187" weight="9" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="188" weight="22" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="189" weight="41" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="190" weight="25" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="191" weight="45" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Wiseman, James Detroit Pistons" id="192" weight="18" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="193" weight="2" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="194" weight="19" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="195" weight="27" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="196" weight="1" />
+      <edge source="Brown Jr., Troy Detroit Pistons" target="GOAL" id="197" weight="75" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="198" weight="11" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="199" weight="7" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="200" weight="28" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="201" weight="1" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="202" weight="107" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="203" weight="6" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="204" weight="16" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="205" weight="35" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="206" weight="5" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="207" weight="70" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="208" weight="105" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="209" weight="6" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Wiseman, James Detroit Pistons" id="210" weight="57" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="211" weight="18" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="212" weight="33" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="213" weight="21" />
+      <edge source="Fournier, Evan Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="214" weight="6" />
+      <edge source="Fournier, Evan Detroit Pistons" target="GOAL" id="215" weight="161" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="216" weight="10" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="217" weight="3" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="218" weight="2" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="219" weight="14" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Wiseman, James Detroit Pistons" id="220" weight="1" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="221" weight="3" />
+      <edge source="Gibson, Taj Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="222" weight="3" />
+      <edge source="Gibson, Taj Detroit Pistons" target="GOAL" id="223" weight="6" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="224" weight="2" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="225" weight="3" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="226" weight="1" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="227" weight="81" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Duren, Jalen Detroit Pistons" id="228" weight="2" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="229" weight="14" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="230" weight="8" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="231" weight="54" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="232" weight="2" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Wiseman, James Detroit Pistons" id="233" weight="5" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="234" weight="17" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="235" weight="2" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="236" weight="10" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="Gibson, Taj Detroit Pistons" id="237" weight="2" />
+      <edge source="Rhoden, Jared Detroit Pistons" target="GOAL" id="238" weight="52" />
+      <edge source="Wiseman, James Detroit Pistons" target="Evbuomwan, Tosan Detroit Pistons" id="239" weight="9" />
+      <edge source="Wiseman, James Detroit Pistons" target="Thompson, Ausar Detroit Pistons" id="240" weight="49" />
+      <edge source="Wiseman, James Detroit Pistons" target="Fontecchio, Simone Detroit Pistons" id="241" weight="12" />
+      <edge source="Wiseman, James Detroit Pistons" target="Boeheim, Buddy Detroit Pistons" id="242" weight="3" />
+      <edge source="Wiseman, James Detroit Pistons" target="Sasser, Marcus Detroit Pistons" id="243" weight="349" />
+      <edge source="Wiseman, James Detroit Pistons" target="Rhoden, Jared Detroit Pistons" id="244" weight="16" />
+      <edge source="Wiseman, James Detroit Pistons" target="Ivey, Jaden Detroit Pistons" id="245" weight="173" />
+      <edge source="Wiseman, James Detroit Pistons" target="Umude, Stanley Detroit Pistons" id="246" weight="8" />
+      <edge source="Wiseman, James Detroit Pistons" target="Cunningham, Cade Detroit Pistons" id="247" weight="190" />
+      <edge source="Wiseman, James Detroit Pistons" target="Flynn, Malachi Detroit Pistons" id="248" weight="181" />
+      <edge source="Wiseman, James Detroit Pistons" target="Stewart, Isaiah Detroit Pistons" id="249" weight="8" />
+      <edge source="Wiseman, James Detroit Pistons" target="Grimes, Quentin Detroit Pistons" id="250" weight="21" />
+      <edge source="Wiseman, James Detroit Pistons" target="Metu, Chimezie Detroit Pistons" id="251" weight="13" />
+      <edge source="Wiseman, James Detroit Pistons" target="Brown Jr., Troy Detroit Pistons" id="252" weight="28" />
+      <edge source="Wiseman, James Detroit Pistons" target="Fournier, Evan Detroit Pistons" id="253" weight="83" />
+      <edge source="Wiseman, James Detroit Pistons" target="GOAL" id="254" weight="243" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Whitehead, Dariq Brooklyn Nets" label="Whitehead, Dariq Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Clowney, Noah Brooklyn Nets" label="Clowney, Noah Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Wilson, Jalen Brooklyn Nets" label="Wilson, Jalen Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Watford, Trendon Brooklyn Nets" label="Watford, Trendon Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Johnson, Keon Brooklyn Nets" label="Johnson, Keon Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Smith Jr., Dennis Brooklyn Nets" label="Smith Jr., Dennis Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Bridges, Mikal Brooklyn Nets" label="Bridges, Mikal Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Gilyard, Jacob Brooklyn Nets" label="Gilyard, Jacob Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Thomas, Cam Brooklyn Nets" label="Thomas, Cam Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Sharpe, Day'Ron Brooklyn Nets" label="Sharpe, Day'Ron Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Johnson, Cameron Brooklyn Nets" label="Johnson, Cameron Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Claxton, Nic Brooklyn Nets" label="Claxton, Nic Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Walker IV, Lonnie Brooklyn Nets" label="Walker IV, Lonnie Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Bates-Diop, Keita Brooklyn Nets" label="Bates-Diop, Keita Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Finney-Smith, Dorian Brooklyn Nets" label="Finney-Smith, Dorian Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Simmons, Ben Brooklyn Nets" label="Simmons, Ben Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="Schröder, Dennis Brooklyn Nets" label="Schröder, Dennis Brooklyn Nets">
+        <attvalues>
+          <attvalue for="0" value="Brooklyn Nets" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="0" weight="3" />
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="1" weight="3" />
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="2" weight="4" />
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="3" weight="4" />
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="4" weight="4" />
+      <edge source="Whitehead, Dariq Brooklyn Nets" target="GOAL" id="5" weight="7" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="6" weight="1" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="7" weight="12" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="8" weight="18" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="9" weight="55" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="10" weight="46" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="11" weight="6" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="12" weight="4" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="13" weight="8" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="14" weight="3" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="15" weight="18" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="16" weight="33" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="17" weight="3" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="18" weight="24" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="19" weight="4" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="20" weight="1" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="21" weight="63" />
+      <edge source="Clowney, Noah Brooklyn Nets" target="GOAL" id="22" weight="75" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="23" weight="12" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="24" weight="7" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="25" weight="61" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="26" weight="45" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="27" weight="12" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="28" weight="22" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="29" weight="14" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="30" weight="17" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="31" weight="21" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="32" weight="42" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="33" weight="5" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="34" weight="61" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="35" weight="7" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="36" weight="13" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="37" weight="69" />
+      <edge source="Wilson, Jalen Brooklyn Nets" target="GOAL" id="38" weight="138" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="39" weight="44" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="40" weight="2" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="41" weight="6" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="42" weight="71" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="43" weight="234" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="44" weight="22" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="45" weight="82" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="46" weight="56" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="47" weight="81" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="48" weight="98" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="49" weight="132" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="50" weight="16" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="51" weight="125" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="52" weight="43" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="53" weight="13" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="54" weight="81" />
+      <edge source="Watford, Trendon Brooklyn Nets" target="GOAL" id="55" weight="244" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="56" weight="5" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="57" weight="1" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="58" weight="11" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="59" weight="14" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="60" weight="3" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="61" weight="1" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="62" weight="3" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="63" weight="3" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="64" weight="7" />
+      <edge source="Johnson, Keon Brooklyn Nets" target="GOAL" id="65" weight="9" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="66" weight="23" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="67" weight="3" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="68" weight="41" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="69" weight="101" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="70" weight="193" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="71" weight="9" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="72" weight="132" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="73" weight="118" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="74" weight="156" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="75" weight="162" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="76" weight="227" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="77" weight="9" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="78" weight="96" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="79" weight="13" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="80" weight="66" />
+      <edge source="Smith Jr., Dennis Brooklyn Nets" target="GOAL" id="81" weight="520" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="82" weight="41" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="83" weight="8" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="84" weight="51" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="85" weight="126" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="86" weight="362" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="87" weight="77" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="88" weight="272" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="89" weight="318" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="90" weight="89" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="91" weight="4" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="92" weight="206" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="93" weight="303" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="94" weight="110" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="95" weight="359" />
+      <edge source="Bridges, Mikal Brooklyn Nets" target="GOAL" id="96" weight="739" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="97" weight="5" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="98" weight="1" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="99" weight="12" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="100" weight="6" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="101" weight="4" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="102" weight="1" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="103" weight="7" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="104" weight="6" />
+      <edge source="Gilyard, Jacob Brooklyn Nets" target="GOAL" id="105" weight="17" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="106" weight="14" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="107" weight="3" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="108" weight="33" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="109" weight="121" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="110" weight="68" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="111" weight="118" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="112" weight="239" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="113" weight="94" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="114" weight="335" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="115" weight="133" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="116" weight="130" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="117" weight="129" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="118" weight="204" />
+      <edge source="Thomas, Cam Brooklyn Nets" target="GOAL" id="119" weight="497" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="120" weight="4" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Whitehead, Dariq Brooklyn Nets" id="121" weight="1" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="122" weight="2" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="123" weight="27" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="124" weight="98" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="125" weight="172" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="126" weight="3" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="127" weight="67" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="128" weight="83" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="129" weight="142" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="130" weight="2" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="131" weight="155" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="132" weight="45" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="133" weight="6" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="134" weight="101" />
+      <edge source="Sharpe, Day'Ron Brooklyn Nets" target="GOAL" id="135" weight="275" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="136" weight="13" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="137" weight="14" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="138" weight="43" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="139" weight="121" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="140" weight="65" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="141" weight="146" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="142" weight="43" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="143" weight="236" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="144" weight="76" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="145" weight="125" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="146" weight="20" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="147" weight="134" />
+      <edge source="Johnson, Cameron Brooklyn Nets" target="GOAL" id="148" weight="366" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="149" weight="7" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="150" weight="3" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="151" weight="12" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="152" weight="65" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="153" weight="383" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="154" weight="2" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="155" weight="185" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="156" weight="74" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="157" weight="476" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="158" weight="137" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="159" weight="77" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="160" weight="42" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="161" weight="374" />
+      <edge source="Claxton, Nic Brooklyn Nets" target="GOAL" id="162" weight="464" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="163" weight="12" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="164" weight="2" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="165" weight="22" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="166" weight="83" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="167" weight="77" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="168" weight="26" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="169" weight="40" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="170" weight="40" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="171" weight="78" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="172" weight="10" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="173" weight="104" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="174" weight="42" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="175" weight="24" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="176" weight="66" />
+      <edge source="Walker IV, Lonnie Brooklyn Nets" target="GOAL" id="177" weight="195" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="178" weight="1" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="179" weight="10" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="180" weight="11" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Johnson, Keon Brooklyn Nets" id="181" weight="7" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="182" weight="7" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="183" weight="7" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="184" weight="3" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="185" weight="9" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="186" weight="4" />
+      <edge source="Bates-Diop, Keita Brooklyn Nets" target="GOAL" id="187" weight="15" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="188" weight="5" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Gilyard, Jacob Brooklyn Nets" id="189" weight="2" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="190" weight="9" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="191" weight="47" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="192" weight="229" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="193" weight="34" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="194" weight="104" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="195" weight="105" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="196" weight="55" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="197" weight="276" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="198" weight="2" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="199" weight="132" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="200" weight="106" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="201" weight="305" />
+      <edge source="Finney-Smith, Dorian Brooklyn Nets" target="GOAL" id="202" weight="373" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="203" weight="11" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="204" weight="7" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="205" weight="194" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="206" weight="6" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="207" weight="31" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="208" weight="28" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="209" weight="59" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="210" weight="191" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="211" weight="8" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="212" weight="102" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="Schröder, Dennis Brooklyn Nets" id="213" weight="9" />
+      <edge source="Simmons, Ben Brooklyn Nets" target="GOAL" id="214" weight="234" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Clowney, Noah Brooklyn Nets" id="215" weight="46" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Wilson, Jalen Brooklyn Nets" id="216" weight="58" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Watford, Trendon Brooklyn Nets" id="217" weight="61" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Thomas, Cam Brooklyn Nets" id="218" weight="221" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Sharpe, Day'Ron Brooklyn Nets" id="219" weight="78" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Johnson, Cameron Brooklyn Nets" id="220" weight="147" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Claxton, Nic Brooklyn Nets" id="221" weight="309" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Walker IV, Lonnie Brooklyn Nets" id="222" weight="85" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Bridges, Mikal Brooklyn Nets" id="223" weight="408" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Bates-Diop, Keita Brooklyn Nets" id="224" weight="3" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Smith Jr., Dennis Brooklyn Nets" id="225" weight="50" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Finney-Smith, Dorian Brooklyn Nets" id="226" weight="182" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="Simmons, Ben Brooklyn Nets" id="227" weight="8" />
+      <edge source="Schröder, Dennis Brooklyn Nets" target="GOAL" id="228" weight="492" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Braun, Christian Denver Nuggets" label="Braun, Christian Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Gillespie, Collin Denver Nuggets" label="Gillespie, Collin Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Watson, Peyton Denver Nuggets" label="Watson, Peyton Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Strawther, Julian Denver Nuggets" label="Strawther, Julian Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Key, Braxton Denver Nuggets" label="Key, Braxton Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Nnaji, Zeke Denver Nuggets" label="Nnaji, Zeke Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Pickett, Jalen Denver Nuggets" label="Pickett, Jalen Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Porter Jr., Michael Denver Nuggets" label="Porter Jr., Michael Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Murray, Jamal Denver Nuggets" label="Murray, Jamal Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Jokić, Nikola Denver Nuggets" label="Jokić, Nikola Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Gordon, Aaron Denver Nuggets" label="Gordon, Aaron Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Caldwell-Pope, Kentavious Denver Nuggets" label="Caldwell-Pope, Kentavious Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Holiday, Justin Denver Nuggets" label="Holiday, Justin Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Jackson, Reggie Denver Nuggets" label="Jackson, Reggie Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Jordan, DeAndre Denver Nuggets" label="Jordan, DeAndre Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Tyson, Hunter Denver Nuggets" label="Tyson, Hunter Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="Huff, Jay Denver Nuggets" label="Huff, Jay Denver Nuggets">
+        <attvalues>
+          <attvalue for="0" value="Denver Nuggets" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Braun, Christian Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="0" weight="35" />
+      <edge source="Braun, Christian Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="1" weight="169" />
+      <edge source="Braun, Christian Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="2" weight="92" />
+      <edge source="Braun, Christian Denver Nuggets" target="Key, Braxton Denver Nuggets" id="3" weight="6" />
+      <edge source="Braun, Christian Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="4" weight="53" />
+      <edge source="Braun, Christian Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="5" weight="24" />
+      <edge source="Braun, Christian Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="6" weight="91" />
+      <edge source="Braun, Christian Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="7" weight="237" />
+      <edge source="Braun, Christian Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="8" weight="336" />
+      <edge source="Braun, Christian Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="9" weight="84" />
+      <edge source="Braun, Christian Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="10" weight="64" />
+      <edge source="Braun, Christian Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="11" weight="64" />
+      <edge source="Braun, Christian Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="12" weight="388" />
+      <edge source="Braun, Christian Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="13" weight="29" />
+      <edge source="Braun, Christian Denver Nuggets" target="GOAL" id="14" weight="452" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="15" weight="11" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="16" weight="26" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Braun, Christian Denver Nuggets" id="17" weight="39" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="18" weight="25" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Huff, Jay Denver Nuggets" id="19" weight="12" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Key, Braxton Denver Nuggets" id="20" weight="8" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="21" weight="23" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="22" weight="6" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="23" weight="18" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="24" weight="124" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="25" weight="36" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="26" weight="23" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="27" weight="25" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="28" weight="2" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="29" weight="1" />
+      <edge source="Gillespie, Collin Denver Nuggets" target="GOAL" id="30" weight="95" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="31" weight="2" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="32" weight="40" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Braun, Christian Denver Nuggets" id="33" weight="180" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="34" weight="52" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Key, Braxton Denver Nuggets" id="35" weight="1" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="36" weight="48" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="37" weight="19" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="38" weight="57" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="39" weight="285" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="40" weight="212" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="41" weight="37" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="42" weight="37" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="43" weight="70" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="44" weight="426" />
+      <edge source="Watson, Peyton Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="45" weight="29" />
+      <edge source="Watson, Peyton Denver Nuggets" target="GOAL" id="46" weight="365" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="47" weight="3" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="48" weight="27" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="49" weight="52" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Braun, Christian Denver Nuggets" id="50" weight="65" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Huff, Jay Denver Nuggets" id="51" weight="4" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Key, Braxton Denver Nuggets" id="52" weight="10" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="53" weight="26" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="54" weight="23" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="55" weight="13" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="56" weight="17" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="57" weight="54" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="58" weight="18" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="59" weight="10" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="60" weight="18" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="61" weight="132" />
+      <edge source="Strawther, Julian Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="62" weight="20" />
+      <edge source="Strawther, Julian Denver Nuggets" target="GOAL" id="63" weight="154" />
+      <edge source="Key, Braxton Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="64" weight="4" />
+      <edge source="Key, Braxton Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="65" weight="17" />
+      <edge source="Key, Braxton Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="66" weight="1" />
+      <edge source="Key, Braxton Denver Nuggets" target="Braun, Christian Denver Nuggets" id="67" weight="3" />
+      <edge source="Key, Braxton Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="68" weight="15" />
+      <edge source="Key, Braxton Denver Nuggets" target="Huff, Jay Denver Nuggets" id="69" weight="4" />
+      <edge source="Key, Braxton Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="70" weight="8" />
+      <edge source="Key, Braxton Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="71" weight="24" />
+      <edge source="Key, Braxton Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="72" weight="1" />
+      <edge source="Key, Braxton Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="73" weight="9" />
+      <edge source="Key, Braxton Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="74" weight="6" />
+      <edge source="Key, Braxton Denver Nuggets" target="GOAL" id="75" weight="33" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="76" weight="2" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="77" weight="12" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="78" weight="46" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Braun, Christian Denver Nuggets" id="79" weight="49" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="80" weight="42" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Huff, Jay Denver Nuggets" id="81" weight="1" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Key, Braxton Denver Nuggets" id="82" weight="3" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="83" weight="24" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="84" weight="16" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="85" weight="67" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="86" weight="3" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="87" weight="7" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="88" weight="4" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="89" weight="25" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="90" weight="116" />
+      <edge source="Nnaji, Zeke Denver Nuggets" target="GOAL" id="91" weight="107" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="92" weight="19" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="93" weight="7" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="94" weight="9" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Braun, Christian Denver Nuggets" id="95" weight="14" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="96" weight="26" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Huff, Jay Denver Nuggets" id="97" weight="23" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Key, Braxton Denver Nuggets" id="98" weight="20" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="99" weight="21" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="100" weight="5" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="101" weight="28" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="102" weight="9" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="103" weight="8" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="104" weight="11" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="105" weight="4" />
+      <edge source="Pickett, Jalen Denver Nuggets" target="GOAL" id="106" weight="59" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="107" weight="29" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="108" weight="51" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Braun, Christian Denver Nuggets" id="109" weight="90" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="110" weight="12" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="111" weight="16" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="112" weight="3" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="113" weight="338" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="114" weight="731" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="115" weight="259" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="116" weight="166" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="117" weight="24" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="118" weight="294" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="119" weight="21" />
+      <edge source="Porter Jr., Michael Denver Nuggets" target="GOAL" id="120" weight="449" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="121" weight="206" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Braun, Christian Denver Nuggets" id="122" weight="166" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="123" weight="17" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Key, Braxton Denver Nuggets" id="124" weight="1" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="125" weight="42" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="126" weight="272" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="127" weight="1169" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="128" weight="331" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="129" weight="249" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="130" weight="49" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="131" weight="121" />
+      <edge source="Murray, Jamal Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="132" weight="40" />
+      <edge source="Murray, Jamal Denver Nuggets" target="GOAL" id="133" weight="1008" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="134" weight="127" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="135" weight="233" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Braun, Christian Denver Nuggets" id="136" weight="333" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="137" weight="63" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="138" weight="8" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="139" weight="25" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="140" weight="851" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="141" weight="1433" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="142" weight="763" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="143" weight="912" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="144" weight="117" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="145" weight="903" />
+      <edge source="Jokić, Nikola Denver Nuggets" target="GOAL" id="146" weight="1977" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="147" weight="24" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="148" weight="33" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Braun, Christian Denver Nuggets" id="149" weight="90" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="150" weight="28" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="151" weight="6" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="152" weight="12" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="153" weight="297" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="154" weight="339" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="155" weight="683" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="156" weight="219" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="157" weight="41" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="158" weight="227" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="159" weight="7" />
+      <edge source="Gordon, Aaron Denver Nuggets" target="GOAL" id="160" weight="736" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="161" weight="26" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="162" weight="28" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Braun, Christian Denver Nuggets" id="163" weight="55" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="164" weight="6" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Huff, Jay Denver Nuggets" id="165" weight="1" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="166" weight="1" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="167" weight="6" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="168" weight="164" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="169" weight="327" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="170" weight="854" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="171" weight="197" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="172" weight="12" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="173" weight="262" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="174" weight="9" />
+      <edge source="Caldwell-Pope, Kentavious Denver Nuggets" target="GOAL" id="175" weight="573" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="176" weight="2" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="177" weight="30" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="178" weight="57" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Braun, Christian Denver Nuggets" id="179" weight="57" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="180" weight="20" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Huff, Jay Denver Nuggets" id="181" weight="2" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Key, Braxton Denver Nuggets" id="182" weight="3" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="183" weight="20" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="184" weight="13" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="185" weight="40" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="186" weight="86" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="187" weight="113" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="188" weight="28" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="189" weight="18" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="190" weight="130" />
+      <edge source="Holiday, Justin Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="191" weight="10" />
+      <edge source="Holiday, Justin Denver Nuggets" target="GOAL" id="192" weight="194" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="193" weight="1" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="194" weight="1" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="195" weight="254" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Braun, Christian Denver Nuggets" id="196" weight="267" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="197" weight="139" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Huff, Jay Denver Nuggets" id="198" weight="2" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Key, Braxton Denver Nuggets" id="199" weight="4" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="200" weight="119" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="201" weight="1" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="202" weight="207" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="203" weight="137" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Jokić, Nikola Denver Nuggets" id="204" weight="918" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="205" weight="243" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="206" weight="190" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="207" weight="110" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="Jordan, DeAndre Denver Nuggets" id="208" weight="104" />
+      <edge source="Jackson, Reggie Denver Nuggets" target="GOAL" id="209" weight="836" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="210" weight="5" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="211" weight="38" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Braun, Christian Denver Nuggets" id="212" weight="31" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="213" weight="32" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="214" weight="1" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="215" weight="1" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Porter Jr., Michael Denver Nuggets" id="216" weight="30" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Murray, Jamal Denver Nuggets" id="217" weight="61" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Gordon, Aaron Denver Nuggets" id="218" weight="6" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="219" weight="10" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="220" weight="19" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="221" weight="106" />
+      <edge source="Jordan, DeAndre Denver Nuggets" target="GOAL" id="222" weight="85" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="223" weight="7" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Watson, Peyton Denver Nuggets" id="224" weight="2" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="225" weight="5" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Huff, Jay Denver Nuggets" id="226" weight="3" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Key, Braxton Denver Nuggets" id="227" weight="3" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="228" weight="2" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="229" weight="21" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="230" weight="2" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="231" weight="2" />
+      <edge source="Tyson, Hunter Denver Nuggets" target="GOAL" id="232" weight="6" />
+      <edge source="Huff, Jay Denver Nuggets" target="Tyson, Hunter Denver Nuggets" id="233" weight="5" />
+      <edge source="Huff, Jay Denver Nuggets" target="Gillespie, Collin Denver Nuggets" id="234" weight="12" />
+      <edge source="Huff, Jay Denver Nuggets" target="Strawther, Julian Denver Nuggets" id="235" weight="9" />
+      <edge source="Huff, Jay Denver Nuggets" target="Key, Braxton Denver Nuggets" id="236" weight="5" />
+      <edge source="Huff, Jay Denver Nuggets" target="Nnaji, Zeke Denver Nuggets" id="237" weight="5" />
+      <edge source="Huff, Jay Denver Nuggets" target="Pickett, Jalen Denver Nuggets" id="238" weight="14" />
+      <edge source="Huff, Jay Denver Nuggets" target="Caldwell-Pope, Kentavious Denver Nuggets" id="239" weight="1" />
+      <edge source="Huff, Jay Denver Nuggets" target="Holiday, Justin Denver Nuggets" id="240" weight="2" />
+      <edge source="Huff, Jay Denver Nuggets" target="Jackson, Reggie Denver Nuggets" id="241" weight="2" />
+      <edge source="Huff, Jay Denver Nuggets" target="GOAL" id="242" weight="10" />
+    </edges>
+  </graph>
+</gexf>

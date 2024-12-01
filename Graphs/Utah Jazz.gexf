@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Clarkson, Jordan Utah Jazz" label="Clarkson, Jordan Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Sensabaugh, Brice Utah Jazz" label="Sensabaugh, Brice Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="George, Keyonte Utah Jazz" label="George, Keyonte Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Hendricks, Taylor Utah Jazz" label="Hendricks, Taylor Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Kessler, Walker Utah Jazz" label="Kessler, Walker Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Potter, Micah Utah Jazz" label="Potter, Micah Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Juzang, Johnny Utah Jazz" label="Juzang, Johnny Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Yurtseven, Omer Utah Jazz" label="Yurtseven, Omer Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Samanic, Luka Utah Jazz" label="Samanic, Luka Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Horton-Tucker, Talen Utah Jazz" label="Horton-Tucker, Talen Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Sexton, Collin Utah Jazz" label="Sexton, Collin Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Collins, John Utah Jazz" label="Collins, John Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Markkanen, Lauri Utah Jazz" label="Markkanen, Lauri Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Dunn, Kris Utah Jazz" label="Dunn, Kris Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Lofton Jr., Kenneth Utah Jazz" label="Lofton Jr., Kenneth Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Preston, Jason Utah Jazz" label="Preston, Jason Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Lewis Jr., Kira Utah Jazz" label="Lewis Jr., Kira Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="Bazley, Darius Utah Jazz" label="Bazley, Darius Utah Jazz">
+        <attvalues>
+          <attvalue for="0" value="Utah Jazz" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Clarkson, Jordan Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="0" weight="18" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="George, Keyonte Utah Jazz" id="1" weight="390" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="2" weight="10" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Kessler, Walker Utah Jazz" id="3" weight="101" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Potter, Micah Utah Jazz" id="4" weight="1" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Juzang, Johnny Utah Jazz" id="5" weight="9" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="6" weight="7" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Samanic, Luka Utah Jazz" id="7" weight="14" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="8" weight="107" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Sexton, Collin Utah Jazz" id="9" weight="153" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Collins, John Utah Jazz" id="10" weight="171" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="11" weight="223" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="Dunn, Kris Utah Jazz" id="12" weight="93" />
+      <edge source="Clarkson, Jordan Utah Jazz" target="GOAL" id="13" weight="633" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="George, Keyonte Utah Jazz" id="14" weight="80" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="15" weight="32" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="16" weight="12" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Kessler, Walker Utah Jazz" id="17" weight="21" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Potter, Micah Utah Jazz" id="18" weight="7" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Preston, Jason Utah Jazz" id="19" weight="6" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Juzang, Johnny Utah Jazz" id="20" weight="8" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="21" weight="30" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="22" weight="25" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Samanic, Luka Utah Jazz" id="23" weight="12" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="24" weight="40" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Bazley, Darius Utah Jazz" id="25" weight="7" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Sexton, Collin Utah Jazz" id="26" weight="62" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Collins, John Utah Jazz" id="27" weight="21" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="28" weight="11" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Dunn, Kris Utah Jazz" id="29" weight="44" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="30" weight="24" />
+      <edge source="Sensabaugh, Brice Utah Jazz" target="GOAL" id="31" weight="164" />
+      <edge source="George, Keyonte Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="32" weight="100" />
+      <edge source="George, Keyonte Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="33" weight="125" />
+      <edge source="George, Keyonte Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="34" weight="22" />
+      <edge source="George, Keyonte Utah Jazz" target="Kessler, Walker Utah Jazz" id="35" weight="184" />
+      <edge source="George, Keyonte Utah Jazz" target="Potter, Micah Utah Jazz" id="36" weight="12" />
+      <edge source="George, Keyonte Utah Jazz" target="Preston, Jason Utah Jazz" id="37" weight="1" />
+      <edge source="George, Keyonte Utah Jazz" target="Juzang, Johnny Utah Jazz" id="38" weight="67" />
+      <edge source="George, Keyonte Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="39" weight="130" />
+      <edge source="George, Keyonte Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="40" weight="9" />
+      <edge source="George, Keyonte Utah Jazz" target="Samanic, Luka Utah Jazz" id="41" weight="80" />
+      <edge source="George, Keyonte Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="42" weight="107" />
+      <edge source="George, Keyonte Utah Jazz" target="Bazley, Darius Utah Jazz" id="43" weight="13" />
+      <edge source="George, Keyonte Utah Jazz" target="Sexton, Collin Utah Jazz" id="44" weight="417" />
+      <edge source="George, Keyonte Utah Jazz" target="Collins, John Utah Jazz" id="45" weight="370" />
+      <edge source="George, Keyonte Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="46" weight="323" />
+      <edge source="George, Keyonte Utah Jazz" target="Dunn, Kris Utah Jazz" id="47" weight="147" />
+      <edge source="George, Keyonte Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="48" weight="708" />
+      <edge source="George, Keyonte Utah Jazz" target="GOAL" id="49" weight="825" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="50" weight="34" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="George, Keyonte Utah Jazz" id="51" weight="191" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="52" weight="1" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="53" weight="3" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Kessler, Walker Utah Jazz" id="54" weight="6" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Potter, Micah Utah Jazz" id="55" weight="1" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Preston, Jason Utah Jazz" id="56" weight="7" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Juzang, Johnny Utah Jazz" id="57" weight="12" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="58" weight="16" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="59" weight="14" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Samanic, Luka Utah Jazz" id="60" weight="11" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="61" weight="47" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Bazley, Darius Utah Jazz" id="62" weight="1" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Sexton, Collin Utah Jazz" id="63" weight="85" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Collins, John Utah Jazz" id="64" weight="26" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="65" weight="9" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Dunn, Kris Utah Jazz" id="66" weight="76" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="67" weight="16" />
+      <edge source="Hendricks, Taylor Utah Jazz" target="GOAL" id="68" weight="130" />
+      <edge source="Kessler, Walker Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="69" weight="20" />
+      <edge source="Kessler, Walker Utah Jazz" target="George, Keyonte Utah Jazz" id="70" weight="398" />
+      <edge source="Kessler, Walker Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="71" weight="10" />
+      <edge source="Kessler, Walker Utah Jazz" target="Potter, Micah Utah Jazz" id="72" weight="5" />
+      <edge source="Kessler, Walker Utah Jazz" target="Preston, Jason Utah Jazz" id="73" weight="11" />
+      <edge source="Kessler, Walker Utah Jazz" target="Juzang, Johnny Utah Jazz" id="74" weight="5" />
+      <edge source="Kessler, Walker Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="75" weight="7" />
+      <edge source="Kessler, Walker Utah Jazz" target="Samanic, Luka Utah Jazz" id="76" weight="3" />
+      <edge source="Kessler, Walker Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="77" weight="258" />
+      <edge source="Kessler, Walker Utah Jazz" target="Sexton, Collin Utah Jazz" id="78" weight="272" />
+      <edge source="Kessler, Walker Utah Jazz" target="Collins, John Utah Jazz" id="79" weight="26" />
+      <edge source="Kessler, Walker Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="80" weight="47" />
+      <edge source="Kessler, Walker Utah Jazz" target="Dunn, Kris Utah Jazz" id="81" weight="186" />
+      <edge source="Kessler, Walker Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="82" weight="177" />
+      <edge source="Kessler, Walker Utah Jazz" target="GOAL" id="83" weight="256" />
+      <edge source="Potter, Micah Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="84" weight="11" />
+      <edge source="Potter, Micah Utah Jazz" target="George, Keyonte Utah Jazz" id="85" weight="26" />
+      <edge source="Potter, Micah Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="86" weight="2" />
+      <edge source="Potter, Micah Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="87" weight="2" />
+      <edge source="Potter, Micah Utah Jazz" target="Kessler, Walker Utah Jazz" id="88" weight="3" />
+      <edge source="Potter, Micah Utah Jazz" target="Preston, Jason Utah Jazz" id="89" weight="3" />
+      <edge source="Potter, Micah Utah Jazz" target="Juzang, Johnny Utah Jazz" id="90" weight="9" />
+      <edge source="Potter, Micah Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="91" weight="4" />
+      <edge source="Potter, Micah Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="92" weight="20" />
+      <edge source="Potter, Micah Utah Jazz" target="Samanic, Luka Utah Jazz" id="93" weight="1" />
+      <edge source="Potter, Micah Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="94" weight="10" />
+      <edge source="Potter, Micah Utah Jazz" target="Bazley, Darius Utah Jazz" id="95" weight="3" />
+      <edge source="Potter, Micah Utah Jazz" target="Sexton, Collin Utah Jazz" id="96" weight="36" />
+      <edge source="Potter, Micah Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="97" weight="1" />
+      <edge source="Potter, Micah Utah Jazz" target="Dunn, Kris Utah Jazz" id="98" weight="24" />
+      <edge source="Potter, Micah Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="99" weight="4" />
+      <edge source="Potter, Micah Utah Jazz" target="GOAL" id="100" weight="31" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="101" weight="6" />
+      <edge source="Juzang, Johnny Utah Jazz" target="George, Keyonte Utah Jazz" id="102" weight="39" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="103" weight="11" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="104" weight="4" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Kessler, Walker Utah Jazz" id="105" weight="4" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Potter, Micah Utah Jazz" id="106" weight="9" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Preston, Jason Utah Jazz" id="107" weight="12" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="108" weight="22" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="109" weight="2" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Samanic, Luka Utah Jazz" id="110" weight="14" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="111" weight="17" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Bazley, Darius Utah Jazz" id="112" weight="11" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Sexton, Collin Utah Jazz" id="113" weight="40" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Collins, John Utah Jazz" id="114" weight="4" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="115" weight="3" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Dunn, Kris Utah Jazz" id="116" weight="19" />
+      <edge source="Juzang, Johnny Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="117" weight="9" />
+      <edge source="Juzang, Johnny Utah Jazz" target="GOAL" id="118" weight="75" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="119" weight="36" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="George, Keyonte Utah Jazz" id="120" weight="232" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="121" weight="9" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Potter, Micah Utah Jazz" id="122" weight="4" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Preston, Jason Utah Jazz" id="123" weight="9" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Juzang, Johnny Utah Jazz" id="124" weight="16" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="125" weight="22" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Samanic, Luka Utah Jazz" id="126" weight="22" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="127" weight="81" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Bazley, Darius Utah Jazz" id="128" weight="1" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Sexton, Collin Utah Jazz" id="129" weight="92" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Collins, John Utah Jazz" id="130" weight="12" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="131" weight="3" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Dunn, Kris Utah Jazz" id="132" weight="76" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="133" weight="18" />
+      <edge source="Yurtseven, Omer Utah Jazz" target="GOAL" id="134" weight="126" />
+      <edge source="Samanic, Luka Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="135" weight="16" />
+      <edge source="Samanic, Luka Utah Jazz" target="George, Keyonte Utah Jazz" id="136" weight="81" />
+      <edge source="Samanic, Luka Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="137" weight="12" />
+      <edge source="Samanic, Luka Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="138" weight="5" />
+      <edge source="Samanic, Luka Utah Jazz" target="Kessler, Walker Utah Jazz" id="139" weight="2" />
+      <edge source="Samanic, Luka Utah Jazz" target="Preston, Jason Utah Jazz" id="140" weight="2" />
+      <edge source="Samanic, Luka Utah Jazz" target="Juzang, Johnny Utah Jazz" id="141" weight="11" />
+      <edge source="Samanic, Luka Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="142" weight="23" />
+      <edge source="Samanic, Luka Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="143" weight="5" />
+      <edge source="Samanic, Luka Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="144" weight="59" />
+      <edge source="Samanic, Luka Utah Jazz" target="Bazley, Darius Utah Jazz" id="145" weight="3" />
+      <edge source="Samanic, Luka Utah Jazz" target="Sexton, Collin Utah Jazz" id="146" weight="48" />
+      <edge source="Samanic, Luka Utah Jazz" target="Collins, John Utah Jazz" id="147" weight="6" />
+      <edge source="Samanic, Luka Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="148" weight="2" />
+      <edge source="Samanic, Luka Utah Jazz" target="Dunn, Kris Utah Jazz" id="149" weight="56" />
+      <edge source="Samanic, Luka Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="150" weight="9" />
+      <edge source="Samanic, Luka Utah Jazz" target="GOAL" id="151" weight="88" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="152" weight="45" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="George, Keyonte Utah Jazz" id="153" weight="111" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="154" weight="35" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="155" weight="23" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Kessler, Walker Utah Jazz" id="156" weight="163" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Potter, Micah Utah Jazz" id="157" weight="7" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Preston, Jason Utah Jazz" id="158" weight="17" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Juzang, Johnny Utah Jazz" id="159" weight="23" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="160" weight="50" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="161" weight="3" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Samanic, Luka Utah Jazz" id="162" weight="25" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Bazley, Darius Utah Jazz" id="163" weight="17" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Sexton, Collin Utah Jazz" id="164" weight="260" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Collins, John Utah Jazz" id="165" weight="112" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="166" weight="177" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Dunn, Kris Utah Jazz" id="167" weight="97" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="168" weight="162" />
+      <edge source="Horton-Tucker, Talen Utah Jazz" target="GOAL" id="169" weight="470" />
+      <edge source="Sexton, Collin Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="170" weight="54" />
+      <edge source="Sexton, Collin Utah Jazz" target="George, Keyonte Utah Jazz" id="171" weight="329" />
+      <edge source="Sexton, Collin Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="172" weight="83" />
+      <edge source="Sexton, Collin Utah Jazz" target="Kessler, Walker Utah Jazz" id="173" weight="137" />
+      <edge source="Sexton, Collin Utah Jazz" target="Potter, Micah Utah Jazz" id="174" weight="19" />
+      <edge source="Sexton, Collin Utah Jazz" target="Preston, Jason Utah Jazz" id="175" weight="10" />
+      <edge source="Sexton, Collin Utah Jazz" target="Juzang, Johnny Utah Jazz" id="176" weight="48" />
+      <edge source="Sexton, Collin Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="177" weight="63" />
+      <edge source="Sexton, Collin Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="178" weight="23" />
+      <edge source="Sexton, Collin Utah Jazz" target="Samanic, Luka Utah Jazz" id="179" weight="34" />
+      <edge source="Sexton, Collin Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="180" weight="206" />
+      <edge source="Sexton, Collin Utah Jazz" target="Bazley, Darius Utah Jazz" id="181" weight="3" />
+      <edge source="Sexton, Collin Utah Jazz" target="Collins, John Utah Jazz" id="182" weight="308" />
+      <edge source="Sexton, Collin Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="183" weight="295" />
+      <edge source="Sexton, Collin Utah Jazz" target="Dunn, Kris Utah Jazz" id="184" weight="306" />
+      <edge source="Sexton, Collin Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="185" weight="209" />
+      <edge source="Sexton, Collin Utah Jazz" target="GOAL" id="186" weight="868" />
+      <edge source="Collins, John Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="187" weight="25" />
+      <edge source="Collins, John Utah Jazz" target="George, Keyonte Utah Jazz" id="188" weight="634" />
+      <edge source="Collins, John Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="189" weight="7" />
+      <edge source="Collins, John Utah Jazz" target="Kessler, Walker Utah Jazz" id="190" weight="14" />
+      <edge source="Collins, John Utah Jazz" target="Juzang, Johnny Utah Jazz" id="191" weight="5" />
+      <edge source="Collins, John Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="192" weight="6" />
+      <edge source="Collins, John Utah Jazz" target="Samanic, Luka Utah Jazz" id="193" weight="3" />
+      <edge source="Collins, John Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="194" weight="143" />
+      <edge source="Collins, John Utah Jazz" target="Sexton, Collin Utah Jazz" id="195" weight="505" />
+      <edge source="Collins, John Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="196" weight="70" />
+      <edge source="Collins, John Utah Jazz" target="Dunn, Kris Utah Jazz" id="197" weight="272" />
+      <edge source="Collins, John Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="198" weight="197" />
+      <edge source="Collins, John Utah Jazz" target="GOAL" id="199" weight="320" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="200" weight="8" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="George, Keyonte Utah Jazz" id="201" weight="344" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="202" weight="10" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Kessler, Walker Utah Jazz" id="203" weight="63" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Potter, Micah Utah Jazz" id="204" weight="1" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Juzang, Johnny Utah Jazz" id="205" weight="3" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="206" weight="7" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="207" weight="5" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="208" weight="175" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Sexton, Collin Utah Jazz" id="209" weight="361" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Collins, John Utah Jazz" id="210" weight="117" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Dunn, Kris Utah Jazz" id="211" weight="235" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="212" weight="164" />
+      <edge source="Markkanen, Lauri Utah Jazz" target="GOAL" id="213" weight="339" />
+      <edge source="Dunn, Kris Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="214" weight="63" />
+      <edge source="Dunn, Kris Utah Jazz" target="George, Keyonte Utah Jazz" id="215" weight="214" />
+      <edge source="Dunn, Kris Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="216" weight="62" />
+      <edge source="Dunn, Kris Utah Jazz" target="Kessler, Walker Utah Jazz" id="217" weight="67" />
+      <edge source="Dunn, Kris Utah Jazz" target="Potter, Micah Utah Jazz" id="218" weight="14" />
+      <edge source="Dunn, Kris Utah Jazz" target="Preston, Jason Utah Jazz" id="219" weight="8" />
+      <edge source="Dunn, Kris Utah Jazz" target="Juzang, Johnny Utah Jazz" id="220" weight="28" />
+      <edge source="Dunn, Kris Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="221" weight="49" />
+      <edge source="Dunn, Kris Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="222" weight="10" />
+      <edge source="Dunn, Kris Utah Jazz" target="Samanic, Luka Utah Jazz" id="223" weight="47" />
+      <edge source="Dunn, Kris Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="224" weight="110" />
+      <edge source="Dunn, Kris Utah Jazz" target="Bazley, Darius Utah Jazz" id="225" weight="5" />
+      <edge source="Dunn, Kris Utah Jazz" target="Sexton, Collin Utah Jazz" id="226" weight="496" />
+      <edge source="Dunn, Kris Utah Jazz" target="Collins, John Utah Jazz" id="227" weight="213" />
+      <edge source="Dunn, Kris Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="228" weight="247" />
+      <edge source="Dunn, Kris Utah Jazz" target="Clarkson, Jordan Utah Jazz" id="229" weight="196" />
+      <edge source="Dunn, Kris Utah Jazz" target="GOAL" id="230" weight="693" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="231" weight="15" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="George, Keyonte Utah Jazz" id="232" weight="22" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="233" weight="1" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Potter, Micah Utah Jazz" id="234" weight="5" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Preston, Jason Utah Jazz" id="235" weight="10" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Juzang, Johnny Utah Jazz" id="236" weight="3" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="237" weight="6" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Samanic, Luka Utah Jazz" id="238" weight="10" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="239" weight="18" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="Bazley, Darius Utah Jazz" id="240" weight="12" />
+      <edge source="Lofton Jr., Kenneth Utah Jazz" target="GOAL" id="241" weight="47" />
+      <edge source="Preston, Jason Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="242" weight="9" />
+      <edge source="Preston, Jason Utah Jazz" target="George, Keyonte Utah Jazz" id="243" weight="2" />
+      <edge source="Preston, Jason Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="244" weight="4" />
+      <edge source="Preston, Jason Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="245" weight="13" />
+      <edge source="Preston, Jason Utah Jazz" target="Kessler, Walker Utah Jazz" id="246" weight="3" />
+      <edge source="Preston, Jason Utah Jazz" target="Potter, Micah Utah Jazz" id="247" weight="2" />
+      <edge source="Preston, Jason Utah Jazz" target="Juzang, Johnny Utah Jazz" id="248" weight="19" />
+      <edge source="Preston, Jason Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="249" weight="6" />
+      <edge source="Preston, Jason Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="250" weight="4" />
+      <edge source="Preston, Jason Utah Jazz" target="Samanic, Luka Utah Jazz" id="251" weight="3" />
+      <edge source="Preston, Jason Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="252" weight="30" />
+      <edge source="Preston, Jason Utah Jazz" target="Bazley, Darius Utah Jazz" id="253" weight="16" />
+      <edge source="Preston, Jason Utah Jazz" target="Sexton, Collin Utah Jazz" id="254" weight="21" />
+      <edge source="Preston, Jason Utah Jazz" target="Dunn, Kris Utah Jazz" id="255" weight="5" />
+      <edge source="Preston, Jason Utah Jazz" target="GOAL" id="256" weight="52" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="257" weight="36" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="George, Keyonte Utah Jazz" id="258" weight="11" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="259" weight="11" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="260" weight="14" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Kessler, Walker Utah Jazz" id="261" weight="4" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Potter, Micah Utah Jazz" id="262" weight="10" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Preston, Jason Utah Jazz" id="263" weight="2" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Juzang, Johnny Utah Jazz" id="264" weight="4" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="265" weight="13" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Samanic, Luka Utah Jazz" id="266" weight="7" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="267" weight="5" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Bazley, Darius Utah Jazz" id="268" weight="8" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Sexton, Collin Utah Jazz" id="269" weight="29" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Markkanen, Lauri Utah Jazz" id="270" weight="4" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="Dunn, Kris Utah Jazz" id="271" weight="7" />
+      <edge source="Lewis Jr., Kira Utah Jazz" target="GOAL" id="272" weight="58" />
+      <edge source="Bazley, Darius Utah Jazz" target="Sensabaugh, Brice Utah Jazz" id="273" weight="10" />
+      <edge source="Bazley, Darius Utah Jazz" target="George, Keyonte Utah Jazz" id="274" weight="29" />
+      <edge source="Bazley, Darius Utah Jazz" target="Hendricks, Taylor Utah Jazz" id="275" weight="1" />
+      <edge source="Bazley, Darius Utah Jazz" target="Lofton Jr., Kenneth Utah Jazz" id="276" weight="11" />
+      <edge source="Bazley, Darius Utah Jazz" target="Potter, Micah Utah Jazz" id="277" weight="2" />
+      <edge source="Bazley, Darius Utah Jazz" target="Preston, Jason Utah Jazz" id="278" weight="20" />
+      <edge source="Bazley, Darius Utah Jazz" target="Juzang, Johnny Utah Jazz" id="279" weight="10" />
+      <edge source="Bazley, Darius Utah Jazz" target="Yurtseven, Omer Utah Jazz" id="280" weight="4" />
+      <edge source="Bazley, Darius Utah Jazz" target="Lewis Jr., Kira Utah Jazz" id="281" weight="14" />
+      <edge source="Bazley, Darius Utah Jazz" target="Samanic, Luka Utah Jazz" id="282" weight="3" />
+      <edge source="Bazley, Darius Utah Jazz" target="Horton-Tucker, Talen Utah Jazz" id="283" weight="34" />
+      <edge source="Bazley, Darius Utah Jazz" target="Sexton, Collin Utah Jazz" id="284" weight="13" />
+      <edge source="Bazley, Darius Utah Jazz" target="Dunn, Kris Utah Jazz" id="285" weight="7" />
+      <edge source="Bazley, Darius Utah Jazz" target="GOAL" id="286" weight="36" />
+    </edges>
+  </graph>
+</gexf>

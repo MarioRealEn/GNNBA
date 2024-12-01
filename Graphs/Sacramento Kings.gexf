@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Monk, Malik Sacramento Kings" label="Monk, Malik Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Jones, Colby Sacramento Kings" label="Jones, Colby Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Ellis, Keon Sacramento Kings" label="Ellis, Keon Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Murray, Keegan Sacramento Kings" label="Murray, Keegan Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Mitchell, Davion Sacramento Kings" label="Mitchell, Davion Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Edwards, Kessler Sacramento Kings" label="Edwards, Kessler Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Duarte, Chris Sacramento Kings" label="Duarte, Chris Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Ford, Jordan Sacramento Kings" label="Ford, Jordan Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Jones, Mason Sacramento Kings" label="Jones, Mason Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Huerter, Kevin Sacramento Kings" label="Huerter, Kevin Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Vezenkov, Sasha Sacramento Kings" label="Vezenkov, Sasha Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Fox, De'Aaron Sacramento Kings" label="Fox, De'Aaron Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Sabonis, Domantas Sacramento Kings" label="Sabonis, Domantas Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Lyles, Trey Sacramento Kings" label="Lyles, Trey Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Len, Alex Sacramento Kings" label="Len, Alex Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Barnes, Harrison Sacramento Kings" label="Barnes, Harrison Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="McGee, JaVale Sacramento Kings" label="McGee, JaVale Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="Slawson, Jalen Sacramento Kings" label="Slawson, Jalen Sacramento Kings">
+        <attvalues>
+          <attvalue for="0" value="Sacramento Kings" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Monk, Malik Sacramento Kings" target="Jones, Colby Sacramento Kings" id="0" weight="21" />
+      <edge source="Monk, Malik Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="1" weight="102" />
+      <edge source="Monk, Malik Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="2" weight="155" />
+      <edge source="Monk, Malik Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="3" weight="223" />
+      <edge source="Monk, Malik Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="4" weight="10" />
+      <edge source="Monk, Malik Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="5" weight="68" />
+      <edge source="Monk, Malik Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="6" weight="2" />
+      <edge source="Monk, Malik Sacramento Kings" target="Jones, Mason Sacramento Kings" id="7" weight="1" />
+      <edge source="Monk, Malik Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="8" weight="104" />
+      <edge source="Monk, Malik Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="9" weight="88" />
+      <edge source="Monk, Malik Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="10" weight="606" />
+      <edge source="Monk, Malik Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="11" weight="686" />
+      <edge source="Monk, Malik Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="12" weight="179" />
+      <edge source="Monk, Malik Sacramento Kings" target="Len, Alex Sacramento Kings" id="13" weight="69" />
+      <edge source="Monk, Malik Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="14" weight="146" />
+      <edge source="Monk, Malik Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="15" weight="71" />
+      <edge source="Monk, Malik Sacramento Kings" target="GOAL" id="16" weight="1017" />
+      <edge source="Jones, Colby Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="17" weight="10" />
+      <edge source="Jones, Colby Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="18" weight="18" />
+      <edge source="Jones, Colby Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="19" weight="12" />
+      <edge source="Jones, Colby Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="20" weight="37" />
+      <edge source="Jones, Colby Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="21" weight="21" />
+      <edge source="Jones, Colby Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="22" weight="17" />
+      <edge source="Jones, Colby Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="23" weight="3" />
+      <edge source="Jones, Colby Sacramento Kings" target="Jones, Mason Sacramento Kings" id="24" weight="5" />
+      <edge source="Jones, Colby Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="25" weight="5" />
+      <edge source="Jones, Colby Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="26" weight="13" />
+      <edge source="Jones, Colby Sacramento Kings" target="Monk, Malik Sacramento Kings" id="27" weight="21" />
+      <edge source="Jones, Colby Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="28" weight="13" />
+      <edge source="Jones, Colby Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="29" weight="21" />
+      <edge source="Jones, Colby Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="30" weight="5" />
+      <edge source="Jones, Colby Sacramento Kings" target="Len, Alex Sacramento Kings" id="31" weight="17" />
+      <edge source="Jones, Colby Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="32" weight="3" />
+      <edge source="Jones, Colby Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="33" weight="22" />
+      <edge source="Jones, Colby Sacramento Kings" target="GOAL" id="34" weight="68" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Jones, Colby Sacramento Kings" id="35" weight="22" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="36" weight="121" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="37" weight="47" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="38" weight="15" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="39" weight="15" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="40" weight="6" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Jones, Mason Sacramento Kings" id="41" weight="4" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="42" weight="68" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="43" weight="17" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Monk, Malik Sacramento Kings" id="44" weight="160" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="45" weight="180" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="46" weight="343" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="47" weight="34" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Len, Alex Sacramento Kings" id="48" weight="45" />
+      <edge source="Ellis, Keon Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="49" weight="105" />
+      <edge source="Ellis, Keon Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="50" weight="10" />
+      <edge source="Ellis, Keon Sacramento Kings" target="GOAL" id="51" weight="271" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Jones, Colby Sacramento Kings" id="52" weight="5" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="53" weight="95" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="54" weight="132" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="55" weight="3" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="56" weight="38" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="57" weight="1" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="58" weight="111" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="59" weight="15" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Monk, Malik Sacramento Kings" id="60" weight="166" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="61" weight="435" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="62" weight="950" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="63" weight="48" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Len, Alex Sacramento Kings" id="64" weight="33" />
+      <edge source="Murray, Keegan Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="65" weight="152" />
+      <edge source="Murray, Keegan Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="66" weight="9" />
+      <edge source="Murray, Keegan Sacramento Kings" target="GOAL" id="67" weight="485" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="68" weight="8" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Jones, Colby Sacramento Kings" id="69" weight="31" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="70" weight="49" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="71" weight="140" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="72" weight="47" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="73" weight="45" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="74" weight="96" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="75" weight="49" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Monk, Malik Sacramento Kings" id="76" weight="316" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="77" weight="105" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="78" weight="448" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="79" weight="86" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Len, Alex Sacramento Kings" id="80" weight="42" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="81" weight="128" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="82" weight="19" />
+      <edge source="Mitchell, Davion Sacramento Kings" target="GOAL" id="83" weight="408" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="84" weight="5" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Jones, Colby Sacramento Kings" id="85" weight="24" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="86" weight="22" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="87" weight="4" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="88" weight="49" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="89" weight="16" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="90" weight="7" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Jones, Mason Sacramento Kings" id="91" weight="3" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="92" weight="8" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="93" weight="6" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Monk, Malik Sacramento Kings" id="94" weight="17" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="95" weight="44" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="96" weight="11" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="97" weight="8" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Len, Alex Sacramento Kings" id="98" weight="20" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="99" weight="10" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="100" weight="11" />
+      <edge source="Edwards, Kessler Sacramento Kings" target="GOAL" id="101" weight="53" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="102" weight="2" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Jones, Colby Sacramento Kings" id="103" weight="11" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="104" weight="14" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="105" weight="34" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="106" weight="56" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="107" weight="11" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="108" weight="6" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Jones, Mason Sacramento Kings" id="109" weight="14" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="110" weight="10" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="111" weight="21" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Monk, Malik Sacramento Kings" id="112" weight="80" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="113" weight="130" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="114" weight="184" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="115" weight="18" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Len, Alex Sacramento Kings" id="116" weight="25" />
+      <edge source="Duarte, Chris Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="117" weight="26" />
+      <edge source="Duarte, Chris Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="118" weight="25" />
+      <edge source="Duarte, Chris Sacramento Kings" target="GOAL" id="119" weight="166" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="120" weight="1" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Jones, Colby Sacramento Kings" id="121" weight="3" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="122" weight="9" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="123" weight="1" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="124" weight="4" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="125" weight="4" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="126" weight="3" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Monk, Malik Sacramento Kings" id="127" weight="4" />
+      <edge source="Ford, Jordan Sacramento Kings" target="Len, Alex Sacramento Kings" id="128" weight="5" />
+      <edge source="Ford, Jordan Sacramento Kings" target="GOAL" id="129" weight="9" />
+      <edge source="Jones, Mason Sacramento Kings" target="Jones, Colby Sacramento Kings" id="130" weight="3" />
+      <edge source="Jones, Mason Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="131" weight="3" />
+      <edge source="Jones, Mason Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="132" weight="4" />
+      <edge source="Jones, Mason Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="133" weight="12" />
+      <edge source="Jones, Mason Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="134" weight="16" />
+      <edge source="Jones, Mason Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="135" weight="3" />
+      <edge source="Jones, Mason Sacramento Kings" target="Monk, Malik Sacramento Kings" id="136" weight="1" />
+      <edge source="Jones, Mason Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="137" weight="1" />
+      <edge source="Jones, Mason Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="138" weight="4" />
+      <edge source="Jones, Mason Sacramento Kings" target="Len, Alex Sacramento Kings" id="139" weight="5" />
+      <edge source="Jones, Mason Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="140" weight="4" />
+      <edge source="Jones, Mason Sacramento Kings" target="GOAL" id="141" weight="14" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Jones, Colby Sacramento Kings" id="142" weight="3" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="143" weight="52" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="144" weight="158" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="145" weight="104" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="146" weight="11" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="147" weight="11" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="148" weight="10" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Monk, Malik Sacramento Kings" id="149" weight="138" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="150" weight="342" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="151" weight="587" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="152" weight="49" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Len, Alex Sacramento Kings" id="153" weight="16" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="154" weight="184" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="155" weight="8" />
+      <edge source="Huerter, Kevin Sacramento Kings" target="GOAL" id="156" weight="484" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="157" weight="2" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Jones, Colby Sacramento Kings" id="158" weight="17" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="159" weight="24" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="160" weight="13" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="161" weight="51" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="162" weight="8" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="163" weight="22" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="164" weight="6" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Jones, Mason Sacramento Kings" id="165" weight="3" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="166" weight="11" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Monk, Malik Sacramento Kings" id="167" weight="99" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="168" weight="130" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="169" weight="50" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="170" weight="31" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Len, Alex Sacramento Kings" id="171" weight="10" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="172" weight="8" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="173" weight="27" />
+      <edge source="Vezenkov, Sasha Sacramento Kings" target="GOAL" id="174" weight="114" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Jones, Colby Sacramento Kings" id="175" weight="10" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="176" weight="176" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="177" weight="506" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="178" weight="120" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="179" weight="23" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="180" weight="143" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="181" weight="369" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="182" weight="104" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Monk, Malik Sacramento Kings" id="183" weight="564" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="184" weight="987" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="185" weight="284" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Len, Alex Sacramento Kings" id="186" weight="82" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="187" weight="493" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="188" weight="52" />
+      <edge source="Fox, De'Aaron Sacramento Kings" target="GOAL" id="189" weight="1198" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Jones, Colby Sacramento Kings" id="190" weight="16" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="191" weight="325" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="192" weight="818" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="193" weight="484" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="194" weight="4" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="195" weight="147" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Jones, Mason Sacramento Kings" id="196" weight="3" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="197" weight="743" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="198" weight="44" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Monk, Malik Sacramento Kings" id="199" weight="933" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="200" weight="1681" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="201" weight="114" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="202" weight="530" />
+      <edge source="Sabonis, Domantas Sacramento Kings" target="GOAL" id="203" weight="2146" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Jones, Colby Sacramento Kings" id="204" weight="7" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="205" weight="67" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="206" weight="45" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="207" weight="154" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="208" weight="14" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="209" weight="8" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Jones, Mason Sacramento Kings" id="210" weight="4" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="211" weight="41" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="212" weight="23" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Monk, Malik Sacramento Kings" id="213" weight="289" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="214" weight="425" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="215" weight="140" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Len, Alex Sacramento Kings" id="216" weight="29" />
+      <edge source="Lyles, Trey Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="217" weight="19" />
+      <edge source="Lyles, Trey Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="218" weight="21" />
+      <edge source="Lyles, Trey Sacramento Kings" target="GOAL" id="219" weight="289" />
+      <edge source="Len, Alex Sacramento Kings" target="Jones, Colby Sacramento Kings" id="220" weight="24" />
+      <edge source="Len, Alex Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="221" weight="36" />
+      <edge source="Len, Alex Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="222" weight="36" />
+      <edge source="Len, Alex Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="223" weight="61" />
+      <edge source="Len, Alex Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="224" weight="14" />
+      <edge source="Len, Alex Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="225" weight="22" />
+      <edge source="Len, Alex Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="226" weight="6" />
+      <edge source="Len, Alex Sacramento Kings" target="Jones, Mason Sacramento Kings" id="227" weight="10" />
+      <edge source="Len, Alex Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="228" weight="18" />
+      <edge source="Len, Alex Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="229" weight="5" />
+      <edge source="Len, Alex Sacramento Kings" target="Monk, Malik Sacramento Kings" id="230" weight="130" />
+      <edge source="Len, Alex Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="231" weight="168" />
+      <edge source="Len, Alex Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="232" weight="1" />
+      <edge source="Len, Alex Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="233" weight="23" />
+      <edge source="Len, Alex Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="234" weight="11" />
+      <edge source="Len, Alex Sacramento Kings" target="GOAL" id="235" weight="201" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Jones, Colby Sacramento Kings" id="236" weight="5" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="237" weight="110" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="238" weight="146" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="239" weight="169" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="240" weight="7" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="241" weight="28" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="242" weight="146" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="243" weight="10" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Monk, Malik Sacramento Kings" id="244" weight="155" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="245" weight="650" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Sabonis, Domantas Sacramento Kings" id="246" weight="501" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="247" weight="19" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="Len, Alex Sacramento Kings" id="248" weight="14" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="249" weight="3" />
+      <edge source="Barnes, Harrison Sacramento Kings" target="GOAL" id="250" weight="423" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Slawson, Jalen Sacramento Kings" id="251" weight="5" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Jones, Colby Sacramento Kings" id="252" weight="29" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Ellis, Keon Sacramento Kings" id="253" weight="8" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Murray, Keegan Sacramento Kings" id="254" weight="4" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="255" weight="30" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="256" weight="7" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Duarte, Chris Sacramento Kings" id="257" weight="21" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Ford, Jordan Sacramento Kings" id="258" weight="2" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Jones, Mason Sacramento Kings" id="259" weight="7" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Huerter, Kevin Sacramento Kings" id="260" weight="10" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="261" weight="21" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Monk, Malik Sacramento Kings" id="262" weight="82" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Fox, De'Aaron Sacramento Kings" id="263" weight="103" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Lyles, Trey Sacramento Kings" id="264" weight="12" />
+      <edge source="McGee, JaVale Sacramento Kings" target="Barnes, Harrison Sacramento Kings" id="265" weight="3" />
+      <edge source="McGee, JaVale Sacramento Kings" target="GOAL" id="266" weight="93" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="Jones, Colby Sacramento Kings" id="267" weight="19" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="Mitchell, Davion Sacramento Kings" id="268" weight="17" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="Edwards, Kessler Sacramento Kings" id="269" weight="10" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="Jones, Mason Sacramento Kings" id="270" weight="1" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="Vezenkov, Sasha Sacramento Kings" id="271" weight="1" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="McGee, JaVale Sacramento Kings" id="272" weight="5" />
+      <edge source="Slawson, Jalen Sacramento Kings" target="GOAL" id="273" weight="9" />
+    </edges>
+  </graph>
+</gexf>

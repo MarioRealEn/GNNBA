@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Williams, Malik Toronto Raptors" label="Williams, Malik Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Dick, Gradey Toronto Raptors" label="Dick, Gradey Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Freeman-Liberty, Javon Toronto Raptors" label="Freeman-Liberty, Javon Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Agbaji, Ochai Toronto Raptors" label="Agbaji, Ochai Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Quickley, Immanuel Toronto Raptors" label="Quickley, Immanuel Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Nwora, Jordan Toronto Raptors" label="Nwora, Jordan Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="McDaniels, Jalen Toronto Raptors" label="McDaniels, Jalen Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Barrett, RJ Toronto Raptors" label="Barrett, RJ Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Trent Jr., Gary Toronto Raptors" label="Trent Jr., Gary Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Brown, Bruce Toronto Raptors" label="Brown, Bruce Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Temple, Garrett Toronto Raptors" label="Temple, Garrett Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Gueye, Mouhamadou Toronto Raptors" label="Gueye, Mouhamadou Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Carton, D.J. Toronto Raptors" label="Carton, D.J. Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Boucher, Chris Toronto Raptors" label="Boucher, Chris Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Olynyk, Kelly Toronto Raptors" label="Olynyk, Kelly Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Barnes, Scottie Toronto Raptors" label="Barnes, Scottie Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="Poeltl, Jakob Toronto Raptors" label="Poeltl, Jakob Toronto Raptors">
+        <attvalues>
+          <attvalue for="0" value="Toronto Raptors" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Williams, Malik Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="0" weight="6" />
+      <edge source="Williams, Malik Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="1" weight="17" />
+      <edge source="Williams, Malik Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="2" weight="9" />
+      <edge source="Williams, Malik Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="3" weight="29" />
+      <edge source="Williams, Malik Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="4" weight="2" />
+      <edge source="Williams, Malik Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="5" weight="5" />
+      <edge source="Williams, Malik Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="6" weight="9" />
+      <edge source="Williams, Malik Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="7" weight="3" />
+      <edge source="Williams, Malik Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="8" weight="14" />
+      <edge source="Williams, Malik Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="9" weight="11" />
+      <edge source="Williams, Malik Toronto Raptors" target="GOAL" id="10" weight="9" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Williams, Malik Toronto Raptors" id="11" weight="6" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="12" weight="7" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="13" weight="38" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="14" weight="4" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="15" weight="64" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="16" weight="40" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="17" weight="81" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="18" weight="34" />
+      <edge source="Dick, Gradey Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="19" weight="29" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="20" weight="36" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="21" weight="34" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="22" weight="65" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="23" weight="14" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="24" weight="14" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="25" weight="76" />
+      <edge source="Dick, Gradey Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="26" weight="13" />
+      <edge source="Dick, Gradey Toronto Raptors" target="GOAL" id="27" weight="162" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Williams, Malik Toronto Raptors" id="28" weight="10" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="29" weight="74" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="30" weight="29" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="31" weight="3" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="32" weight="42" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="33" weight="28" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="34" weight="73" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="35" weight="28" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="36" weight="54" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="37" weight="55" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="38" weight="63" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="39" weight="3" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="40" weight="99" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="41" weight="34" />
+      <edge source="Freeman-Liberty, Javon Toronto Raptors" target="GOAL" id="42" weight="122" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Williams, Malik Toronto Raptors" id="43" weight="3" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="44" weight="39" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="45" weight="3" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="46" weight="63" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="47" weight="2" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="48" weight="26" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="49" weight="108" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="50" weight="16" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="51" weight="5" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="52" weight="29" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="53" weight="29" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="54" weight="56" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="55" weight="1" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="56" weight="3" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="57" weight="100" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="58" weight="11" />
+      <edge source="Agbaji, Ochai Toronto Raptors" target="GOAL" id="59" weight="120" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Williams, Malik Toronto Raptors" id="60" weight="19" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="61" weight="113" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="62" weight="8" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="63" weight="10" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="64" weight="2" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="65" weight="330" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="66" weight="69" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="67" weight="27" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="68" weight="18" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="69" weight="400" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="70" weight="215" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="71" weight="88" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="72" weight="19" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="73" weight="155" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="74" weight="210" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="75" weight="24" />
+      <edge source="Quickley, Immanuel Toronto Raptors" target="GOAL" id="76" weight="633" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Williams, Malik Toronto Raptors" id="77" weight="3" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="78" weight="30" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="79" weight="24" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="80" weight="78" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="81" weight="12" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="82" weight="42" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="83" weight="16" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="84" weight="51" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="85" weight="40" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="86" weight="24" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="87" weight="11" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="88" weight="63" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="89" weight="7" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="90" weight="7" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="91" weight="19" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="92" weight="44" />
+      <edge source="Nwora, Jordan Toronto Raptors" target="GOAL" id="93" weight="125" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Williams, Malik Toronto Raptors" id="94" weight="7" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="95" weight="26" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="96" weight="6" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="97" weight="34" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="98" weight="1" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="99" weight="50" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="100" weight="7" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="101" weight="35" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="102" weight="32" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="103" weight="27" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="104" weight="27" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="105" weight="23" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="106" weight="20" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="107" weight="4" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="108" weight="9" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="109" weight="37" />
+      <edge source="McDaniels, Jalen Toronto Raptors" target="GOAL" id="110" weight="82" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Williams, Malik Toronto Raptors" id="111" weight="1" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="112" weight="50" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="113" weight="1" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="114" weight="40" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="115" weight="6" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="116" weight="160" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="117" weight="22" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="118" weight="343" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="119" weight="25" />
+      <edge source="Barrett, RJ Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="120" weight="15" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="121" weight="79" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="122" weight="59" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="123" weight="23" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="124" weight="82" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="125" weight="108" />
+      <edge source="Barrett, RJ Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="126" weight="8" />
+      <edge source="Barrett, RJ Toronto Raptors" target="GOAL" id="127" weight="346" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Williams, Malik Toronto Raptors" id="128" weight="2" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="129" weight="35" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="130" weight="3" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="131" weight="24" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="132" weight="164" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="133" weight="14" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="134" weight="169" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="135" weight="7" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="136" weight="15" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="137" weight="59" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="138" weight="51" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="139" weight="19" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="140" weight="65" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="141" weight="108" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="142" weight="1" />
+      <edge source="Trent Jr., Gary Toronto Raptors" target="GOAL" id="143" weight="204" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Williams, Malik Toronto Raptors" id="144" weight="14" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="145" weight="88" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="146" weight="14" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="147" weight="48" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="148" weight="1" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="149" weight="108" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="150" weight="37" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="151" weight="101" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="152" weight="44" />
+      <edge source="Brown, Bruce Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="153" weight="27" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="154" weight="57" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="155" weight="78" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="156" weight="5" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="157" weight="18" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="158" weight="153" />
+      <edge source="Brown, Bruce Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="159" weight="23" />
+      <edge source="Brown, Bruce Toronto Raptors" target="GOAL" id="160" weight="225" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Williams, Malik Toronto Raptors" id="161" weight="9" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="162" weight="36" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Gueye, Mouhamadou Toronto Raptors" id="163" weight="13" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="164" weight="46" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="165" weight="1" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="166" weight="5" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="167" weight="29" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="168" weight="53" />
+      <edge source="Temple, Garrett Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="169" weight="30" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="170" weight="7" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="171" weight="4" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="172" weight="27" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="173" weight="13" />
+      <edge source="Temple, Garrett Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="174" weight="8" />
+      <edge source="Temple, Garrett Toronto Raptors" target="GOAL" id="175" weight="93" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="176" weight="12" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="177" weight="36" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="178" weight="1" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="179" weight="2" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="180" weight="6" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="181" weight="22" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="182" weight="5" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="183" weight="3" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="184" weight="8" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="185" weight="8" />
+      <edge source="Gueye, Mouhamadou Toronto Raptors" target="GOAL" id="186" weight="25" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="187" weight="5" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="188" weight="5" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="189" weight="1" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="190" weight="3" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="191" weight="9" />
+      <edge source="Carton, D.J. Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="192" weight="2" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="193" weight="6" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="194" weight="2" />
+      <edge source="Carton, D.J. Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="195" weight="10" />
+      <edge source="Carton, D.J. Toronto Raptors" target="GOAL" id="196" weight="10" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="197" weight="23" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="198" weight="5" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="199" weight="5" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="200" weight="89" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="201" weight="1" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="202" weight="30" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="203" weight="5" />
+      <edge source="Boucher, Chris Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="204" weight="11" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="205" weight="15" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="206" weight="28" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="207" weight="5" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="208" weight="5" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="209" weight="3" />
+      <edge source="Boucher, Chris Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="210" weight="13" />
+      <edge source="Boucher, Chris Toronto Raptors" target="GOAL" id="211" weight="43" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="212" weight="84" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Freeman-Liberty, Javon Toronto Raptors" id="213" weight="122" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="214" weight="13" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="215" weight="83" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="216" weight="111" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="217" weight="284" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="218" weight="25" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="219" weight="12" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="220" weight="131" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="221" weight="153" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="222" weight="148" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="223" weight="2" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="224" weight="2" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="Temple, Garrett Toronto Raptors" id="225" weight="7" />
+      <edge source="Olynyk, Kelly Toronto Raptors" target="GOAL" id="226" weight="360" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="227" weight="97" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="228" weight="32" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="229" weight="341" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="230" weight="31" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="231" weight="42" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="232" weight="174" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="233" weight="239" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="234" weight="98" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="235" weight="97" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Poeltl, Jakob Toronto Raptors" id="236" weight="268" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="237" weight="71" />
+      <edge source="Barnes, Scottie Toronto Raptors" target="GOAL" id="238" weight="598" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Dick, Gradey Toronto Raptors" id="239" weight="22" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Carton, D.J. Toronto Raptors" id="240" weight="1" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Barnes, Scottie Toronto Raptors" id="241" weight="340" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Agbaji, Ochai Toronto Raptors" id="242" weight="8" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Quickley, Immanuel Toronto Raptors" id="243" weight="279" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Nwora, Jordan Toronto Raptors" id="244" weight="6" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="McDaniels, Jalen Toronto Raptors" id="245" weight="9" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Barrett, RJ Toronto Raptors" id="246" weight="84" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Trent Jr., Gary Toronto Raptors" id="247" weight="103" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Brown, Bruce Toronto Raptors" id="248" weight="24" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Boucher, Chris Toronto Raptors" id="249" weight="7" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="Olynyk, Kelly Toronto Raptors" id="250" weight="3" />
+      <edge source="Poeltl, Jakob Toronto Raptors" target="GOAL" id="251" weight="199" />
+    </edges>
+  </graph>
+</gexf>

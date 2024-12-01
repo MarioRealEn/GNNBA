@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Johnson, Jalen Atlanta Hawks" label="Johnson, Jalen Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Bufkin, Kobe Atlanta Hawks" label="Bufkin, Kobe Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Griffin, AJ Atlanta Hawks" label="Griffin, AJ Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Krejčí, Vít Atlanta Hawks" label="Krejčí, Vít Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Forrest, Trent Atlanta Hawks" label="Forrest, Trent Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Bey, Saddiq Atlanta Hawks" label="Bey, Saddiq Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Okongwu, Onyeka Atlanta Hawks" label="Okongwu, Onyeka Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Mathews, Garrison Atlanta Hawks" label="Mathews, Garrison Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Hunter, De'Andre Atlanta Hawks" label="Hunter, De'Andre Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Young, Trae Atlanta Hawks" label="Young, Trae Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Fernando, Bruno Atlanta Hawks" label="Fernando, Bruno Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Murray, Dejounte Atlanta Hawks" label="Murray, Dejounte Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Bogdanović, Bogdan Atlanta Hawks" label="Bogdanović, Bogdan Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Capela, Clint Atlanta Hawks" label="Capela, Clint Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Matthews, Wesley Atlanta Hawks" label="Matthews, Wesley Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Lundy, Seth Atlanta Hawks" label="Lundy, Seth Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Gueye, Mouhamed Atlanta Hawks" label="Gueye, Mouhamed Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="Windler, Dylan Atlanta Hawks" label="Windler, Dylan Atlanta Hawks">
+        <attvalues>
+          <attvalue for="0" value="Atlanta Hawks" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="0" weight="90" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="1" weight="1" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="2" weight="21" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="3" weight="79" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="4" weight="144" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="5" weight="119" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="6" weight="36" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="7" weight="101" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="8" weight="1057" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="9" weight="44" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="10" weight="874" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="11" weight="244" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="12" weight="155" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="13" weight="9" />
+      <edge source="Johnson, Jalen Atlanta Hawks" target="GOAL" id="14" weight="764" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="15" weight="7" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="16" weight="3" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="17" weight="46" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="18" weight="34" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="19" weight="13" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="20" weight="7" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="21" weight="1" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="22" weight="9" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="23" weight="1" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="24" weight="13" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="25" weight="3" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="26" weight="55" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="27" weight="13" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="28" weight="68" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="29" weight="6" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="30" weight="7" />
+      <edge source="Bufkin, Kobe Atlanta Hawks" target="GOAL" id="31" weight="75" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="32" weight="1" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="33" weight="3" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="34" weight="3" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="35" weight="2" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="36" weight="19" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="37" weight="3" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="38" weight="6" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="39" weight="4" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="40" weight="3" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="41" weight="26" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="42" weight="8" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="43" weight="12" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="44" weight="4" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="45" weight="1" />
+      <edge source="Griffin, AJ Atlanta Hawks" target="GOAL" id="46" weight="34" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="47" weight="32" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="48" weight="5" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="49" weight="3" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="50" weight="19" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="51" weight="19" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="52" weight="3" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="53" weight="1" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="54" weight="26" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="55" weight="3" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="56" weight="41" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="57" weight="14" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="58" weight="40" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="59" weight="182" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="60" weight="46" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="61" weight="51" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="62" weight="7" />
+      <edge source="Krejčí, Vít Atlanta Hawks" target="GOAL" id="63" weight="166" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="64" weight="10" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="65" weight="18" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="66" weight="9" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="67" weight="23" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="68" weight="65" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="69" weight="25" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="70" weight="45" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="71" weight="46" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="72" weight="68" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="73" weight="19" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="74" weight="50" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="75" weight="9" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="76" weight="72" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="77" weight="67" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="78" weight="129" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="79" weight="10" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="80" weight="20" />
+      <edge source="Forrest, Trent Atlanta Hawks" target="GOAL" id="81" weight="253" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="82" weight="1" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="83" weight="4" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="84" weight="3" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="85" weight="102" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="86" weight="4" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="87" weight="42" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="88" weight="73" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="89" weight="14" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="90" weight="59" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="91" weight="529" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="92" weight="6" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="93" weight="608" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="94" weight="118" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="95" weight="78" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="96" weight="7" />
+      <edge source="Bey, Saddiq Atlanta Hawks" target="GOAL" id="97" weight="418" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="98" weight="2" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="99" weight="2" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="100" weight="8" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="101" weight="76" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="102" weight="1" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="103" weight="41" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="104" weight="81" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="105" weight="31" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="106" weight="52" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="107" weight="300" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="108" weight="251" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="109" weight="213" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="110" weight="6" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="111" weight="15" />
+      <edge source="Okongwu, Onyeka Atlanta Hawks" target="GOAL" id="112" weight="323" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="113" weight="5" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="114" weight="19" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="115" weight="4" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="116" weight="8" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="117" weight="28" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="118" weight="20" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="119" weight="63" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="120" weight="32" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="121" weight="31" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="122" weight="5" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="123" weight="32" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="124" weight="106" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="125" weight="40" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="126" weight="186" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="127" weight="41" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="128" weight="11" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="129" weight="6" />
+      <edge source="Mathews, Garrison Atlanta Hawks" target="GOAL" id="130" weight="156" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="131" weight="20" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="132" weight="3" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="133" weight="65" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="134" weight="46" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="135" weight="53" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="136" weight="61" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="137" weight="53" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="138" weight="24" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="139" weight="314" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="140" weight="59" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="141" weight="663" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="142" weight="126" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="143" weight="112" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="144" weight="15" />
+      <edge source="Hunter, De'Andre Atlanta Hawks" target="GOAL" id="145" weight="406" />
+      <edge source="Young, Trae Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="146" weight="3" />
+      <edge source="Young, Trae Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="147" weight="14" />
+      <edge source="Young, Trae Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="148" weight="18" />
+      <edge source="Young, Trae Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="149" weight="505" />
+      <edge source="Young, Trae Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="150" weight="8" />
+      <edge source="Young, Trae Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="151" weight="11" />
+      <edge source="Young, Trae Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="152" weight="301" />
+      <edge source="Young, Trae Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="153" weight="238" />
+      <edge source="Young, Trae Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="154" weight="104" />
+      <edge source="Young, Trae Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="155" weight="4" />
+      <edge source="Young, Trae Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="156" weight="249" />
+      <edge source="Young, Trae Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="157" weight="46" />
+      <edge source="Young, Trae Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="158" weight="648" />
+      <edge source="Young, Trae Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="159" weight="540" />
+      <edge source="Young, Trae Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="160" weight="257" />
+      <edge source="Young, Trae Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="161" weight="47" />
+      <edge source="Young, Trae Atlanta Hawks" target="GOAL" id="162" weight="1479" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="163" weight="1" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="164" weight="51" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="165" weight="6" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="166" weight="12" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="167" weight="42" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="168" weight="26" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="169" weight="72" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="170" weight="14" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="171" weight="56" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="172" weight="7" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="173" weight="54" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="174" weight="45" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="175" weight="135" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="176" weight="75" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="177" weight="18" />
+      <edge source="Fernando, Bruno Atlanta Hawks" target="GOAL" id="178" weight="181" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="179" weight="5" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="180" weight="14" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="181" weight="3" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="182" weight="16" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="183" weight="561" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="184" weight="154" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="185" weight="46" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="186" weight="511" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="187" weight="207" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="188" weight="172" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="189" weight="4" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="190" weight="612" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="191" weight="641" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="192" weight="121" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="193" weight="780" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="194" weight="443" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="195" weight="91" />
+      <edge source="Murray, Dejounte Atlanta Hawks" target="GOAL" id="196" weight="1461" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Lundy, Seth Atlanta Hawks" id="197" weight="2" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="198" weight="39" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="199" weight="4" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="200" weight="13" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="201" weight="195" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="202" weight="49" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="203" weight="125" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="204" weight="141" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="205" weight="172" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="206" weight="42" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="207" weight="3" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="208" weight="129" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="209" weight="492" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="210" weight="78" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="211" weight="696" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="212" weight="169" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="213" weight="26" />
+      <edge source="Bogdanović, Bogdan Atlanta Hawks" target="GOAL" id="214" weight="802" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="215" weight="11" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="216" weight="2" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="217" weight="1" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="218" weight="117" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="219" weight="17" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="220" weight="6" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="221" weight="60" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="222" weight="6" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="223" weight="13" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="224" weight="3" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="225" weight="95" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="226" weight="328" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="227" weight="543" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="228" weight="211" />
+      <edge source="Capela, Clint Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="229" weight="9" />
+      <edge source="Capela, Clint Atlanta Hawks" target="GOAL" id="230" weight="461" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="231" weight="11" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="232" weight="2" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Johnson, Jalen Atlanta Hawks" id="233" weight="6" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="234" weight="7" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="235" weight="36" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="236" weight="8" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="237" weight="24" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="238" weight="15" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="239" weight="2" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="240" weight="12" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="241" weight="85" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="242" weight="17" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="243" weight="121" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="244" weight="42" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="245" weight="11" />
+      <edge source="Matthews, Wesley Atlanta Hawks" target="GOAL" id="246" weight="104" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="247" weight="3" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="248" weight="9" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Bey, Saddiq Atlanta Hawks" id="249" weight="1" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Okongwu, Onyeka Atlanta Hawks" id="250" weight="1" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="251" weight="2" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="252" weight="9" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="253" weight="3" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="254" weight="2" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="255" weight="1" />
+      <edge source="Lundy, Seth Atlanta Hawks" target="GOAL" id="256" weight="5" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="257" weight="15" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Griffin, AJ Atlanta Hawks" id="258" weight="2" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="259" weight="9" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="260" weight="9" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="261" weight="7" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Windler, Dylan Atlanta Hawks" id="262" weight="1" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Hunter, De'Andre Atlanta Hawks" id="263" weight="2" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="264" weight="29" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="265" weight="5" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="266" weight="7" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="267" weight="8" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="268" weight="1" />
+      <edge source="Gueye, Mouhamed Atlanta Hawks" target="GOAL" id="269" weight="32" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Bufkin, Kobe Atlanta Hawks" id="270" weight="5" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Gueye, Mouhamed Atlanta Hawks" id="271" weight="2" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Krejčí, Vít Atlanta Hawks" id="272" weight="1" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Forrest, Trent Atlanta Hawks" id="273" weight="21" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Mathews, Garrison Atlanta Hawks" id="274" weight="4" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Young, Trae Atlanta Hawks" id="275" weight="2" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Fernando, Bruno Atlanta Hawks" id="276" weight="13" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Murray, Dejounte Atlanta Hawks" id="277" weight="9" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Bogdanović, Bogdan Atlanta Hawks" id="278" weight="7" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Capela, Clint Atlanta Hawks" id="279" weight="1" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="Matthews, Wesley Atlanta Hawks" id="280" weight="1" />
+      <edge source="Windler, Dylan Atlanta Hawks" target="GOAL" id="281" weight="13" />
+    </edges>
+  </graph>
+</gexf>

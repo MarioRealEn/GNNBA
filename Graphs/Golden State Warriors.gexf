@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Payton II, Gary Golden State Warriors" label="Payton II, Gary Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Podziemski, Brandin Golden State Warriors" label="Podziemski, Brandin Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Quinones, Lester Golden State Warriors" label="Quinones, Lester Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Jackson-Davis, Trayce Golden State Warriors" label="Jackson-Davis, Trayce Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Santos, Gui Golden State Warriors" label="Santos, Gui Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Moody, Moses Golden State Warriors" label="Moody, Moses Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Kuminga, Jonathan Golden State Warriors" label="Kuminga, Jonathan Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Robinson, Jerome Golden State Warriors" label="Robinson, Jerome Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Looney, Kevon Golden State Warriors" label="Looney, Kevon Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Šarić, Dario Golden State Warriors" label="Šarić, Dario Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Wiggins, Andrew Golden State Warriors" label="Wiggins, Andrew Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Green, Draymond Golden State Warriors" label="Green, Draymond Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Thompson, Klay Golden State Warriors" label="Thompson, Klay Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Curry, Stephen Golden State Warriors" label="Curry, Stephen Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Paul, Chris Golden State Warriors" label="Paul, Chris Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Spencer, Pat Golden State Warriors" label="Spencer, Pat Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="Garuba, Usman Golden State Warriors" label="Garuba, Usman Golden State Warriors">
+        <attvalues>
+          <attvalue for="0" value="Golden State Warriors" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Payton II, Gary Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="0" weight="70" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="1" weight="17" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="2" weight="22" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Santos, Gui Golden State Warriors" id="3" weight="3" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Moody, Moses Golden State Warriors" id="4" weight="29" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="5" weight="57" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="6" weight="7" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="7" weight="25" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="8" weight="40" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="9" weight="28" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Green, Draymond Golden State Warriors" id="10" weight="45" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="11" weight="34" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="12" weight="168" />
+      <edge source="Payton II, Gary Golden State Warriors" target="Paul, Chris Golden State Warriors" id="13" weight="131" />
+      <edge source="Payton II, Gary Golden State Warriors" target="GOAL" id="14" weight="198" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="15" weight="92" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="16" weight="130" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Santos, Gui Golden State Warriors" id="17" weight="27" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Moody, Moses Golden State Warriors" id="18" weight="121" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="19" weight="348" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="20" weight="9" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="21" weight="57" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="22" weight="164" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="23" weight="216" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="24" weight="198" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Green, Draymond Golden State Warriors" id="25" weight="212" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="26" weight="219" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="27" weight="407" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="Paul, Chris Golden State Warriors" id="28" weight="299" />
+      <edge source="Podziemski, Brandin Golden State Warriors" target="GOAL" id="29" weight="823" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="30" weight="61" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="31" weight="48" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Santos, Gui Golden State Warriors" id="32" weight="22" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Garuba, Usman Golden State Warriors" id="33" weight="4" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Moody, Moses Golden State Warriors" id="34" weight="26" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="35" weight="5" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="36" weight="56" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="37" weight="17" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="38" weight="8" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="39" weight="35" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="40" weight="49" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="41" weight="5" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Green, Draymond Golden State Warriors" id="42" weight="21" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="43" weight="44" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="44" weight="29" />
+      <edge source="Quinones, Lester Golden State Warriors" target="Paul, Chris Golden State Warriors" id="45" weight="11" />
+      <edge source="Quinones, Lester Golden State Warriors" target="GOAL" id="46" weight="105" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="47" weight="216" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="48" weight="40" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Santos, Gui Golden State Warriors" id="49" weight="10" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Moody, Moses Golden State Warriors" id="50" weight="51" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="51" weight="1" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="52" weight="93" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="53" weight="11" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="54" weight="20" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="55" weight="30" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="56" weight="73" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Green, Draymond Golden State Warriors" id="57" weight="73" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="58" weight="132" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="59" weight="226" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="Paul, Chris Golden State Warriors" id="60" weight="343" />
+      <edge source="Jackson-Davis, Trayce Golden State Warriors" target="GOAL" id="61" weight="325" />
+      <edge source="Santos, Gui Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="62" weight="26" />
+      <edge source="Santos, Gui Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="63" weight="25" />
+      <edge source="Santos, Gui Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="64" weight="10" />
+      <edge source="Santos, Gui Golden State Warriors" target="Garuba, Usman Golden State Warriors" id="65" weight="3" />
+      <edge source="Santos, Gui Golden State Warriors" target="Moody, Moses Golden State Warriors" id="66" weight="5" />
+      <edge source="Santos, Gui Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="67" weight="4" />
+      <edge source="Santos, Gui Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="68" weight="17" />
+      <edge source="Santos, Gui Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="69" weight="23" />
+      <edge source="Santos, Gui Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="70" weight="1" />
+      <edge source="Santos, Gui Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="71" weight="4" />
+      <edge source="Santos, Gui Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="72" weight="7" />
+      <edge source="Santos, Gui Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="73" weight="4" />
+      <edge source="Santos, Gui Golden State Warriors" target="Green, Draymond Golden State Warriors" id="74" weight="3" />
+      <edge source="Santos, Gui Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="75" weight="5" />
+      <edge source="Santos, Gui Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="76" weight="15" />
+      <edge source="Santos, Gui Golden State Warriors" target="Paul, Chris Golden State Warriors" id="77" weight="1" />
+      <edge source="Santos, Gui Golden State Warriors" target="GOAL" id="78" weight="38" />
+      <edge source="Moody, Moses Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="79" weight="90" />
+      <edge source="Moody, Moses Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="80" weight="21" />
+      <edge source="Moody, Moses Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="81" weight="48" />
+      <edge source="Moody, Moses Golden State Warriors" target="Santos, Gui Golden State Warriors" id="82" weight="6" />
+      <edge source="Moody, Moses Golden State Warriors" target="Garuba, Usman Golden State Warriors" id="83" weight="1" />
+      <edge source="Moody, Moses Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="84" weight="90" />
+      <edge source="Moody, Moses Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="85" weight="7" />
+      <edge source="Moody, Moses Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="86" weight="31" />
+      <edge source="Moody, Moses Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="87" weight="66" />
+      <edge source="Moody, Moses Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="88" weight="51" />
+      <edge source="Moody, Moses Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="89" weight="41" />
+      <edge source="Moody, Moses Golden State Warriors" target="Green, Draymond Golden State Warriors" id="90" weight="82" />
+      <edge source="Moody, Moses Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="91" weight="45" />
+      <edge source="Moody, Moses Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="92" weight="83" />
+      <edge source="Moody, Moses Golden State Warriors" target="Paul, Chris Golden State Warriors" id="93" weight="113" />
+      <edge source="Moody, Moses Golden State Warriors" target="GOAL" id="94" weight="216" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="95" weight="301" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="96" weight="68" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="97" weight="76" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Santos, Gui Golden State Warriors" id="98" weight="11" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Moody, Moses Golden State Warriors" id="99" weight="84" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="100" weight="3" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="101" weight="4" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="102" weight="53" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="103" weight="120" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="104" weight="113" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="105" weight="114" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Green, Draymond Golden State Warriors" id="106" weight="257" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="107" weight="164" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="108" weight="438" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="Paul, Chris Golden State Warriors" id="109" weight="325" />
+      <edge source="Kuminga, Jonathan Golden State Warriors" target="GOAL" id="110" weight="549" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="111" weight="7" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="112" weight="32" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="113" weight="11" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Santos, Gui Golden State Warriors" id="114" weight="11" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Garuba, Usman Golden State Warriors" id="115" weight="7" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Moody, Moses Golden State Warriors" id="116" weight="11" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="117" weight="3" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="118" weight="1" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="119" weight="5" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="120" weight="5" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="121" weight="6" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="122" weight="1" />
+      <edge source="Robinson, Jerome Golden State Warriors" target="GOAL" id="123" weight="16" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="124" weight="217" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="125" weight="39" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Santos, Gui Golden State Warriors" id="126" weight="15" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Moody, Moses Golden State Warriors" id="127" weight="64" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="128" weight="2" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="129" weight="124" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="130" weight="5" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="131" weight="17" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="132" weight="43" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="133" weight="177" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Green, Draymond Golden State Warriors" id="134" weight="130" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="135" weight="234" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="136" weight="435" />
+      <edge source="Looney, Kevon Golden State Warriors" target="Paul, Chris Golden State Warriors" id="137" weight="257" />
+      <edge source="Looney, Kevon Golden State Warriors" target="GOAL" id="138" weight="476" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="139" weight="216" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="140" weight="35" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="141" weight="40" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Santos, Gui Golden State Warriors" id="142" weight="7" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Moody, Moses Golden State Warriors" id="143" weight="78" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="144" weight="1" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="145" weight="121" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="146" weight="8" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="147" weight="49" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="148" weight="27" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="149" weight="127" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Green, Draymond Golden State Warriors" id="150" weight="46" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="151" weight="131" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="152" weight="275" />
+      <edge source="Šarić, Dario Golden State Warriors" target="Paul, Chris Golden State Warriors" id="153" weight="454" />
+      <edge source="Šarić, Dario Golden State Warriors" target="GOAL" id="154" weight="480" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="155" weight="141" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="156" weight="10" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="157" weight="68" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Santos, Gui Golden State Warriors" id="158" weight="3" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Moody, Moses Golden State Warriors" id="159" weight="50" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="160" weight="109" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="161" weight="26" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="162" weight="133" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="163" weight="89" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Green, Draymond Golden State Warriors" id="164" weight="234" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="165" weight="114" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="166" weight="395" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="Paul, Chris Golden State Warriors" id="167" weight="205" />
+      <edge source="Wiggins, Andrew Golden State Warriors" target="GOAL" id="168" weight="437" />
+      <edge source="Green, Draymond Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="169" weight="229" />
+      <edge source="Green, Draymond Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="170" weight="11" />
+      <edge source="Green, Draymond Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="171" weight="51" />
+      <edge source="Green, Draymond Golden State Warriors" target="Santos, Gui Golden State Warriors" id="172" weight="5" />
+      <edge source="Green, Draymond Golden State Warriors" target="Moody, Moses Golden State Warriors" id="173" weight="68" />
+      <edge source="Green, Draymond Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="174" weight="276" />
+      <edge source="Green, Draymond Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="175" weight="47" />
+      <edge source="Green, Draymond Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="176" weight="46" />
+      <edge source="Green, Draymond Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="177" weight="35" />
+      <edge source="Green, Draymond Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="178" weight="310" />
+      <edge source="Green, Draymond Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="179" weight="312" />
+      <edge source="Green, Draymond Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="180" weight="1090" />
+      <edge source="Green, Draymond Golden State Warriors" target="Paul, Chris Golden State Warriors" id="181" weight="184" />
+      <edge source="Green, Draymond Golden State Warriors" target="GOAL" id="182" weight="993" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="183" weight="144" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="184" weight="28" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="185" weight="151" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Moody, Moses Golden State Warriors" id="186" weight="54" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="187" weight="168" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="188" weight="30" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="189" weight="182" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="190" weight="104" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="191" weight="128" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Green, Draymond Golden State Warriors" id="192" weight="194" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="193" weight="247" />
+      <edge source="Thompson, Klay Golden State Warriors" target="Paul, Chris Golden State Warriors" id="194" weight="185" />
+      <edge source="Thompson, Klay Golden State Warriors" target="GOAL" id="195" weight="495" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="196" weight="287" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="197" weight="24" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="198" weight="156" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Santos, Gui Golden State Warriors" id="199" weight="7" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Moody, Moses Golden State Warriors" id="200" weight="127" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="201" weight="340" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="202" weight="2" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="203" weight="100" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="204" weight="335" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="205" weight="156" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="206" weight="349" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Green, Draymond Golden State Warriors" id="207" weight="596" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="208" weight="400" />
+      <edge source="Curry, Stephen Golden State Warriors" target="Paul, Chris Golden State Warriors" id="209" weight="269" />
+      <edge source="Curry, Stephen Golden State Warriors" target="GOAL" id="210" weight="969" />
+      <edge source="Paul, Chris Golden State Warriors" target="Podziemski, Brandin Golden State Warriors" id="211" weight="247" />
+      <edge source="Paul, Chris Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="212" weight="18" />
+      <edge source="Paul, Chris Golden State Warriors" target="Jackson-Davis, Trayce Golden State Warriors" id="213" weight="181" />
+      <edge source="Paul, Chris Golden State Warriors" target="Santos, Gui Golden State Warriors" id="214" weight="3" />
+      <edge source="Paul, Chris Golden State Warriors" target="Moody, Moses Golden State Warriors" id="215" weight="159" />
+      <edge source="Paul, Chris Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="216" weight="297" />
+      <edge source="Paul, Chris Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="217" weight="1" />
+      <edge source="Paul, Chris Golden State Warriors" target="Payton II, Gary Golden State Warriors" id="218" weight="82" />
+      <edge source="Paul, Chris Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="219" weight="122" />
+      <edge source="Paul, Chris Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="220" weight="383" />
+      <edge source="Paul, Chris Golden State Warriors" target="Wiggins, Andrew Golden State Warriors" id="221" weight="211" />
+      <edge source="Paul, Chris Golden State Warriors" target="Green, Draymond Golden State Warriors" id="222" weight="112" />
+      <edge source="Paul, Chris Golden State Warriors" target="Thompson, Klay Golden State Warriors" id="223" weight="479" />
+      <edge source="Paul, Chris Golden State Warriors" target="Curry, Stephen Golden State Warriors" id="224" weight="371" />
+      <edge source="Paul, Chris Golden State Warriors" target="GOAL" id="225" weight="1102" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="226" weight="12" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Santos, Gui Golden State Warriors" id="227" weight="2" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Garuba, Usman Golden State Warriors" id="228" weight="4" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Moody, Moses Golden State Warriors" id="229" weight="2" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Kuminga, Jonathan Golden State Warriors" id="230" weight="4" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="231" weight="5" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Looney, Kevon Golden State Warriors" id="232" weight="3" />
+      <edge source="Spencer, Pat Golden State Warriors" target="Šarić, Dario Golden State Warriors" id="233" weight="2" />
+      <edge source="Spencer, Pat Golden State Warriors" target="GOAL" id="234" weight="9" />
+      <edge source="Garuba, Usman Golden State Warriors" target="Quinones, Lester Golden State Warriors" id="235" weight="9" />
+      <edge source="Garuba, Usman Golden State Warriors" target="Santos, Gui Golden State Warriors" id="236" weight="5" />
+      <edge source="Garuba, Usman Golden State Warriors" target="Moody, Moses Golden State Warriors" id="237" weight="3" />
+      <edge source="Garuba, Usman Golden State Warriors" target="Spencer, Pat Golden State Warriors" id="238" weight="7" />
+      <edge source="Garuba, Usman Golden State Warriors" target="Robinson, Jerome Golden State Warriors" id="239" weight="7" />
+      <edge source="Garuba, Usman Golden State Warriors" target="GOAL" id="240" weight="2" />
+    </edges>
+  </graph>
+</gexf>

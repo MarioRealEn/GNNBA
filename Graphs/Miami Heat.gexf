@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Richardson, Josh Miami Heat" label="Richardson, Josh Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Swider, Cole Miami Heat" label="Swider, Cole Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Cain, Jamal Miami Heat" label="Cain, Jamal Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Jaquez Jr., Jaime Miami Heat" label="Jaquez Jr., Jaime Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Robinson, Orlando Miami Heat" label="Robinson, Orlando Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Jović, Nikola Miami Heat" label="Jović, Nikola Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Herro, Tyler Miami Heat" label="Herro, Tyler Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Highsmith, Haywood Miami Heat" label="Highsmith, Haywood Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Robinson, Duncan Miami Heat" label="Robinson, Duncan Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Martin, Caleb Miami Heat" label="Martin, Caleb Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Bryant, Thomas Miami Heat" label="Bryant, Thomas Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Adebayo, Bam Miami Heat" label="Adebayo, Bam Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Rozier, Terry Miami Heat" label="Rozier, Terry Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Butler, Jimmy Miami Heat" label="Butler, Jimmy Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Love, Kevin Miami Heat" label="Love, Kevin Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Wright, Delon Miami Heat" label="Wright, Delon Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Mills, Patty Miami Heat" label="Mills, Patty Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="Williams, Alondes Miami Heat" label="Williams, Alondes Miami Heat">
+        <attvalues>
+          <attvalue for="0" value="Miami Heat" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Richardson, Josh Miami Heat" target="Swider, Cole Miami Heat" id="0" weight="9" />
+      <edge source="Richardson, Josh Miami Heat" target="Cain, Jamal Miami Heat" id="1" weight="5" />
+      <edge source="Richardson, Josh Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="2" weight="198" />
+      <edge source="Richardson, Josh Miami Heat" target="Robinson, Orlando Miami Heat" id="3" weight="52" />
+      <edge source="Richardson, Josh Miami Heat" target="Jović, Nikola Miami Heat" id="4" weight="31" />
+      <edge source="Richardson, Josh Miami Heat" target="Herro, Tyler Miami Heat" id="5" weight="122" />
+      <edge source="Richardson, Josh Miami Heat" target="Highsmith, Haywood Miami Heat" id="6" weight="61" />
+      <edge source="Richardson, Josh Miami Heat" target="Robinson, Duncan Miami Heat" id="7" weight="152" />
+      <edge source="Richardson, Josh Miami Heat" target="Martin, Caleb Miami Heat" id="8" weight="112" />
+      <edge source="Richardson, Josh Miami Heat" target="Bryant, Thomas Miami Heat" id="9" weight="25" />
+      <edge source="Richardson, Josh Miami Heat" target="Adebayo, Bam Miami Heat" id="10" weight="205" />
+      <edge source="Richardson, Josh Miami Heat" target="Rozier, Terry Miami Heat" id="11" weight="32" />
+      <edge source="Richardson, Josh Miami Heat" target="Butler, Jimmy Miami Heat" id="12" weight="163" />
+      <edge source="Richardson, Josh Miami Heat" target="Love, Kevin Miami Heat" id="13" weight="108" />
+      <edge source="Richardson, Josh Miami Heat" target="GOAL" id="14" weight="343" />
+      <edge source="Swider, Cole Miami Heat" target="Cain, Jamal Miami Heat" id="15" weight="6" />
+      <edge source="Swider, Cole Miami Heat" target="Williams, Alondes Miami Heat" id="16" weight="6" />
+      <edge source="Swider, Cole Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="17" weight="9" />
+      <edge source="Swider, Cole Miami Heat" target="Robinson, Orlando Miami Heat" id="18" weight="8" />
+      <edge source="Swider, Cole Miami Heat" target="Jović, Nikola Miami Heat" id="19" weight="7" />
+      <edge source="Swider, Cole Miami Heat" target="Highsmith, Haywood Miami Heat" id="20" weight="2" />
+      <edge source="Swider, Cole Miami Heat" target="Robinson, Duncan Miami Heat" id="21" weight="2" />
+      <edge source="Swider, Cole Miami Heat" target="Martin, Caleb Miami Heat" id="22" weight="5" />
+      <edge source="Swider, Cole Miami Heat" target="Bryant, Thomas Miami Heat" id="23" weight="3" />
+      <edge source="Swider, Cole Miami Heat" target="Adebayo, Bam Miami Heat" id="24" weight="6" />
+      <edge source="Swider, Cole Miami Heat" target="Richardson, Josh Miami Heat" id="25" weight="10" />
+      <edge source="Swider, Cole Miami Heat" target="Rozier, Terry Miami Heat" id="26" weight="2" />
+      <edge source="Swider, Cole Miami Heat" target="Wright, Delon Miami Heat" id="27" weight="12" />
+      <edge source="Swider, Cole Miami Heat" target="Butler, Jimmy Miami Heat" id="28" weight="4" />
+      <edge source="Swider, Cole Miami Heat" target="Mills, Patty Miami Heat" id="29" weight="1" />
+      <edge source="Swider, Cole Miami Heat" target="Love, Kevin Miami Heat" id="30" weight="2" />
+      <edge source="Swider, Cole Miami Heat" target="GOAL" id="31" weight="16" />
+      <edge source="Cain, Jamal Miami Heat" target="Swider, Cole Miami Heat" id="32" weight="12" />
+      <edge source="Cain, Jamal Miami Heat" target="Williams, Alondes Miami Heat" id="33" weight="6" />
+      <edge source="Cain, Jamal Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="34" weight="28" />
+      <edge source="Cain, Jamal Miami Heat" target="Robinson, Orlando Miami Heat" id="35" weight="4" />
+      <edge source="Cain, Jamal Miami Heat" target="Jović, Nikola Miami Heat" id="36" weight="9" />
+      <edge source="Cain, Jamal Miami Heat" target="Herro, Tyler Miami Heat" id="37" weight="23" />
+      <edge source="Cain, Jamal Miami Heat" target="Highsmith, Haywood Miami Heat" id="38" weight="2" />
+      <edge source="Cain, Jamal Miami Heat" target="Robinson, Duncan Miami Heat" id="39" weight="12" />
+      <edge source="Cain, Jamal Miami Heat" target="Martin, Caleb Miami Heat" id="40" weight="9" />
+      <edge source="Cain, Jamal Miami Heat" target="Bryant, Thomas Miami Heat" id="41" weight="11" />
+      <edge source="Cain, Jamal Miami Heat" target="Adebayo, Bam Miami Heat" id="42" weight="13" />
+      <edge source="Cain, Jamal Miami Heat" target="Richardson, Josh Miami Heat" id="43" weight="8" />
+      <edge source="Cain, Jamal Miami Heat" target="Rozier, Terry Miami Heat" id="44" weight="1" />
+      <edge source="Cain, Jamal Miami Heat" target="Wright, Delon Miami Heat" id="45" weight="1" />
+      <edge source="Cain, Jamal Miami Heat" target="Butler, Jimmy Miami Heat" id="46" weight="4" />
+      <edge source="Cain, Jamal Miami Heat" target="Mills, Patty Miami Heat" id="47" weight="3" />
+      <edge source="Cain, Jamal Miami Heat" target="Love, Kevin Miami Heat" id="48" weight="8" />
+      <edge source="Cain, Jamal Miami Heat" target="GOAL" id="49" weight="43" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Cain, Jamal Miami Heat" id="50" weight="33" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Williams, Alondes Miami Heat" id="51" weight="2" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Robinson, Orlando Miami Heat" id="52" weight="27" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Jović, Nikola Miami Heat" id="53" weight="75" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Herro, Tyler Miami Heat" id="54" weight="169" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Highsmith, Haywood Miami Heat" id="55" weight="112" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Robinson, Duncan Miami Heat" id="56" weight="242" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Martin, Caleb Miami Heat" id="57" weight="214" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Bryant, Thomas Miami Heat" id="58" weight="35" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Adebayo, Bam Miami Heat" id="59" weight="296" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Richardson, Josh Miami Heat" id="60" weight="196" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Rozier, Terry Miami Heat" id="61" weight="124" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Wright, Delon Miami Heat" id="62" weight="51" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Butler, Jimmy Miami Heat" id="63" weight="243" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Mills, Patty Miami Heat" id="64" weight="30" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="Love, Kevin Miami Heat" id="65" weight="170" />
+      <edge source="Jaquez Jr., Jaime Miami Heat" target="GOAL" id="66" weight="618" />
+      <edge source="Robinson, Orlando Miami Heat" target="Swider, Cole Miami Heat" id="67" weight="17" />
+      <edge source="Robinson, Orlando Miami Heat" target="Cain, Jamal Miami Heat" id="68" weight="9" />
+      <edge source="Robinson, Orlando Miami Heat" target="Williams, Alondes Miami Heat" id="69" weight="9" />
+      <edge source="Robinson, Orlando Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="70" weight="46" />
+      <edge source="Robinson, Orlando Miami Heat" target="Jović, Nikola Miami Heat" id="71" weight="10" />
+      <edge source="Robinson, Orlando Miami Heat" target="Herro, Tyler Miami Heat" id="72" weight="14" />
+      <edge source="Robinson, Orlando Miami Heat" target="Highsmith, Haywood Miami Heat" id="73" weight="5" />
+      <edge source="Robinson, Orlando Miami Heat" target="Robinson, Duncan Miami Heat" id="74" weight="65" />
+      <edge source="Robinson, Orlando Miami Heat" target="Martin, Caleb Miami Heat" id="75" weight="37" />
+      <edge source="Robinson, Orlando Miami Heat" target="Richardson, Josh Miami Heat" id="76" weight="43" />
+      <edge source="Robinson, Orlando Miami Heat" target="Rozier, Terry Miami Heat" id="77" weight="2" />
+      <edge source="Robinson, Orlando Miami Heat" target="Wright, Delon Miami Heat" id="78" weight="10" />
+      <edge source="Robinson, Orlando Miami Heat" target="Butler, Jimmy Miami Heat" id="79" weight="56" />
+      <edge source="Robinson, Orlando Miami Heat" target="Mills, Patty Miami Heat" id="80" weight="5" />
+      <edge source="Robinson, Orlando Miami Heat" target="GOAL" id="81" weight="113" />
+      <edge source="Jović, Nikola Miami Heat" target="Swider, Cole Miami Heat" id="82" weight="9" />
+      <edge source="Jović, Nikola Miami Heat" target="Cain, Jamal Miami Heat" id="83" weight="2" />
+      <edge source="Jović, Nikola Miami Heat" target="Williams, Alondes Miami Heat" id="84" weight="1" />
+      <edge source="Jović, Nikola Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="85" weight="96" />
+      <edge source="Jović, Nikola Miami Heat" target="Robinson, Orlando Miami Heat" id="86" weight="8" />
+      <edge source="Jović, Nikola Miami Heat" target="Herro, Tyler Miami Heat" id="87" weight="119" />
+      <edge source="Jović, Nikola Miami Heat" target="Highsmith, Haywood Miami Heat" id="88" weight="28" />
+      <edge source="Jović, Nikola Miami Heat" target="Robinson, Duncan Miami Heat" id="89" weight="89" />
+      <edge source="Jović, Nikola Miami Heat" target="Martin, Caleb Miami Heat" id="90" weight="84" />
+      <edge source="Jović, Nikola Miami Heat" target="Bryant, Thomas Miami Heat" id="91" weight="2" />
+      <edge source="Jović, Nikola Miami Heat" target="Adebayo, Bam Miami Heat" id="92" weight="168" />
+      <edge source="Jović, Nikola Miami Heat" target="Richardson, Josh Miami Heat" id="93" weight="21" />
+      <edge source="Jović, Nikola Miami Heat" target="Rozier, Terry Miami Heat" id="94" weight="133" />
+      <edge source="Jović, Nikola Miami Heat" target="Wright, Delon Miami Heat" id="95" weight="12" />
+      <edge source="Jović, Nikola Miami Heat" target="Butler, Jimmy Miami Heat" id="96" weight="196" />
+      <edge source="Jović, Nikola Miami Heat" target="Mills, Patty Miami Heat" id="97" weight="21" />
+      <edge source="Jović, Nikola Miami Heat" target="Love, Kevin Miami Heat" id="98" weight="22" />
+      <edge source="Jović, Nikola Miami Heat" target="GOAL" id="99" weight="293" />
+      <edge source="Herro, Tyler Miami Heat" target="Cain, Jamal Miami Heat" id="100" weight="20" />
+      <edge source="Herro, Tyler Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="101" weight="156" />
+      <edge source="Herro, Tyler Miami Heat" target="Robinson, Orlando Miami Heat" id="102" weight="11" />
+      <edge source="Herro, Tyler Miami Heat" target="Jović, Nikola Miami Heat" id="103" weight="112" />
+      <edge source="Herro, Tyler Miami Heat" target="Highsmith, Haywood Miami Heat" id="104" weight="92" />
+      <edge source="Herro, Tyler Miami Heat" target="Robinson, Duncan Miami Heat" id="105" weight="125" />
+      <edge source="Herro, Tyler Miami Heat" target="Martin, Caleb Miami Heat" id="106" weight="140" />
+      <edge source="Herro, Tyler Miami Heat" target="Bryant, Thomas Miami Heat" id="107" weight="40" />
+      <edge source="Herro, Tyler Miami Heat" target="Adebayo, Bam Miami Heat" id="108" weight="400" />
+      <edge source="Herro, Tyler Miami Heat" target="Richardson, Josh Miami Heat" id="109" weight="102" />
+      <edge source="Herro, Tyler Miami Heat" target="Rozier, Terry Miami Heat" id="110" weight="96" />
+      <edge source="Herro, Tyler Miami Heat" target="Wright, Delon Miami Heat" id="111" weight="6" />
+      <edge source="Herro, Tyler Miami Heat" target="Butler, Jimmy Miami Heat" id="112" weight="178" />
+      <edge source="Herro, Tyler Miami Heat" target="Love, Kevin Miami Heat" id="113" weight="137" />
+      <edge source="Herro, Tyler Miami Heat" target="GOAL" id="114" weight="483" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Swider, Cole Miami Heat" id="115" weight="5" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Cain, Jamal Miami Heat" id="116" weight="3" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Williams, Alondes Miami Heat" id="117" weight="4" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="118" weight="138" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Robinson, Orlando Miami Heat" id="119" weight="5" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Jović, Nikola Miami Heat" id="120" weight="43" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Herro, Tyler Miami Heat" id="121" weight="131" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Robinson, Duncan Miami Heat" id="122" weight="72" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Martin, Caleb Miami Heat" id="123" weight="81" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Bryant, Thomas Miami Heat" id="124" weight="26" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Adebayo, Bam Miami Heat" id="125" weight="140" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Richardson, Josh Miami Heat" id="126" weight="104" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Rozier, Terry Miami Heat" id="127" weight="89" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Wright, Delon Miami Heat" id="128" weight="41" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Butler, Jimmy Miami Heat" id="129" weight="113" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Mills, Patty Miami Heat" id="130" weight="10" />
+      <edge source="Highsmith, Haywood Miami Heat" target="Love, Kevin Miami Heat" id="131" weight="50" />
+      <edge source="Highsmith, Haywood Miami Heat" target="GOAL" id="132" weight="245" />
+      <edge source="Robinson, Duncan Miami Heat" target="Swider, Cole Miami Heat" id="133" weight="1" />
+      <edge source="Robinson, Duncan Miami Heat" target="Cain, Jamal Miami Heat" id="134" weight="18" />
+      <edge source="Robinson, Duncan Miami Heat" target="Williams, Alondes Miami Heat" id="135" weight="1" />
+      <edge source="Robinson, Duncan Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="136" weight="201" />
+      <edge source="Robinson, Duncan Miami Heat" target="Robinson, Orlando Miami Heat" id="137" weight="34" />
+      <edge source="Robinson, Duncan Miami Heat" target="Jović, Nikola Miami Heat" id="138" weight="65" />
+      <edge source="Robinson, Duncan Miami Heat" target="Herro, Tyler Miami Heat" id="139" weight="112" />
+      <edge source="Robinson, Duncan Miami Heat" target="Highsmith, Haywood Miami Heat" id="140" weight="61" />
+      <edge source="Robinson, Duncan Miami Heat" target="Martin, Caleb Miami Heat" id="141" weight="144" />
+      <edge source="Robinson, Duncan Miami Heat" target="Bryant, Thomas Miami Heat" id="142" weight="44" />
+      <edge source="Robinson, Duncan Miami Heat" target="Adebayo, Bam Miami Heat" id="143" weight="392" />
+      <edge source="Robinson, Duncan Miami Heat" target="Richardson, Josh Miami Heat" id="144" weight="125" />
+      <edge source="Robinson, Duncan Miami Heat" target="Rozier, Terry Miami Heat" id="145" weight="113" />
+      <edge source="Robinson, Duncan Miami Heat" target="Wright, Delon Miami Heat" id="146" weight="14" />
+      <edge source="Robinson, Duncan Miami Heat" target="Butler, Jimmy Miami Heat" id="147" weight="211" />
+      <edge source="Robinson, Duncan Miami Heat" target="Mills, Patty Miami Heat" id="148" weight="2" />
+      <edge source="Robinson, Duncan Miami Heat" target="Love, Kevin Miami Heat" id="149" weight="81" />
+      <edge source="Robinson, Duncan Miami Heat" target="GOAL" id="150" weight="573" />
+      <edge source="Martin, Caleb Miami Heat" target="Swider, Cole Miami Heat" id="151" weight="3" />
+      <edge source="Martin, Caleb Miami Heat" target="Cain, Jamal Miami Heat" id="152" weight="4" />
+      <edge source="Martin, Caleb Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="153" weight="222" />
+      <edge source="Martin, Caleb Miami Heat" target="Robinson, Orlando Miami Heat" id="154" weight="41" />
+      <edge source="Martin, Caleb Miami Heat" target="Jović, Nikola Miami Heat" id="155" weight="70" />
+      <edge source="Martin, Caleb Miami Heat" target="Herro, Tyler Miami Heat" id="156" weight="174" />
+      <edge source="Martin, Caleb Miami Heat" target="Highsmith, Haywood Miami Heat" id="157" weight="43" />
+      <edge source="Martin, Caleb Miami Heat" target="Robinson, Duncan Miami Heat" id="158" weight="143" />
+      <edge source="Martin, Caleb Miami Heat" target="Bryant, Thomas Miami Heat" id="159" weight="33" />
+      <edge source="Martin, Caleb Miami Heat" target="Adebayo, Bam Miami Heat" id="160" weight="234" />
+      <edge source="Martin, Caleb Miami Heat" target="Richardson, Josh Miami Heat" id="161" weight="98" />
+      <edge source="Martin, Caleb Miami Heat" target="Rozier, Terry Miami Heat" id="162" weight="172" />
+      <edge source="Martin, Caleb Miami Heat" target="Wright, Delon Miami Heat" id="163" weight="42" />
+      <edge source="Martin, Caleb Miami Heat" target="Butler, Jimmy Miami Heat" id="164" weight="245" />
+      <edge source="Martin, Caleb Miami Heat" target="Mills, Patty Miami Heat" id="165" weight="26" />
+      <edge source="Martin, Caleb Miami Heat" target="Love, Kevin Miami Heat" id="166" weight="84" />
+      <edge source="Martin, Caleb Miami Heat" target="GOAL" id="167" weight="510" />
+      <edge source="Bryant, Thomas Miami Heat" target="Swider, Cole Miami Heat" id="168" weight="2" />
+      <edge source="Bryant, Thomas Miami Heat" target="Cain, Jamal Miami Heat" id="169" weight="14" />
+      <edge source="Bryant, Thomas Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="170" weight="40" />
+      <edge source="Bryant, Thomas Miami Heat" target="Robinson, Orlando Miami Heat" id="171" weight="3" />
+      <edge source="Bryant, Thomas Miami Heat" target="Jović, Nikola Miami Heat" id="172" weight="2" />
+      <edge source="Bryant, Thomas Miami Heat" target="Herro, Tyler Miami Heat" id="173" weight="67" />
+      <edge source="Bryant, Thomas Miami Heat" target="Highsmith, Haywood Miami Heat" id="174" weight="13" />
+      <edge source="Bryant, Thomas Miami Heat" target="Robinson, Duncan Miami Heat" id="175" weight="48" />
+      <edge source="Bryant, Thomas Miami Heat" target="Martin, Caleb Miami Heat" id="176" weight="39" />
+      <edge source="Bryant, Thomas Miami Heat" target="Richardson, Josh Miami Heat" id="177" weight="43" />
+      <edge source="Bryant, Thomas Miami Heat" target="Rozier, Terry Miami Heat" id="178" weight="39" />
+      <edge source="Bryant, Thomas Miami Heat" target="Wright, Delon Miami Heat" id="179" weight="22" />
+      <edge source="Bryant, Thomas Miami Heat" target="Butler, Jimmy Miami Heat" id="180" weight="66" />
+      <edge source="Bryant, Thomas Miami Heat" target="Mills, Patty Miami Heat" id="181" weight="22" />
+      <edge source="Bryant, Thomas Miami Heat" target="Love, Kevin Miami Heat" id="182" weight="4" />
+      <edge source="Bryant, Thomas Miami Heat" target="GOAL" id="183" weight="83" />
+      <edge source="Adebayo, Bam Miami Heat" target="Swider, Cole Miami Heat" id="184" weight="10" />
+      <edge source="Adebayo, Bam Miami Heat" target="Cain, Jamal Miami Heat" id="185" weight="6" />
+      <edge source="Adebayo, Bam Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="186" weight="275" />
+      <edge source="Adebayo, Bam Miami Heat" target="Jović, Nikola Miami Heat" id="187" weight="123" />
+      <edge source="Adebayo, Bam Miami Heat" target="Herro, Tyler Miami Heat" id="188" weight="489" />
+      <edge source="Adebayo, Bam Miami Heat" target="Highsmith, Haywood Miami Heat" id="189" weight="97" />
+      <edge source="Adebayo, Bam Miami Heat" target="Robinson, Duncan Miami Heat" id="190" weight="490" />
+      <edge source="Adebayo, Bam Miami Heat" target="Martin, Caleb Miami Heat" id="191" weight="169" />
+      <edge source="Adebayo, Bam Miami Heat" target="Richardson, Josh Miami Heat" id="192" weight="171" />
+      <edge source="Adebayo, Bam Miami Heat" target="Rozier, Terry Miami Heat" id="193" weight="412" />
+      <edge source="Adebayo, Bam Miami Heat" target="Wright, Delon Miami Heat" id="194" weight="31" />
+      <edge source="Adebayo, Bam Miami Heat" target="Butler, Jimmy Miami Heat" id="195" weight="375" />
+      <edge source="Adebayo, Bam Miami Heat" target="Mills, Patty Miami Heat" id="196" weight="40" />
+      <edge source="Adebayo, Bam Miami Heat" target="Love, Kevin Miami Heat" id="197" weight="39" />
+      <edge source="Adebayo, Bam Miami Heat" target="GOAL" id="198" weight="842" />
+      <edge source="Rozier, Terry Miami Heat" target="Cain, Jamal Miami Heat" id="199" weight="1" />
+      <edge source="Rozier, Terry Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="200" weight="123" />
+      <edge source="Rozier, Terry Miami Heat" target="Robinson, Orlando Miami Heat" id="201" weight="3" />
+      <edge source="Rozier, Terry Miami Heat" target="Jović, Nikola Miami Heat" id="202" weight="121" />
+      <edge source="Rozier, Terry Miami Heat" target="Herro, Tyler Miami Heat" id="203" weight="81" />
+      <edge source="Rozier, Terry Miami Heat" target="Highsmith, Haywood Miami Heat" id="204" weight="56" />
+      <edge source="Rozier, Terry Miami Heat" target="Robinson, Duncan Miami Heat" id="205" weight="137" />
+      <edge source="Rozier, Terry Miami Heat" target="Martin, Caleb Miami Heat" id="206" weight="146" />
+      <edge source="Rozier, Terry Miami Heat" target="Bryant, Thomas Miami Heat" id="207" weight="21" />
+      <edge source="Rozier, Terry Miami Heat" target="Adebayo, Bam Miami Heat" id="208" weight="332" />
+      <edge source="Rozier, Terry Miami Heat" target="Richardson, Josh Miami Heat" id="209" weight="24" />
+      <edge source="Rozier, Terry Miami Heat" target="Wright, Delon Miami Heat" id="210" weight="18" />
+      <edge source="Rozier, Terry Miami Heat" target="Butler, Jimmy Miami Heat" id="211" weight="263" />
+      <edge source="Rozier, Terry Miami Heat" target="Mills, Patty Miami Heat" id="212" weight="33" />
+      <edge source="Rozier, Terry Miami Heat" target="Love, Kevin Miami Heat" id="213" weight="45" />
+      <edge source="Rozier, Terry Miami Heat" target="GOAL" id="214" weight="406" />
+      <edge source="Butler, Jimmy Miami Heat" target="Swider, Cole Miami Heat" id="215" weight="6" />
+      <edge source="Butler, Jimmy Miami Heat" target="Cain, Jamal Miami Heat" id="216" weight="4" />
+      <edge source="Butler, Jimmy Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="217" weight="186" />
+      <edge source="Butler, Jimmy Miami Heat" target="Robinson, Orlando Miami Heat" id="218" weight="42" />
+      <edge source="Butler, Jimmy Miami Heat" target="Jović, Nikola Miami Heat" id="219" weight="155" />
+      <edge source="Butler, Jimmy Miami Heat" target="Herro, Tyler Miami Heat" id="220" weight="201" />
+      <edge source="Butler, Jimmy Miami Heat" target="Highsmith, Haywood Miami Heat" id="221" weight="118" />
+      <edge source="Butler, Jimmy Miami Heat" target="Robinson, Duncan Miami Heat" id="222" weight="225" />
+      <edge source="Butler, Jimmy Miami Heat" target="Martin, Caleb Miami Heat" id="223" weight="234" />
+      <edge source="Butler, Jimmy Miami Heat" target="Bryant, Thomas Miami Heat" id="224" weight="43" />
+      <edge source="Butler, Jimmy Miami Heat" target="Adebayo, Bam Miami Heat" id="225" weight="337" />
+      <edge source="Butler, Jimmy Miami Heat" target="Richardson, Josh Miami Heat" id="226" weight="127" />
+      <edge source="Butler, Jimmy Miami Heat" target="Rozier, Terry Miami Heat" id="227" weight="255" />
+      <edge source="Butler, Jimmy Miami Heat" target="Wright, Delon Miami Heat" id="228" weight="30" />
+      <edge source="Butler, Jimmy Miami Heat" target="Mills, Patty Miami Heat" id="229" weight="49" />
+      <edge source="Butler, Jimmy Miami Heat" target="Love, Kevin Miami Heat" id="230" weight="240" />
+      <edge source="Butler, Jimmy Miami Heat" target="GOAL" id="231" weight="855" />
+      <edge source="Love, Kevin Miami Heat" target="Swider, Cole Miami Heat" id="232" weight="4" />
+      <edge source="Love, Kevin Miami Heat" target="Cain, Jamal Miami Heat" id="233" weight="15" />
+      <edge source="Love, Kevin Miami Heat" target="Williams, Alondes Miami Heat" id="234" weight="2" />
+      <edge source="Love, Kevin Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="235" weight="253" />
+      <edge source="Love, Kevin Miami Heat" target="Jović, Nikola Miami Heat" id="236" weight="19" />
+      <edge source="Love, Kevin Miami Heat" target="Herro, Tyler Miami Heat" id="237" weight="172" />
+      <edge source="Love, Kevin Miami Heat" target="Highsmith, Haywood Miami Heat" id="238" weight="47" />
+      <edge source="Love, Kevin Miami Heat" target="Robinson, Duncan Miami Heat" id="239" weight="93" />
+      <edge source="Love, Kevin Miami Heat" target="Martin, Caleb Miami Heat" id="240" weight="126" />
+      <edge source="Love, Kevin Miami Heat" target="Bryant, Thomas Miami Heat" id="241" weight="2" />
+      <edge source="Love, Kevin Miami Heat" target="Adebayo, Bam Miami Heat" id="242" weight="62" />
+      <edge source="Love, Kevin Miami Heat" target="Richardson, Josh Miami Heat" id="243" weight="151" />
+      <edge source="Love, Kevin Miami Heat" target="Rozier, Terry Miami Heat" id="244" weight="63" />
+      <edge source="Love, Kevin Miami Heat" target="Wright, Delon Miami Heat" id="245" weight="12" />
+      <edge source="Love, Kevin Miami Heat" target="Butler, Jimmy Miami Heat" id="246" weight="311" />
+      <edge source="Love, Kevin Miami Heat" target="Mills, Patty Miami Heat" id="247" weight="2" />
+      <edge source="Love, Kevin Miami Heat" target="GOAL" id="248" weight="359" />
+      <edge source="Wright, Delon Miami Heat" target="Swider, Cole Miami Heat" id="249" weight="8" />
+      <edge source="Wright, Delon Miami Heat" target="Cain, Jamal Miami Heat" id="250" weight="5" />
+      <edge source="Wright, Delon Miami Heat" target="Williams, Alondes Miami Heat" id="251" weight="2" />
+      <edge source="Wright, Delon Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="252" weight="57" />
+      <edge source="Wright, Delon Miami Heat" target="Robinson, Orlando Miami Heat" id="253" weight="3" />
+      <edge source="Wright, Delon Miami Heat" target="Jović, Nikola Miami Heat" id="254" weight="11" />
+      <edge source="Wright, Delon Miami Heat" target="Herro, Tyler Miami Heat" id="255" weight="10" />
+      <edge source="Wright, Delon Miami Heat" target="Highsmith, Haywood Miami Heat" id="256" weight="33" />
+      <edge source="Wright, Delon Miami Heat" target="Robinson, Duncan Miami Heat" id="257" weight="11" />
+      <edge source="Wright, Delon Miami Heat" target="Martin, Caleb Miami Heat" id="258" weight="37" />
+      <edge source="Wright, Delon Miami Heat" target="Bryant, Thomas Miami Heat" id="259" weight="18" />
+      <edge source="Wright, Delon Miami Heat" target="Adebayo, Bam Miami Heat" id="260" weight="42" />
+      <edge source="Wright, Delon Miami Heat" target="Rozier, Terry Miami Heat" id="261" weight="16" />
+      <edge source="Wright, Delon Miami Heat" target="Butler, Jimmy Miami Heat" id="262" weight="34" />
+      <edge source="Wright, Delon Miami Heat" target="Mills, Patty Miami Heat" id="263" weight="8" />
+      <edge source="Wright, Delon Miami Heat" target="Love, Kevin Miami Heat" id="264" weight="12" />
+      <edge source="Wright, Delon Miami Heat" target="GOAL" id="265" weight="116" />
+      <edge source="Mills, Patty Miami Heat" target="Cain, Jamal Miami Heat" id="266" weight="3" />
+      <edge source="Mills, Patty Miami Heat" target="Williams, Alondes Miami Heat" id="267" weight="1" />
+      <edge source="Mills, Patty Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="268" weight="31" />
+      <edge source="Mills, Patty Miami Heat" target="Robinson, Orlando Miami Heat" id="269" weight="2" />
+      <edge source="Mills, Patty Miami Heat" target="Jović, Nikola Miami Heat" id="270" weight="28" />
+      <edge source="Mills, Patty Miami Heat" target="Highsmith, Haywood Miami Heat" id="271" weight="7" />
+      <edge source="Mills, Patty Miami Heat" target="Martin, Caleb Miami Heat" id="272" weight="15" />
+      <edge source="Mills, Patty Miami Heat" target="Bryant, Thomas Miami Heat" id="273" weight="12" />
+      <edge source="Mills, Patty Miami Heat" target="Adebayo, Bam Miami Heat" id="274" weight="20" />
+      <edge source="Mills, Patty Miami Heat" target="Rozier, Terry Miami Heat" id="275" weight="26" />
+      <edge source="Mills, Patty Miami Heat" target="Wright, Delon Miami Heat" id="276" weight="6" />
+      <edge source="Mills, Patty Miami Heat" target="Butler, Jimmy Miami Heat" id="277" weight="43" />
+      <edge source="Mills, Patty Miami Heat" target="Love, Kevin Miami Heat" id="278" weight="1" />
+      <edge source="Mills, Patty Miami Heat" target="GOAL" id="279" weight="61" />
+      <edge source="Williams, Alondes Miami Heat" target="Swider, Cole Miami Heat" id="280" weight="10" />
+      <edge source="Williams, Alondes Miami Heat" target="Cain, Jamal Miami Heat" id="281" weight="2" />
+      <edge source="Williams, Alondes Miami Heat" target="Jaquez Jr., Jaime Miami Heat" id="282" weight="1" />
+      <edge source="Williams, Alondes Miami Heat" target="Robinson, Orlando Miami Heat" id="283" weight="8" />
+      <edge source="Williams, Alondes Miami Heat" target="Highsmith, Haywood Miami Heat" id="284" weight="1" />
+      <edge source="Williams, Alondes Miami Heat" target="Robinson, Duncan Miami Heat" id="285" weight="1" />
+      <edge source="Williams, Alondes Miami Heat" target="Wright, Delon Miami Heat" id="286" weight="1" />
+      <edge source="Williams, Alondes Miami Heat" target="Mills, Patty Miami Heat" id="287" weight="1" />
+      <edge source="Williams, Alondes Miami Heat" target="Love, Kevin Miami Heat" id="288" weight="2" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Haliburton, Tyrese Indiana Pacers" label="Haliburton, Tyrese Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Sheppard, Ben Indiana Pacers" label="Sheppard, Ben Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Walker, Jarace Indiana Pacers" label="Walker, Jarace Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Mathurin, Bennedict Indiana Pacers" label="Mathurin, Bennedict Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Jackson, Isaiah Indiana Pacers" label="Jackson, Isaiah Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Smith, Jalen Indiana Pacers" label="Smith, Jalen Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Nesmith, Aaron Indiana Pacers" label="Nesmith, Aaron Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Toppin, Obi Indiana Pacers" label="Toppin, Obi Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Nembhard, Andrew Indiana Pacers" label="Nembhard, Andrew Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Siakam, Pascal Indiana Pacers" label="Siakam, Pascal Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Turner, Myles Indiana Pacers" label="Turner, Myles Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="McConnell, T.J. Indiana Pacers" label="McConnell, T.J. Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="McDermott, Doug Indiana Pacers" label="McDermott, Doug Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Johnson, James Indiana Pacers" label="Johnson, James Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Jackson, Quenton Indiana Pacers" label="Jackson, Quenton Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Tshiebwe, Oscar Indiana Pacers" label="Tshiebwe, Oscar Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Brown, Kendall Indiana Pacers" label="Brown, Kendall Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="Wong, Isaiah Indiana Pacers" label="Wong, Isaiah Indiana Pacers">
+        <attvalues>
+          <attvalue for="0" value="Indiana Pacers" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="0" weight="69" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="1" weight="17" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="2" weight="376" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="3" weight="107" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="4" weight="224" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="5" weight="560" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="6" weight="403" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="7" weight="644" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="8" weight="582" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Turner, Myles Indiana Pacers" id="9" weight="840" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="10" weight="156" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="11" weight="17" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="Johnson, James Indiana Pacers" id="12" weight="1" />
+      <edge source="Haliburton, Tyrese Indiana Pacers" target="GOAL" id="13" weight="1783" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="14" weight="65" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="15" weight="1" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="16" weight="3" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="17" weight="7" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="18" weight="54" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="19" weight="22" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="20" weight="30" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="21" weight="19" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="22" weight="107" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="23" weight="69" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="24" weight="49" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="25" weight="48" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Turner, Myles Indiana Pacers" id="26" weight="25" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="27" weight="321" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="28" weight="29" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="Johnson, James Indiana Pacers" id="29" weight="7" />
+      <edge source="Sheppard, Ben Indiana Pacers" target="GOAL" id="30" weight="198" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="31" weight="51" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="32" weight="3" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Wong, Isaiah Indiana Pacers" id="33" weight="6" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="34" weight="4" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="35" weight="16" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="36" weight="20" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="37" weight="19" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="38" weight="17" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="39" weight="6" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="40" weight="16" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="41" weight="22" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="42" weight="25" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="43" weight="18" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Turner, Myles Indiana Pacers" id="44" weight="9" />
+      <edge source="Walker, Jarace Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="45" weight="110" />
+      <edge source="Walker, Jarace Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="46" weight="15" />
+      <edge source="Walker, Jarace Indiana Pacers" target="Johnson, James Indiana Pacers" id="47" weight="7" />
+      <edge source="Walker, Jarace Indiana Pacers" target="GOAL" id="48" weight="110" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="49" weight="36" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="50" weight="6" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="51" weight="59" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="52" weight="47" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="53" weight="76" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="54" weight="373" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="55" weight="113" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="56" weight="153" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="57" weight="50" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Turner, Myles Indiana Pacers" id="58" weight="108" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="59" weight="369" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="60" weight="1" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="Johnson, James Indiana Pacers" id="61" weight="5" />
+      <edge source="Mathurin, Bennedict Indiana Pacers" target="GOAL" id="62" weight="354" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="63" weight="29" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="64" weight="18" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Wong, Isaiah Indiana Pacers" id="65" weight="2" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="66" weight="1" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="67" weight="3" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="68" weight="75" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="69" weight="2" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="70" weight="25" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="71" weight="119" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="72" weight="32" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="73" weight="69" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="74" weight="14" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="75" weight="162" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="76" weight="11" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="Johnson, James Indiana Pacers" id="77" weight="7" />
+      <edge source="Jackson, Isaiah Indiana Pacers" target="GOAL" id="78" weight="169" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="79" weight="31" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="80" weight="16" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="81" weight="1" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="82" weight="48" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="83" weight="5" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="84" weight="38" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="85" weight="240" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="86" weight="54" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="87" weight="140" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="88" weight="54" />
+      <edge source="Smith, Jalen Indiana Pacers" target="Turner, Myles Indiana Pacers" id="89" weight="24" />
+      <edge source="Smith, Jalen Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="90" weight="269" />
+      <edge source="Smith, Jalen Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="91" weight="7" />
+      <edge source="Smith, Jalen Indiana Pacers" target="GOAL" id="92" weight="225" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="93" weight="18" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="94" weight="6" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="95" weight="85" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="96" weight="21" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="97" weight="54" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="98" weight="654" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="99" weight="60" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="100" weight="377" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="101" weight="161" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="Turner, Myles Indiana Pacers" id="102" weight="128" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="103" weight="285" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="104" weight="3" />
+      <edge source="Nesmith, Aaron Indiana Pacers" target="GOAL" id="105" weight="376" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="106" weight="86" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="107" weight="19" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="108" weight="148" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="109" weight="34" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="110" weight="37" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="111" weight="80" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="112" weight="517" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="113" weight="158" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="114" weight="30" />
+      <edge source="Toppin, Obi Indiana Pacers" target="Turner, Myles Indiana Pacers" id="115" weight="62" />
+      <edge source="Toppin, Obi Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="116" weight="483" />
+      <edge source="Toppin, Obi Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="117" weight="28" />
+      <edge source="Toppin, Obi Indiana Pacers" target="GOAL" id="118" weight="461" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="119" weight="43" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="120" weight="22" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="121" weight="2" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="122" weight="3" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="123" weight="1" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="124" weight="182" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="125" weight="66" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="126" weight="126" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="127" weight="256" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="128" weight="551" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="129" weight="101" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="130" weight="280" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Turner, Myles Indiana Pacers" id="131" weight="354" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="132" weight="71" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="133" weight="4" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="Johnson, James Indiana Pacers" id="134" weight="5" />
+      <edge source="Nembhard, Andrew Indiana Pacers" target="GOAL" id="135" weight="716" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="136" weight="34" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="137" weight="9" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="138" weight="62" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="139" weight="15" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="140" weight="43" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="141" weight="153" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="142" weight="508" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="143" weight="26" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="144" weight="217" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="Turner, Myles Indiana Pacers" id="145" weight="147" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="146" weight="125" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="147" weight="11" />
+      <edge source="Siakam, Pascal Indiana Pacers" target="GOAL" id="148" weight="442" />
+      <edge source="Turner, Myles Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="149" weight="18" />
+      <edge source="Turner, Myles Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="150" weight="6" />
+      <edge source="Turner, Myles Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="151" weight="96" />
+      <edge source="Turner, Myles Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="152" weight="16" />
+      <edge source="Turner, Myles Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="153" weight="126" />
+      <edge source="Turner, Myles Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="154" weight="686" />
+      <edge source="Turner, Myles Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="155" weight="60" />
+      <edge source="Turner, Myles Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="156" weight="236" />
+      <edge source="Turner, Myles Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="157" weight="112" />
+      <edge source="Turner, Myles Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="158" weight="111" />
+      <edge source="Turner, Myles Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="159" weight="1" />
+      <edge source="Turner, Myles Indiana Pacers" target="GOAL" id="160" weight="334" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="161" weight="317" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="162" weight="113" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="163" weight="3" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="164" weight="2" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="165" weight="429" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="166" weight="142" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="167" weight="206" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="168" weight="219" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="169" weight="141" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="170" weight="402" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="171" weight="68" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="172" weight="168" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Turner, Myles Indiana Pacers" id="173" weight="132" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="174" weight="92" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="Johnson, James Indiana Pacers" id="175" weight="13" />
+      <edge source="McConnell, T.J. Indiana Pacers" target="GOAL" id="176" weight="953" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="177" weight="15" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="178" weight="10" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="179" weight="1" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="180" weight="2" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="181" weight="1" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="182" weight="8" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="183" weight="7" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Nesmith, Aaron Indiana Pacers" id="184" weight="4" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="185" weight="10" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Toppin, Obi Indiana Pacers" id="186" weight="31" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="187" weight="7" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="188" weight="12" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Turner, Myles Indiana Pacers" id="189" weight="2" />
+      <edge source="McDermott, Doug Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="190" weight="105" />
+      <edge source="McDermott, Doug Indiana Pacers" target="Johnson, James Indiana Pacers" id="191" weight="4" />
+      <edge source="McDermott, Doug Indiana Pacers" target="GOAL" id="192" weight="57" />
+      <edge source="Johnson, James Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="193" weight="4" />
+      <edge source="Johnson, James Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="194" weight="9" />
+      <edge source="Johnson, James Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="195" weight="2" />
+      <edge source="Johnson, James Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="196" weight="2" />
+      <edge source="Johnson, James Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="197" weight="6" />
+      <edge source="Johnson, James Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="198" weight="6" />
+      <edge source="Johnson, James Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="199" weight="6" />
+      <edge source="Johnson, James Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="200" weight="6" />
+      <edge source="Johnson, James Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="201" weight="8" />
+      <edge source="Johnson, James Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="202" weight="4" />
+      <edge source="Johnson, James Indiana Pacers" target="GOAL" id="203" weight="15" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="204" weight="1" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="205" weight="4" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="206" weight="6" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="207" weight="4" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="208" weight="2" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="Johnson, James Indiana Pacers" id="209" weight="2" />
+      <edge source="Jackson, Quenton Indiana Pacers" target="GOAL" id="210" weight="5" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="211" weight="2" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="212" weight="7" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="213" weight="2" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Mathurin, Bennedict Indiana Pacers" id="214" weight="1" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Haliburton, Tyrese Indiana Pacers" id="215" weight="1" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="216" weight="4" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="Siakam, Pascal Indiana Pacers" id="217" weight="1" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="218" weight="2" />
+      <edge source="Tshiebwe, Oscar Indiana Pacers" target="GOAL" id="219" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Sheppard, Ben Indiana Pacers" id="220" weight="9" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="221" weight="14" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Jackson, Quenton Indiana Pacers" id="222" weight="5" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Wong, Isaiah Indiana Pacers" id="223" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Tshiebwe, Oscar Indiana Pacers" id="224" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="225" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Smith, Jalen Indiana Pacers" id="226" weight="1" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Nembhard, Andrew Indiana Pacers" id="227" weight="4" />
+      <edge source="Brown, Kendall Indiana Pacers" target="McConnell, T.J. Indiana Pacers" id="228" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="McDermott, Doug Indiana Pacers" id="229" weight="2" />
+      <edge source="Brown, Kendall Indiana Pacers" target="Johnson, James Indiana Pacers" id="230" weight="8" />
+      <edge source="Brown, Kendall Indiana Pacers" target="GOAL" id="231" weight="13" />
+      <edge source="Wong, Isaiah Indiana Pacers" target="Walker, Jarace Indiana Pacers" id="232" weight="4" />
+      <edge source="Wong, Isaiah Indiana Pacers" target="Brown, Kendall Indiana Pacers" id="233" weight="2" />
+      <edge source="Wong, Isaiah Indiana Pacers" target="Jackson, Isaiah Indiana Pacers" id="234" weight="1" />
+      <edge source="Wong, Isaiah Indiana Pacers" target="GOAL" id="235" weight="2" />
+    </edges>
+  </graph>
+</gexf>

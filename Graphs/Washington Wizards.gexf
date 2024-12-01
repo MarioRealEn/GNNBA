@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-30">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Coulibaly, Bilal Washington Wizards" label="Coulibaly, Bilal Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Bernard, Jules Washington Wizards" label="Bernard, Jules Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Baldwin Jr., Patrick Washington Wizards" label="Baldwin Jr., Patrick Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Davis, Johnny Washington Wizards" label="Davis, Johnny Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Omoruyi, Eugene Washington Wizards" label="Omoruyi, Eugene Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Kispert, Corey Washington Wizards" label="Kispert, Corey Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Champagnie, Justin Washington Wizards" label="Champagnie, Justin Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Gill, Anthony Washington Wizards" label="Gill, Anthony Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Butler, Jared Washington Wizards" label="Butler, Jared Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Avdija, Deni Washington Wizards" label="Avdija, Deni Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Poole, Jordan Washington Wizards" label="Poole, Jordan Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Shamet, Landry Washington Wizards" label="Shamet, Landry Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Bagley III, Marvin Washington Wizards" label="Bagley III, Marvin Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Kuzma, Kyle Washington Wizards" label="Kuzma, Kyle Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Holmes, Richaun Washington Wizards" label="Holmes, Richaun Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Jones, Tyus Washington Wizards" label="Jones, Tyus Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="Vukcevic, Tristan Washington Wizards" label="Vukcevic, Tristan Washington Wizards">
+        <attvalues>
+          <attvalue for="0" value="Washington Wizards" />
+        </attvalues>
+      </node>
+      <node id="GOAL" label="GOAL" />
+    </nodes>
+    <edges>
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Bernard, Jules Washington Wizards" id="0" weight="2" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="1" weight="15" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Davis, Johnny Washington Wizards" id="2" weight="15" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="3" weight="25" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Kispert, Corey Washington Wizards" id="4" weight="137" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Champagnie, Justin Washington Wizards" id="5" weight="1" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Gill, Anthony Washington Wizards" id="6" weight="24" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Butler, Jared Washington Wizards" id="7" weight="53" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Avdija, Deni Washington Wizards" id="8" weight="115" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Poole, Jordan Washington Wizards" id="9" weight="176" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Shamet, Landry Washington Wizards" id="10" weight="49" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="11" weight="30" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="12" weight="165" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Holmes, Richaun Washington Wizards" id="13" weight="11" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="Jones, Tyus Washington Wizards" id="14" weight="353" />
+      <edge source="Coulibaly, Bilal Washington Wizards" target="GOAL" id="15" weight="338" />
+      <edge source="Bernard, Jules Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="16" weight="2" />
+      <edge source="Bernard, Jules Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="17" weight="5" />
+      <edge source="Bernard, Jules Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="18" weight="32" />
+      <edge source="Bernard, Jules Washington Wizards" target="Davis, Johnny Washington Wizards" id="19" weight="7" />
+      <edge source="Bernard, Jules Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="20" weight="14" />
+      <edge source="Bernard, Jules Washington Wizards" target="Kispert, Corey Washington Wizards" id="21" weight="8" />
+      <edge source="Bernard, Jules Washington Wizards" target="Champagnie, Justin Washington Wizards" id="22" weight="8" />
+      <edge source="Bernard, Jules Washington Wizards" target="Gill, Anthony Washington Wizards" id="23" weight="23" />
+      <edge source="Bernard, Jules Washington Wizards" target="Butler, Jared Washington Wizards" id="24" weight="27" />
+      <edge source="Bernard, Jules Washington Wizards" target="Poole, Jordan Washington Wizards" id="25" weight="7" />
+      <edge source="Bernard, Jules Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="26" weight="4" />
+      <edge source="Bernard, Jules Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="27" weight="1" />
+      <edge source="Bernard, Jules Washington Wizards" target="Holmes, Richaun Washington Wizards" id="28" weight="3" />
+      <edge source="Bernard, Jules Washington Wizards" target="GOAL" id="29" weight="47" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="30" weight="10" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="31" weight="15" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Bernard, Jules Washington Wizards" id="32" weight="37" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Davis, Johnny Washington Wizards" id="33" weight="26" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="34" weight="8" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Kispert, Corey Washington Wizards" id="35" weight="44" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Champagnie, Justin Washington Wizards" id="36" weight="14" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Gill, Anthony Washington Wizards" id="37" weight="14" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Butler, Jared Washington Wizards" id="38" weight="112" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Avdija, Deni Washington Wizards" id="39" weight="62" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Poole, Jordan Washington Wizards" id="40" weight="94" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Shamet, Landry Washington Wizards" id="41" weight="7" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="42" weight="4" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="43" weight="10" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Holmes, Richaun Washington Wizards" id="44" weight="6" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="Jones, Tyus Washington Wizards" id="45" weight="3" />
+      <edge source="Baldwin Jr., Patrick Washington Wizards" target="GOAL" id="46" weight="133" />
+      <edge source="Davis, Johnny Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="47" weight="7" />
+      <edge source="Davis, Johnny Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="48" weight="13" />
+      <edge source="Davis, Johnny Washington Wizards" target="Bernard, Jules Washington Wizards" id="49" weight="10" />
+      <edge source="Davis, Johnny Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="50" weight="20" />
+      <edge source="Davis, Johnny Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="51" weight="26" />
+      <edge source="Davis, Johnny Washington Wizards" target="Kispert, Corey Washington Wizards" id="52" weight="32" />
+      <edge source="Davis, Johnny Washington Wizards" target="Champagnie, Justin Washington Wizards" id="53" weight="7" />
+      <edge source="Davis, Johnny Washington Wizards" target="Gill, Anthony Washington Wizards" id="54" weight="17" />
+      <edge source="Davis, Johnny Washington Wizards" target="Butler, Jared Washington Wizards" id="55" weight="51" />
+      <edge source="Davis, Johnny Washington Wizards" target="Avdija, Deni Washington Wizards" id="56" weight="43" />
+      <edge source="Davis, Johnny Washington Wizards" target="Poole, Jordan Washington Wizards" id="57" weight="95" />
+      <edge source="Davis, Johnny Washington Wizards" target="Shamet, Landry Washington Wizards" id="58" weight="7" />
+      <edge source="Davis, Johnny Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="59" weight="4" />
+      <edge source="Davis, Johnny Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="60" weight="12" />
+      <edge source="Davis, Johnny Washington Wizards" target="Holmes, Richaun Washington Wizards" id="61" weight="7" />
+      <edge source="Davis, Johnny Washington Wizards" target="Jones, Tyus Washington Wizards" id="62" weight="13" />
+      <edge source="Davis, Johnny Washington Wizards" target="GOAL" id="63" weight="116" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="64" weight="25" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Bernard, Jules Washington Wizards" id="65" weight="12" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="66" weight="6" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Davis, Johnny Washington Wizards" id="67" weight="22" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Kispert, Corey Washington Wizards" id="68" weight="35" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Champagnie, Justin Washington Wizards" id="69" weight="20" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Gill, Anthony Washington Wizards" id="70" weight="9" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Butler, Jared Washington Wizards" id="71" weight="89" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Avdija, Deni Washington Wizards" id="72" weight="34" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Poole, Jordan Washington Wizards" id="73" weight="67" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Shamet, Landry Washington Wizards" id="74" weight="13" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="75" weight="13" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Holmes, Richaun Washington Wizards" id="76" weight="1" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="Jones, Tyus Washington Wizards" id="77" weight="26" />
+      <edge source="Omoruyi, Eugene Washington Wizards" target="GOAL" id="78" weight="123" />
+      <edge source="Kispert, Corey Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="79" weight="19" />
+      <edge source="Kispert, Corey Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="80" weight="94" />
+      <edge source="Kispert, Corey Washington Wizards" target="Bernard, Jules Washington Wizards" id="81" weight="7" />
+      <edge source="Kispert, Corey Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="82" weight="32" />
+      <edge source="Kispert, Corey Washington Wizards" target="Davis, Johnny Washington Wizards" id="83" weight="45" />
+      <edge source="Kispert, Corey Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="84" weight="22" />
+      <edge source="Kispert, Corey Washington Wizards" target="Champagnie, Justin Washington Wizards" id="85" weight="9" />
+      <edge source="Kispert, Corey Washington Wizards" target="Gill, Anthony Washington Wizards" id="86" weight="31" />
+      <edge source="Kispert, Corey Washington Wizards" target="Butler, Jared Washington Wizards" id="87" weight="117" />
+      <edge source="Kispert, Corey Washington Wizards" target="Avdija, Deni Washington Wizards" id="88" weight="226" />
+      <edge source="Kispert, Corey Washington Wizards" target="Poole, Jordan Washington Wizards" id="89" weight="377" />
+      <edge source="Kispert, Corey Washington Wizards" target="Shamet, Landry Washington Wizards" id="90" weight="88" />
+      <edge source="Kispert, Corey Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="91" weight="36" />
+      <edge source="Kispert, Corey Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="92" weight="162" />
+      <edge source="Kispert, Corey Washington Wizards" target="Holmes, Richaun Washington Wizards" id="93" weight="17" />
+      <edge source="Kispert, Corey Washington Wizards" target="Jones, Tyus Washington Wizards" id="94" weight="293" />
+      <edge source="Kispert, Corey Washington Wizards" target="GOAL" id="95" weight="464" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="96" weight="3" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Bernard, Jules Washington Wizards" id="97" weight="14" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="98" weight="18" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Davis, Johnny Washington Wizards" id="99" weight="3" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="100" weight="12" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Kispert, Corey Washington Wizards" id="101" weight="13" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Gill, Anthony Washington Wizards" id="102" weight="13" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Butler, Jared Washington Wizards" id="103" weight="83" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Avdija, Deni Washington Wizards" id="104" weight="13" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Poole, Jordan Washington Wizards" id="105" weight="67" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="106" weight="4" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="107" weight="4" />
+      <edge source="Champagnie, Justin Washington Wizards" target="Holmes, Richaun Washington Wizards" id="108" weight="4" />
+      <edge source="Champagnie, Justin Washington Wizards" target="GOAL" id="109" weight="57" />
+      <edge source="Gill, Anthony Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="110" weight="17" />
+      <edge source="Gill, Anthony Washington Wizards" target="Bernard, Jules Washington Wizards" id="111" weight="28" />
+      <edge source="Gill, Anthony Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="112" weight="24" />
+      <edge source="Gill, Anthony Washington Wizards" target="Davis, Johnny Washington Wizards" id="113" weight="20" />
+      <edge source="Gill, Anthony Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="114" weight="7" />
+      <edge source="Gill, Anthony Washington Wizards" target="Kispert, Corey Washington Wizards" id="115" weight="28" />
+      <edge source="Gill, Anthony Washington Wizards" target="Champagnie, Justin Washington Wizards" id="116" weight="15" />
+      <edge source="Gill, Anthony Washington Wizards" target="Butler, Jared Washington Wizards" id="117" weight="84" />
+      <edge source="Gill, Anthony Washington Wizards" target="Avdija, Deni Washington Wizards" id="118" weight="56" />
+      <edge source="Gill, Anthony Washington Wizards" target="Poole, Jordan Washington Wizards" id="119" weight="72" />
+      <edge source="Gill, Anthony Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="120" weight="15" />
+      <edge source="Gill, Anthony Washington Wizards" target="Jones, Tyus Washington Wizards" id="121" weight="5" />
+      <edge source="Gill, Anthony Washington Wizards" target="GOAL" id="122" weight="123" />
+      <edge source="Butler, Jared Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="123" weight="18" />
+      <edge source="Butler, Jared Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="124" weight="46" />
+      <edge source="Butler, Jared Washington Wizards" target="Bernard, Jules Washington Wizards" id="125" weight="33" />
+      <edge source="Butler, Jared Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="126" weight="53" />
+      <edge source="Butler, Jared Washington Wizards" target="Davis, Johnny Washington Wizards" id="127" weight="36" />
+      <edge source="Butler, Jared Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="128" weight="82" />
+      <edge source="Butler, Jared Washington Wizards" target="Kispert, Corey Washington Wizards" id="129" weight="106" />
+      <edge source="Butler, Jared Washington Wizards" target="Champagnie, Justin Washington Wizards" id="130" weight="37" />
+      <edge source="Butler, Jared Washington Wizards" target="Gill, Anthony Washington Wizards" id="131" weight="107" />
+      <edge source="Butler, Jared Washington Wizards" target="Butler, Jared Washington Wizards" id="132" weight="1" />
+      <edge source="Butler, Jared Washington Wizards" target="Avdija, Deni Washington Wizards" id="133" weight="102" />
+      <edge source="Butler, Jared Washington Wizards" target="Poole, Jordan Washington Wizards" id="134" weight="88" />
+      <edge source="Butler, Jared Washington Wizards" target="Shamet, Landry Washington Wizards" id="135" weight="6" />
+      <edge source="Butler, Jared Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="136" weight="22" />
+      <edge source="Butler, Jared Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="137" weight="39" />
+      <edge source="Butler, Jared Washington Wizards" target="Holmes, Richaun Washington Wizards" id="138" weight="28" />
+      <edge source="Butler, Jared Washington Wizards" target="Jones, Tyus Washington Wizards" id="139" weight="6" />
+      <edge source="Butler, Jared Washington Wizards" target="GOAL" id="140" weight="329" />
+      <edge source="Avdija, Deni Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="141" weight="32" />
+      <edge source="Avdija, Deni Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="142" weight="120" />
+      <edge source="Avdija, Deni Washington Wizards" target="Bernard, Jules Washington Wizards" id="143" weight="5" />
+      <edge source="Avdija, Deni Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="144" weight="45" />
+      <edge source="Avdija, Deni Washington Wizards" target="Davis, Johnny Washington Wizards" id="145" weight="42" />
+      <edge source="Avdija, Deni Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="146" weight="35" />
+      <edge source="Avdija, Deni Washington Wizards" target="Kispert, Corey Washington Wizards" id="147" weight="254" />
+      <edge source="Avdija, Deni Washington Wizards" target="Champagnie, Justin Washington Wizards" id="148" weight="7" />
+      <edge source="Avdija, Deni Washington Wizards" target="Gill, Anthony Washington Wizards" id="149" weight="58" />
+      <edge source="Avdija, Deni Washington Wizards" target="Butler, Jared Washington Wizards" id="150" weight="123" />
+      <edge source="Avdija, Deni Washington Wizards" target="Poole, Jordan Washington Wizards" id="151" weight="615" />
+      <edge source="Avdija, Deni Washington Wizards" target="Shamet, Landry Washington Wizards" id="152" weight="107" />
+      <edge source="Avdija, Deni Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="153" weight="51" />
+      <edge source="Avdija, Deni Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="154" weight="346" />
+      <edge source="Avdija, Deni Washington Wizards" target="Holmes, Richaun Washington Wizards" id="155" weight="21" />
+      <edge source="Avdija, Deni Washington Wizards" target="Jones, Tyus Washington Wizards" id="156" weight="800" />
+      <edge source="Avdija, Deni Washington Wizards" target="GOAL" id="157" weight="800" />
+      <edge source="Poole, Jordan Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="158" weight="46" />
+      <edge source="Poole, Jordan Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="159" weight="132" />
+      <edge source="Poole, Jordan Washington Wizards" target="Bernard, Jules Washington Wizards" id="160" weight="6" />
+      <edge source="Poole, Jordan Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="161" weight="52" />
+      <edge source="Poole, Jordan Washington Wizards" target="Davis, Johnny Washington Wizards" id="162" weight="47" />
+      <edge source="Poole, Jordan Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="163" weight="39" />
+      <edge source="Poole, Jordan Washington Wizards" target="Kispert, Corey Washington Wizards" id="164" weight="372" />
+      <edge source="Poole, Jordan Washington Wizards" target="Champagnie, Justin Washington Wizards" id="165" weight="23" />
+      <edge source="Poole, Jordan Washington Wizards" target="Gill, Anthony Washington Wizards" id="166" weight="46" />
+      <edge source="Poole, Jordan Washington Wizards" target="Butler, Jared Washington Wizards" id="167" weight="48" />
+      <edge source="Poole, Jordan Washington Wizards" target="Avdija, Deni Washington Wizards" id="168" weight="388" />
+      <edge source="Poole, Jordan Washington Wizards" target="Shamet, Landry Washington Wizards" id="169" weight="73" />
+      <edge source="Poole, Jordan Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="170" weight="71" />
+      <edge source="Poole, Jordan Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="171" weight="389" />
+      <edge source="Poole, Jordan Washington Wizards" target="Holmes, Richaun Washington Wizards" id="172" weight="76" />
+      <edge source="Poole, Jordan Washington Wizards" target="Jones, Tyus Washington Wizards" id="173" weight="526" />
+      <edge source="Poole, Jordan Washington Wizards" target="GOAL" id="174" weight="886" />
+      <edge source="Shamet, Landry Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="175" weight="43" />
+      <edge source="Shamet, Landry Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="176" weight="2" />
+      <edge source="Shamet, Landry Washington Wizards" target="Davis, Johnny Washington Wizards" id="177" weight="11" />
+      <edge source="Shamet, Landry Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="178" weight="12" />
+      <edge source="Shamet, Landry Washington Wizards" target="Kispert, Corey Washington Wizards" id="179" weight="72" />
+      <edge source="Shamet, Landry Washington Wizards" target="Butler, Jared Washington Wizards" id="180" weight="5" />
+      <edge source="Shamet, Landry Washington Wizards" target="Avdija, Deni Washington Wizards" id="181" weight="96" />
+      <edge source="Shamet, Landry Washington Wizards" target="Poole, Jordan Washington Wizards" id="182" weight="85" />
+      <edge source="Shamet, Landry Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="183" weight="21" />
+      <edge source="Shamet, Landry Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="184" weight="72" />
+      <edge source="Shamet, Landry Washington Wizards" target="Jones, Tyus Washington Wizards" id="185" weight="105" />
+      <edge source="Shamet, Landry Washington Wizards" target="GOAL" id="186" weight="155" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="187" weight="1" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="188" weight="24" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Bernard, Jules Washington Wizards" id="189" weight="2" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="190" weight="4" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Davis, Johnny Washington Wizards" id="191" weight="3" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Kispert, Corey Washington Wizards" id="192" weight="50" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Champagnie, Justin Washington Wizards" id="193" weight="4" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Butler, Jared Washington Wizards" id="194" weight="19" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Avdija, Deni Washington Wizards" id="195" weight="73" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Poole, Jordan Washington Wizards" id="196" weight="112" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Shamet, Landry Washington Wizards" id="197" weight="25" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="198" weight="70" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="Jones, Tyus Washington Wizards" id="199" weight="171" />
+      <edge source="Bagley III, Marvin Washington Wizards" target="GOAL" id="200" weight="118" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="201" weight="8" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="202" weight="154" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Bernard, Jules Washington Wizards" id="203" weight="2" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="204" weight="8" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Davis, Johnny Washington Wizards" id="205" weight="12" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="206" weight="6" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Kispert, Corey Washington Wizards" id="207" weight="181" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Champagnie, Justin Washington Wizards" id="208" weight="7" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Gill, Anthony Washington Wizards" id="209" weight="12" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Butler, Jared Washington Wizards" id="210" weight="34" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Avdija, Deni Washington Wizards" id="211" weight="246" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Poole, Jordan Washington Wizards" id="212" weight="468" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Shamet, Landry Washington Wizards" id="213" weight="73" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="214" weight="54" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Holmes, Richaun Washington Wizards" id="215" weight="27" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="Jones, Tyus Washington Wizards" id="216" weight="798" />
+      <edge source="Kuzma, Kyle Washington Wizards" target="GOAL" id="217" weight="734" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Vukcevic, Tristan Washington Wizards" id="218" weight="1" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="219" weight="4" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Bernard, Jules Washington Wizards" id="220" weight="4" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="221" weight="3" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Davis, Johnny Washington Wizards" id="222" weight="13" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="223" weight="1" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Kispert, Corey Washington Wizards" id="224" weight="32" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Champagnie, Justin Washington Wizards" id="225" weight="6" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Butler, Jared Washington Wizards" id="226" weight="27" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Avdija, Deni Washington Wizards" id="227" weight="26" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Poole, Jordan Washington Wizards" id="228" weight="90" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Shamet, Landry Washington Wizards" id="229" weight="4" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="230" weight="50" />
+      <edge source="Holmes, Richaun Washington Wizards" target="Jones, Tyus Washington Wizards" id="231" weight="32" />
+      <edge source="Holmes, Richaun Washington Wizards" target="GOAL" id="232" weight="64" />
+      <edge source="Jones, Tyus Washington Wizards" target="Coulibaly, Bilal Washington Wizards" id="233" weight="295" />
+      <edge source="Jones, Tyus Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="234" weight="4" />
+      <edge source="Jones, Tyus Washington Wizards" target="Davis, Johnny Washington Wizards" id="235" weight="10" />
+      <edge source="Jones, Tyus Washington Wizards" target="Omoruyi, Eugene Washington Wizards" id="236" weight="19" />
+      <edge source="Jones, Tyus Washington Wizards" target="Kispert, Corey Washington Wizards" id="237" weight="313" />
+      <edge source="Jones, Tyus Washington Wizards" target="Gill, Anthony Washington Wizards" id="238" weight="2" />
+      <edge source="Jones, Tyus Washington Wizards" target="Butler, Jared Washington Wizards" id="239" weight="5" />
+      <edge source="Jones, Tyus Washington Wizards" target="Avdija, Deni Washington Wizards" id="240" weight="511" />
+      <edge source="Jones, Tyus Washington Wizards" target="Poole, Jordan Washington Wizards" id="241" weight="683" />
+      <edge source="Jones, Tyus Washington Wizards" target="Shamet, Landry Washington Wizards" id="242" weight="154" />
+      <edge source="Jones, Tyus Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="243" weight="119" />
+      <edge source="Jones, Tyus Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="244" weight="1052" />
+      <edge source="Jones, Tyus Washington Wizards" target="Holmes, Richaun Washington Wizards" id="245" weight="18" />
+      <edge source="Jones, Tyus Washington Wizards" target="GOAL" id="246" weight="1280" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Bernard, Jules Washington Wizards" id="247" weight="3" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Baldwin Jr., Patrick Washington Wizards" id="248" weight="8" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Davis, Johnny Washington Wizards" id="249" weight="5" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Kispert, Corey Washington Wizards" id="250" weight="15" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Champagnie, Justin Washington Wizards" id="251" weight="4" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Gill, Anthony Washington Wizards" id="252" weight="1" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Butler, Jared Washington Wizards" id="253" weight="23" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Avdija, Deni Washington Wizards" id="254" weight="31" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Poole, Jordan Washington Wizards" id="255" weight="41" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Bagley III, Marvin Washington Wizards" id="256" weight="1" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="Kuzma, Kyle Washington Wizards" id="257" weight="9" />
+      <edge source="Vukcevic, Tristan Washington Wizards" target="GOAL" id="258" weight="40" />
+    </edges>
+  </graph>
+</gexf>
