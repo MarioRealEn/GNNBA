@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-02">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+      <attribute id="1" title="type" type="string" />
+      <attribute id="2" title="player" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1626156" label="Russell, D'Angelo">
+        <attvalues>
+          <attvalue for="0" value="LAL" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1630559" label="Reaves, Austin">
+        <attvalues>
+          <attvalue for="0" value="LAL" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1629060" label="Hachimura, Rui">
+        <attvalues>
+          <attvalue for="0" value="LAL" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="203076" label="Davis, Anthony">
+        <attvalues>
+          <attvalue for="0" value="LAL" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="2544" label="James, LeBron">
+        <attvalues>
+          <attvalue for="0" value="LAL" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="3Pt" label="3Pt">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="2Pt" label="2Pt">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="TOV" label="TOV">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="Missed" label="Missed">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="OffensiveRebound" label="OffensiveRebound">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="BothFTsMade" label="BothFTsMade">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="BothFTsMissed" label="BothFTsMissed">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="1stFTMade" label="1stFTMade">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="2ndFTMade" label="2ndFTMade">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="B2OT" label="B2OT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+        </attvalues>
+      </node>
+      <node id="FT-1626156" label="FT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+          <attvalue for="2" value="D'Angelo Russell" />
+        </attvalues>
+      </node>
+      <node id="FT-203076" label="FT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+          <attvalue for="2" value="Anthony Davis" />
+        </attvalues>
+      </node>
+      <node id="FT-1630559" label="FT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+          <attvalue for="2" value="Austin Reaves" />
+        </attvalues>
+      </node>
+      <node id="FT-2544" label="FT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+          <attvalue for="2" value="LeBron James" />
+        </attvalues>
+      </node>
+      <node id="FT-1629060" label="FT">
+        <attvalues>
+          <attvalue for="1" value="event" />
+          <attvalue for="2" value="Rui Hachimura" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1626156" target="1630559" id="0" weight="506" />
+      <edge source="1626156" target="1629060" id="1" weight="288" />
+      <edge source="1626156" target="203076" id="2" weight="963" />
+      <edge source="1626156" target="2544" id="3" weight="855" />
+      <edge source="1626156" target="FT-1626156" id="4" weight="96" />
+      <edge source="1626156" target="3Pt" id="5" weight="226" />
+      <edge source="1626156" target="2Pt" id="6" weight="266" />
+      <edge source="1626156" target="TOV" id="7" weight="156" />
+      <edge source="1626156" target="Missed" id="8" weight="588" />
+      <edge source="1630559" target="1629060" id="9" weight="328" />
+      <edge source="1630559" target="1626156" id="10" weight="578" />
+      <edge source="1630559" target="203076" id="11" weight="901" />
+      <edge source="1630559" target="2544" id="12" weight="933" />
+      <edge source="1630559" target="FT-1630559" id="13" weight="136" />
+      <edge source="1630559" target="3Pt" id="14" weight="154" />
+      <edge source="1630559" target="2Pt" id="15" weight="303" />
+      <edge source="1630559" target="TOV" id="16" weight="174" />
+      <edge source="1630559" target="Missed" id="17" weight="483" />
+      <edge source="1629060" target="1630559" id="18" weight="362" />
+      <edge source="1629060" target="1626156" id="19" weight="311" />
+      <edge source="1629060" target="203076" id="20" weight="117" />
+      <edge source="1629060" target="2544" id="21" weight="300" />
+      <edge source="1629060" target="FT-1629060" id="22" weight="67" />
+      <edge source="1629060" target="3Pt" id="23" weight="98" />
+      <edge source="1629060" target="2Pt" id="24" weight="265" />
+      <edge source="1629060" target="TOV" id="25" weight="46" />
+      <edge source="1629060" target="Missed" id="26" weight="313" />
+      <edge source="203076" target="1630559" id="27" weight="907" />
+      <edge source="203076" target="1629060" id="28" weight="166" />
+      <edge source="203076" target="1626156" id="29" weight="920" />
+      <edge source="203076" target="2544" id="30" weight="1122" />
+      <edge source="203076" target="FT-203076" id="31" weight="258" />
+      <edge source="203076" target="3Pt" id="32" weight="29" />
+      <edge source="203076" target="2Pt" id="33" weight="684" />
+      <edge source="203076" target="TOV" id="34" weight="159" />
+      <edge source="203076" target="Missed" id="35" weight="570" />
+      <edge source="2544" target="1630559" id="36" weight="869" />
+      <edge source="2544" target="1629060" id="37" weight="272" />
+      <edge source="2544" target="1626156" id="38" weight="740" />
+      <edge source="2544" target="203076" id="39" weight="747" />
+      <edge source="2544" target="FT-2544" id="40" weight="202" />
+      <edge source="2544" target="3Pt" id="41" weight="149" />
+      <edge source="2544" target="2Pt" id="42" weight="536" />
+      <edge source="2544" target="TOV" id="43" weight="245" />
+      <edge source="2544" target="Missed" id="44" weight="584" />
+      <edge source="3Pt" target="B2OT" id="45" weight="1" />
+      <edge source="2Pt" target="B2OT" id="46" weight="1" />
+      <edge source="TOV" target="B2OT" id="47" weight="1" />
+      <edge source="Missed" target="B2OT" id="48" weight="2247" />
+      <edge source="Missed" target="OffensiveRebound" id="49" weight="443" />
+      <edge source="OffensiveRebound" target="1626156" id="50" weight="28" />
+      <edge source="OffensiveRebound" target="203076" id="51" weight="239" />
+      <edge source="OffensiveRebound" target="1630559" id="52" weight="57" />
+      <edge source="OffensiveRebound" target="2544" id="53" weight="61" />
+      <edge source="OffensiveRebound" target="1629060" id="54" weight="58" />
+      <edge source="BothFTsMade" target="B2OT" id="55" weight="1" />
+      <edge source="BothFTsMissed" target="Missed" id="56" weight="1" />
+      <edge source="1stFTMade" target="Missed" id="57" weight="1" />
+      <edge source="2ndFTMade" target="B2OT" id="58" weight="1" />
+      <edge source="FT-1626156" target="BothFTsMade" id="59" weight="0.685791015625" />
+      <edge source="FT-1626156" target="1stFTMade" id="60" weight="0.142333984375" />
+      <edge source="FT-1626156" target="2ndFTMade" id="61" weight="0.142333984375" />
+      <edge source="FT-1626156" target="BothFTsMissed" id="62" weight="0.029541015625" />
+      <edge source="FT-203076" target="BothFTsMade" id="63" weight="0.6656788954990686" />
+      <edge source="FT-203076" target="1stFTMade" id="64" weight="0.15021257736914848" />
+      <edge source="FT-203076" target="2ndFTMade" id="65" weight="0.15021257736914848" />
+      <edge source="FT-203076" target="BothFTsMissed" id="66" weight="0.03389594976263446" />
+      <edge source="FT-1630559" target="BothFTsMade" id="67" weight="0.7275086505190311" />
+      <edge source="FT-1630559" target="1stFTMade" id="68" weight="0.1254325259515571" />
+      <edge source="FT-1630559" target="2ndFTMade" id="69" weight="0.1254325259515571" />
+      <edge source="FT-1630559" target="BothFTsMissed" id="70" weight="0.021626297577854673" />
+      <edge source="FT-2544" target="BothFTsMade" id="71" weight="0.5625" />
+      <edge source="FT-2544" target="1stFTMade" id="72" weight="0.1875" />
+      <edge source="FT-2544" target="2ndFTMade" id="73" weight="0.1875" />
+      <edge source="FT-2544" target="BothFTsMissed" id="74" weight="0.0625" />
+      <edge source="FT-1629060" target="BothFTsMade" id="75" weight="0.54583426152818" />
+      <edge source="FT-1629060" target="1stFTMade" id="76" weight="0.19297170862107374" />
+      <edge source="FT-1629060" target="2ndFTMade" id="77" weight="0.19297170862107374" />
+      <edge source="FT-1629060" target="BothFTsMissed" id="78" weight="0.06822232122967252" />
+    </edges>
+  </graph>
+</gexf>

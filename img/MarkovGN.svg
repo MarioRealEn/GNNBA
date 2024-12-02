@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1167.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="0.000000 -436.000000 1167.000000 984.000000" height="984.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_1630559"
+              d="M 363.564240,-105.775917 A 426.342578,426.342578 0,0 1,66.781715,290.584686"
+              stroke="#3fb17d" stroke-width="0.12829615" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_1629060"
+              d="M 369.603607,-107.719887 A 197.921249,197.921249 0,0 1,373.257202,113.275604"
+              stroke="#3fb17d" stroke-width="0.07302231" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_203076"
+              d="M 354.323334,-112.241516 A 253.707876,253.707876 0,0 1,76.463997,-186.506714"
+              stroke="#3fb17d" stroke-width="0.24416836" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_2544"
+              d="M 358.132843,-107.453636 A 246.800349,246.800349 0,0 1,96.763618,-8.752751"
+              stroke="#3fb17d" stroke-width="0.21678498" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_1626156 id_FT-1626156"
+              d="M 371.881531,-121.494080 A 195.356196,195.356196 0,0 1,589.937805,-119.549026"
+              stroke="#969588" stroke-width="0.024340771" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_3Pt"
+              d="M 368.672485,-124.438805 A 441.555819,441.555819 0,0 1,838.488464,-331.923737"
+              stroke="#969588" stroke-width="0.057302233" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_2Pt"
+              d="M 370.172302,-123.379623 A 419.289305,419.289305 0,0 1,843.896851,-235.623444"
+              stroke="#969588" stroke-width="0.06744422" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_TOV"
+              d="M 367.464020,-125.030922 A 495.053132,495.053132 0,0 1,860.320496,-426.692566"
+              stroke="#969588" stroke-width="0.039553754" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1626156 id_Missed"
+              d="M 373.652679,-116.488754 A 667.233606,667.233606 0,0 1,1036.312866,302.911713"
+              stroke="#969588" stroke-width="0.14908722" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_1629060"
+              d="M 61.097038,284.563965 A 295.853667,295.853667 0,0 1,357.300629,120.466263"
+              stroke="#3fb17d" stroke-width="0.08220551" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_1626156"
+              d="M 56.963303,283.617645 A 426.342578,426.342578 0,0 1,353.698486,-112.727859"
+              stroke="#3fb17d" stroke-width="0.14486216" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_203076"
+              d="M 51.161911,285.391876 A 407.164697,407.164697 0,0 1,63.148899,-186.355377"
+              stroke="#3fb17d" stroke-width="0.22581454" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_2544"
+              d="M 51.818825,284.974487 A 255.470876,255.470876 0,0 1,79.425995,-3.463003"
+              stroke="#3fb17d" stroke-width="0.23383458" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_1630559 id_FT-1630559"
+              d="M 63.961033,286.586731 A 449.772372,449.772372 0,0 1,581.797363,209.712845"
+              stroke="#969588" stroke-width="0.034085214" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_3Pt"
+              d="M 59.479877,283.969177 A 839.627906,839.627906 0,0 1,838.311951,-329.441315"
+              stroke="#969588" stroke-width="0.038596492" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_2Pt"
+              d="M 60.283451,284.225128 A 795.057240,795.057240 0,0 1,843.085205,-232.212860"
+              stroke="#969588" stroke-width="0.07593985" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_TOV"
+              d="M 58.921482,283.834045 A 905.036585,905.036585 0,0 1,860.310120,-424.969940"
+              stroke="#969588" stroke-width="0.043609023" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1630559 id_Missed"
+              d="M 64.999512,287.822571 A 819.525521,819.525521 0,0 1,1031.887085,306.324585"
+              stroke="#969588" stroke-width="0.12105263" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_1630559"
+              d="M 363.225067,130.752960 A 295.853667,295.853667 0,0 1,67.351128,294.884674"
+              stroke="#3fb17d" stroke-width="0.19265567" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_1626156"
+              d="M 361.547272,113.644531 A 197.921249,197.921249 0,0 1,357.742676,-107.118050"
+              stroke="#3fb17d" stroke-width="0.16551358" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_203076"
+              d="M 357.645477,119.849190 A 362.158265,362.158265 0,0 1,70.942207,-184.705856"
+              stroke="#3fb17d" stroke-width="0.062267162" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_2544"
+              d="M 357.636993,123.505089 A 259.144124,259.144124 0,0 1,91.545341,-2.341199"
+              stroke="#3fb17d" stroke-width="0.1596594" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_1629060 id_FT-1629060"
+              d="M 374.524597,114.609711 A 187.841192,187.841192 0,0 1,580.464722,78.937729"
+              stroke="#969588" stroke-width="0.035657264" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_3Pt"
+              d="M 369.288910,111.866226 A 549.691852,549.691852 0,0 1,838.339294,-328.529816"
+              stroke="#969588" stroke-width="0.0521554" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_2Pt"
+              d="M 370.508484,112.171837 A 500.617605,500.617605 0,0 1,842.875122,-231.704849"
+              stroke="#969588" stroke-width="0.14103246" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_TOV"
+              d="M 368.545898,111.757668 A 619.554775,619.554775 0,0 1,860.515869,-423.915161"
+              stroke="#969588" stroke-width="0.024481107" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1629060 id_Missed"
+              d="M 376.837646,118.193008 A 582.668536,582.668536 0,0 1,1033.660767,304.353333"
+              stroke="#969588" stroke-width="0.16657797" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_1630559"
+              d="M 75.354401,-186.587402 A 407.164697,407.164697 0,0 1,63.299992,285.249725"
+              stroke="#3fb17d" stroke-width="0.18836968" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_1629060"
+              d="M 79.494164,-192.961792 A 362.158265,362.158265 0,0 1,366.209015,111.675827"
+              stroke="#3fb17d" stroke-width="0.0344756" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_1626156"
+              d="M 79.021736,-198.346268 A 253.707876,253.707876 0,0 1,356.984528,-123.959892"
+              stroke="#3fb17d" stroke-width="0.19106957" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_2544"
+              d="M 76.127068,-187.179276 A 153.390573,153.390573 0,0 1,91.766983,-20.812922"
+              stroke="#3fb17d" stroke-width="0.23302181" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_FT-203076"
+              d="M 77.093803,-201.508881 A 426.591220,426.591220 0,0 1,570.150330,-252.039856"
+              stroke="#969588" stroke-width="0.053582553" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_3Pt"
+              d="M 76.580231,-202.037888 A 658.632379,658.632379 0,0 1,839.466003,-334.226990"
+              stroke="#969588" stroke-width="0.0060228454" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_2Pt"
+              d="M 77.424759,-201.122498 A 653.747482,653.747482 0,0 1,844.626099,-237.448608"
+              stroke="#969588" stroke-width="0.14205608" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_TOV"
+              d="M 75.747421,-202.751495 A 694.498874,694.498874 0,0 1,860.935181,-429.355560"
+              stroke="#969588" stroke-width="0.033021808" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_203076 id_Missed"
+              d="M 79.545166,-196.368210 A 912.585718,912.585718 0,0 1,1035.580933,303.330933"
+              stroke="#969588" stroke-width="0.11838006" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_1630559"
+              d="M 91.507744,-2.870505 A 255.470876,255.470876 0,0 1,63.835369,285.644592"
+              stroke="#3fb17d" stroke-width="0.20004605" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_1629060"
+              d="M 96.312889,-13.318212 A 259.144124,259.144124 0,0 1,362.550354,112.780128"
+              stroke="#3fb17d" stroke-width="0.062615104" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_1626156"
+              d="M 92.022484,-19.834669 A 246.800349,246.800349 0,0 1,353.527039,-118.502319"
+              stroke="#3fb17d" stroke-width="0.17034991" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_203076"
+              d="M 80.017021,-19.146282 A 153.390573,153.390573 0,0 1,64.462212,-185.674957"
+              stroke="#3fb17d" stroke-width="0.17196132" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_FT-2544"
+              d="M 94.392456,-17.624357 A 425.624373,425.624373 0,0 1,588.722473,-30.430586"
+              stroke="#969588" stroke-width="0.04650092" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_3Pt"
+              d="M 91.609375,-20.095608 A 688.108646,688.108646 0,0 1,838.611267,-332.147278"
+              stroke="#969588" stroke-width="0.034300186" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_2Pt"
+              d="M 92.570702,-19.442028 A 664.830398,664.830398 0,0 1,843.578613,-235.276108"
+              stroke="#969588" stroke-width="0.12338858" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_TOV"
+              d="M 90.807472,-20.526833 A 738.903423,738.903423 0,0 1,860.348938,-427.365814"
+              stroke="#969588" stroke-width="0.056399632" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2544 id_Missed"
+              d="M 96.000908,-14.562368 A 839.340940,839.340940 0,0 1,1034.171875,304.098083"
+              stroke="#969588" stroke-width="0.1344383" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3Pt id_B2OT"
+              d="M 858.405518,-329.143585 A 333.369000,333.369000 0,0 1,1154.078979,-88.210220"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2Pt id_B2OT"
+              d="M 863.182922,-233.173920 A 284.826166,284.826166 0,0 1,1151.444824,-87.196640"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_TOV id_B2OT"
+              d="M 880.082458,-423.329163 A 377.315583,377.315583 0,0 1,1156.619873,-88.618736"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Missed id_B2OT"
+              d="M 1036.805176,303.206940 A 338.021049,338.021049 0,0 1,1147.465210,-68.049995"
+              stroke="#ee7993" stroke-width="0.835316" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Missed id_OffensiveRebound"
+              d="M 1039.441895,322.628601 A 242.765341,242.765341 0,0 1,865.173645,534.931885"
+              stroke="#ee7993" stroke-width="0.16468401" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_OffensiveRebound id_1626156"
+              d="M 845.450989,534.777283 A 681.285526,681.285526 0,0 1,363.767303,-105.586044"
+              stroke="#969588" stroke-width="0.06320542" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_OffensiveRebound id_203076"
+              d="M 845.097168,536.511536 A 894.924383,894.924383 0,0 1,71.783989,-183.388519"
+              stroke="#969588" stroke-width="0.5395034" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_OffensiveRebound id_1630559"
+              d="M 845.604980,540.966797 A 695.543033,695.543033 0,0 1,63.035763,301.959534"
+              stroke="#969588" stroke-width="0.12866817" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_OffensiveRebound id_2544"
+              d="M 845.035217,537.802979 A 787.155273,787.155273 0,0 1,89.688522,-1.607495"
+              stroke="#969588" stroke-width="0.13769752" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_OffensiveRebound id_1629060"
+              d="M 845.059814,536.914612 A 534.060851,534.060851 0,0 1,369.849487,131.817261"
+              stroke="#969588" stroke-width="0.1309255" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BothFTsMade id_B2OT"
+              d="M 877.137329,-131.439865 A 244.855922,244.855922 0,0 1,1148.281006,-84.904778"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_BothFTsMissed id_Missed"
+              d="M 869.484802,71.791641 A 252.684825,252.684825 0,0 1,1039.857666,299.652161"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1stFTMade id_Missed"
+              d="M 877.677795,12.072009 A 291.420353,291.420353 0,0 1,1041.505249,299.726624"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_2ndFTMade id_B2OT"
+              d="M 881.713989,-58.506550 A 236.903499,236.903499 0,0 1,1146.205322,-82.246506"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1626156 id_BothFTsMade"
+              d="M 605.926819,-119.859512 A 225.299979,225.299979 0,0 1,857.948303,-133.592148"
+              stroke="#ee7993" stroke-width="0.685791" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1626156 id_1stFTMade"
+              d="M 607.894531,-115.637161 A 247.120936,247.120936 0,0 1,863.359497,-1.130587"
+              stroke="#ee7993" stroke-width="0.14233398" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1626156 id_2ndFTMade"
+              d="M 607.296204,-117.558868 A 235.666927,235.666927 0,0 1,867.149963,-59.793346"
+              stroke="#ee7993" stroke-width="0.14233398" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1626156 id_BothFTsMissed"
+              d="M 608.094543,-113.804184 A 265.929606,265.929606 0,0 1,856.619629,59.213627"
+              stroke="#ee7993" stroke-width="0.029541016" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-203076 id_BothFTsMade"
+              d="M 588.651794,-249.202042 A 260.856643,260.856643 0,0 1,861.771484,-137.297226"
+              stroke="#ee7993" stroke-width="0.6656789" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-203076 id_1stFTMade"
+              d="M 588.875244,-245.973007 A 321.489601,321.489601 0,0 1,866.293579,-2.307728"
+              stroke="#ee7993" stroke-width="0.15021257" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-203076 id_2ndFTMade"
+              d="M 588.909607,-247.336304 A 294.760730,294.760730 0,0 1,870.405457,-61.797001"
+              stroke="#ee7993" stroke-width="0.15021257" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-203076 id_BothFTsMissed"
+              d="M 588.690796,-244.782562 A 352.189495,352.189495 0,0 1,858.972778,58.678738"
+              stroke="#ee7993" stroke-width="0.03389595" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1630559 id_BothFTsMade"
+              d="M 591.256775,204.436310 A 366.659226,366.659226 0,0 1,856.352356,-123.964355"
+              stroke="#ee7993" stroke-width="0.72750866" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1630559 id_1stFTMade"
+              d="M 593.741516,204.885468 A 288.511901,288.511901 0,0 1,858.220703,8.028142"
+              stroke="#ee7993" stroke-width="0.12543252" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1630559 id_2ndFTMade"
+              d="M 592.604431,204.599045 A 324.132983,324.132983 0,0 1,863.809082,-50.706173"
+              stroke="#ee7993" stroke-width="0.12543252" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1630559 id_BothFTsMissed"
+              d="M 595.092163,205.422028 A 255.101588,255.101588 0,0 1,849.981628,67.449265"
+              stroke="#ee7993" stroke-width="0.021626297" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-2544 id_BothFTsMade"
+              d="M 602.592712,-32.984753 A 241.484238,241.484238 0,0 1,856.818787,-130.098343"
+              stroke="#ee7993" stroke-width="0.5625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FT-2544 id_1stFTMade"
+              d="M 605.822144,-29.470793 A 227.901475,227.901475 0,0 1,860.793091,0.767069"
+              stroke="#ee7993" stroke-width="0.1875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FT-2544 id_2ndFTMade"
+              d="M 604.572693,-31.253391 A 231.993780,231.993780 0,0 1,864.947266,-57.290977"
+              stroke="#ee7993" stroke-width="0.1875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-2544 id_BothFTsMissed"
+              d="M 606.665955,-27.426624 A 232.500779,232.500779 0,0 1,854.145996,60.369190"
+              stroke="#ee7993" stroke-width="0.0625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1629060 id_BothFTsMade"
+              d="M 592.517395,73.731049 A 290.895578,290.895578 0,0 1,856.485474,-126.844391"
+              stroke="#ee7993" stroke-width="0.54583424" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1629060 id_1stFTMade"
+              d="M 595.905579,75.541824 A 240.850185,240.850185 0,0 1,858.686279,4.183396"
+              stroke="#ee7993" stroke-width="0.1929717" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1629060 id_2ndFTMade"
+              d="M 594.401184,74.527443 A 262.544927,262.544927 0,0 1,863.692505,-53.909729"
+              stroke="#ee7993" stroke-width="0.1929717" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FT-1629060 id_BothFTsMissed"
+              d="M 597.392029,77.041634 A 225.641979,225.641979 0,0 1,851.357178,63.249905"
+              stroke="#ee7993" stroke-width="0.06822232" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1626156 id_1630559"
+                  points="66.413597,290.697083 66.725525,290.400635 66.837906,290.768738"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1626156 id_1629060"
+                  points="373.133209,113.456192 373.166901,113.213600 373.347504,113.337608"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1626156 id_203076"
+                  points="76.000092,-187.073593 76.747444,-186.738663 76.180565,-186.274765"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1626156 id_2544"
+                  points="96.135483,-8.921306 96.847885,-9.066817 96.679337,-8.438684"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_1626156 id_FT-1626156"
+                  points="589.996948,-119.506195 589.916382,-119.519455 589.959229,-119.578598"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1626156 id_3Pt"
+                  points="838.656372,-331.886841 838.470032,-331.839783 838.506897,-332.007690"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1626156 id_2Pt"
+                  points="844.083313,-235.544861 843.857544,-235.530228 843.936157,-235.716660"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1626156 id_TOV"
+                  points="860.438721,-426.682587 860.315491,-426.633453 860.325500,-426.751678"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1626156 id_Missed"
+                  points="1036.474731,303.328613 1036.104370,302.992676 1036.521362,302.830750"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1630559 id_1629060"
+                  points="357.545471,120.495956 357.285797,120.588676 357.315460,120.343849"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1630559 id_1626156"
+                  points="354.114136,-112.854774 353.761932,-112.520042 353.635040,-112.935677"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1630559 id_203076"
+                  points="63.562443,-186.891953 63.417187,-186.148605 62.880611,-186.562149"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1630559 id_2544"
+                  points="79.888214,-3.990697 79.689842,-3.231893 79.162148,-3.694111"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_1630559 id_FT-1630559"
+                  points="581.887817,209.760513 581.773499,209.758057 581.821228,209.667603"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1630559 id_3Pt"
+                  points="838.427734,-329.444733 838.313660,-329.383453 838.310242,-329.499176"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1630559 id_2Pt"
+                  points="843.312683,-232.200562 843.079041,-232.099121 843.091370,-232.326599"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1630559 id_TOV"
+                  points="860.440430,-424.981201 860.315735,-424.904755 860.304504,-425.035126"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1630559 id_Missed"
+                  points="1032.174683,306.546234 1031.776245,306.468414 1031.997925,306.180756"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1629060 id_1630559"
+                  points="66.777328,294.815399 67.385757,294.597778 67.316498,295.171570"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0"
+                  class="id_1629060 id_1626156"
+                  points="358.023468,-107.527588 357.947449,-106.977661 357.537903,-107.258438"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1629060 id_203076"
+                  points="70.918823,-184.891190 71.034874,-184.717545 70.849541,-184.694168"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_1629060 id_2544"
+                  points="91.313690,-2.760429 91.754959,-2.457028 91.335724,-2.225370"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_1629060 id_FT-1629060"
+                  points="580.561279,78.983810 580.441650,78.986000 580.487793,78.889458"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1629060 id_3Pt"
+                  points="838.494629,-328.548492 838.348633,-328.452148 838.329956,-328.607483"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1629060 id_2Pt"
+                  points="843.298157,-231.703049 842.874207,-231.493301 842.876038,-231.916397"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1629060 id_TOV"
+                  points="860.587952,-423.929199 860.522888,-423.879120 860.508850,-423.951202"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_1629060 id_Missed"
+                  points="1033.967041,304.748199 1033.463379,304.506470 1033.858154,304.200195"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_203076 id_1630559"
+                  points="62.954960,285.697266 63.076218,285.077209 63.523766,285.422241"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_203076 id_1629060"
+                  points="366.221954,111.778442 366.157715,111.682297 366.260315,111.669357"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_203076 id_1626156"
+                  points="357.347412,-123.516174 356.762665,-123.778450 357.206390,-124.141335"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_203076 id_2544"
+                  points="91.421356,-20.205278 91.463158,-20.985739 92.070808,-20.640108"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_203076 id_FT-203076"
+                  points="570.289063,-251.958633 570.109741,-251.970490 570.190918,-252.109222"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_203076 id_3Pt"
+                  points="839.482178,-334.218903 839.461975,-334.218903 839.470032,-334.235077"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_203076 id_2Pt"
+                  points="844.980591,-237.212021 844.507813,-237.271378 844.744385,-237.625839"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_203076 id_TOV"
+                  points="861.028015,-429.321106 860.917969,-429.309113 860.952393,-429.402008"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_203076 id_Missed"
+                  points="1035.735840,303.650513 1035.421143,303.408356 1035.740723,303.253510"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_2544 id_1630559"
+                  points="63.439850,286.095978 63.609688,285.446838 64.061050,285.842346"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_2544 id_1629060"
+                  points="362.641113,112.944588 362.468109,112.825508 362.632599,112.734749"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_2544 id_1626156"
+                  points="354.020599,-118.369728 353.460754,-118.255547 353.593323,-118.749092"
+                  stroke="none"/>
+        <polyline fill="#3fb17d" fill-opacity="1.0" class="id_2544 id_203076"
+                  points="64.717545,-186.123230 64.686348,-185.547287 64.238075,-185.802628"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_2544 id_FT-2544"
+                  points="588.837158,-30.351143 588.682739,-30.373249 588.762207,-30.487923"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_2544 id_3Pt"
+                  points="838.711243,-332.122772 838.598999,-332.097321 838.623535,-332.197235"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_2544 id_2Pt"
+                  points="843.925537,-235.147049 843.514099,-235.102646 843.643127,-235.449570"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_2544 id_TOV"
+                  points="860.516235,-427.340454 860.336243,-427.282166 860.361633,-427.449463"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0" class="id_2544 id_Missed"
+                  points="1034.401489,304.429626 1034.006104,304.212921 1034.337646,303.983246"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0" class="id_3Pt id_B2OT"
+                  points="1154.845947,-85.309937 1152.628784,-87.826691 1155.529175,-88.593750"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0" class="id_2Pt id_B2OT"
+                  points="1152.819702,-84.530258 1150.111694,-86.509178 1152.777954,-87.884102"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0" class="id_TOV id_B2OT"
+                  points="1156.800537,-85.624184 1155.122559,-88.528397 1158.117188,-88.709076"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0" class="id_Missed id_B2OT"
+                  points="1149.456543,-69.571350 1148.225830,-67.054352 1146.704590,-69.045639"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_Missed id_OffensiveRebound"
+                  points="864.696228,535.059204 865.109985,534.693176 865.237305,535.170593"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_OffensiveRebound id_1626156"
+                  points="363.765656,-105.775650 363.862122,-105.586876 363.672485,-105.585213"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_OffensiveRebound id_203076"
+                  points="71.489075,-184.979935 72.579697,-183.535980 70.988281,-183.241058"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_OffensiveRebound id_1630559"
+                  points="62.805843,301.649475 63.190792,301.844574 62.880733,302.074493"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_OffensiveRebound id_2544"
+                  points="89.561127,-2.000453 89.885002,-1.671193 89.492043,-1.543797"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_OffensiveRebound id_1629060"
+                  points="369.759674,131.434891 370.040680,131.772354 369.658295,131.862167"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_BothFTsMade id_B2OT"
+                  points="1150.386108,-82.767296 1147.212280,-83.852264 1149.349731,-85.957291"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_BothFTsMissed id_Missed"
+                  points="1039.912598,302.651672 1038.357910,299.679626 1041.357422,299.624695"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_1stFTMade id_Missed"
+                  points="1041.180054,302.708923 1040.014038,299.563995 1042.996460,299.889252"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0" class="id_2ndFTMade id_B2OT"
+                  points="1148.789307,-80.722466 1145.443359,-80.954483 1146.967285,-83.538528"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1626156 id_BothFTsMade"
+                  points="859.683899,-132.487350 857.395874,-132.724365 858.500732,-134.459930"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1626156 id_1stFTMade"
+                  points="863.573914,-0.761337 863.174866,-1.023364 863.544128,-1.237808"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1626156 id_2ndFTMade"
+                  points="867.434631,-59.475090 866.990845,-59.651005 867.309082,-59.935688"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1626156 id_BothFTsMissed"
+                  points="856.649048,59.297237 856.577820,59.228317 856.661438,59.198936"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-203076 id_BothFTsMade"
+                  points="862.828247,-135.602676 860.924194,-136.768860 862.618774,-137.825592"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-203076 id_1stFTMade"
+                  points="866.392883,-1.868162 866.073792,-2.258087 866.513367,-2.357368"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-203076 id_2ndFTMade"
+                  points="870.564819,-61.375488 870.194702,-61.717308 870.616211,-61.876686"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-203076 id_BothFTsMissed"
+                  points="858.982788,58.779934 858.922180,58.683727 859.023376,58.673748"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1630559 id_BothFTsMade"
+                  points="858.460510,-124.529236 856.634766,-122.910278 856.069946,-125.018433"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1630559 id_1stFTMade"
+                  points="858.596924,8.022992 858.223267,8.216273 858.218140,7.840011"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1630559 id_2ndFTMade"
+                  points="864.182312,-50.753887 863.832947,-50.519543 863.785217,-50.892803"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1630559 id_BothFTsMissed"
+                  points="850.045959,67.457527 849.977478,67.481438 849.985779,67.417091"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-2544 id_BothFTsMade"
+                  points="858.450500,-129.667938 856.603577,-129.282501 857.033997,-130.914185"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-2544 id_1stFTMade"
+                  points="861.208618,1.146191 860.603516,0.974840 860.982666,0.559300"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-2544 id_2ndFTMade"
+                  points="865.434753,-57.010368 864.806946,-57.047222 865.087585,-57.534733"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-2544 id_BothFTsMissed"
+                  points="854.253052,60.523102 854.069031,60.422733 854.222961,60.315647"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1629060 id_BothFTsMade"
+                  points="858.122498,-126.882805 856.504700,-126.025864 856.466248,-127.662918"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1629060 id_1stFTMade"
+                  points="859.228577,4.386023 858.584961,4.454545 858.787598,3.912248"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1629060 id_2ndFTMade"
+                  points="864.262146,-53.806416 863.640869,-53.624920 863.744141,-54.194538"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_FT-1629060 id_BothFTsMissed"
+                  points="851.529785,63.359848 851.302185,63.336220 851.412170,63.163589"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="363.67816"
+                class="id_1626156" cy="-115.77527" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="56.849396"
+                class="id_1630559" cy="293.617" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="367.47272"
+                class="id_1629060" cy="121.69991" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="69.666916"
+                class="id_203076" cy="-194.81252" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="86.47717"
+                class="id_2544" cy="-11.513037" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="848.42334"
+                class="id_3Pt" cy="-329.7406" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="853.2981"
+                class="id_2Pt" cy="-231.66055" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="870.4033"
+                class="id_TOV" cy="-425.84204" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="1040.0958"
+                class="id_Missed" cy="312.65" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="855.0338"
+                class="id_OffensiveRebound" cy="537.6355" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="868.11975"
+                class="id_BothFTsMade" cy="-127.1174" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="859.9645"
+                class="id_BothFTsMissed" cy="68.73163" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="868.596"
+                class="id_1stFTMade" cy="7.8861313" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="874.1016"
+                class="id_2ndFTMade" cy="-52.021812" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="1157.4028"
+                class="id_B2OT" cy="-75.642334" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="598.0959"
+                class="id_FT-1626156" cy="-113.64044" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="578.9189"
+                class="id_FT-203076" cy="-246.90631" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="590.73456"
+                class="id_FT-1630559" cy="214.42267" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="597.0573"
+                class="id_FT-2544" cy="-24.65651" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="589.5858"
+                class="id_FT-1629060" cy="83.291695" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+</svg>

@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-02">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="team" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1628983" label="Gilgeous-Alexander, Shai">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1641717" label="Wallace, Cason">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1631119" label="Williams, Jaylin">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1631114" label="Williams, Jalen">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1631096" label="Holmgren, Chet">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1630598" label="Wiggins, Aaron">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1630581" label="Giddey, Josh">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1630198" label="Joe, Isaiah">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1629652" label="Dort, Luguentz">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1629026" label="Williams, Kenrich">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="202330" label="Hayward, Gordon">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1631172" label="Dieng, Ousmane">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+      <node id="1630322" label="Waters III, Lindy">
+        <attvalues>
+          <attvalue for="0" value="OKC" />
+          <attvalue for="1" value="player" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1628983" target="1641717" id="0" weight="0.046" />
+      <edge source="1628983" target="1631119" id="1" weight="0.088" />
+      <edge source="1628983" target="1631114" id="2" weight="0.259" />
+      <edge source="1628983" target="1631096" id="3" weight="0.165" />
+      <edge source="1628983" target="1630598" id="4" weight="0.044" />
+      <edge source="1628983" target="1630581" id="5" weight="0.086" />
+      <edge source="1628983" target="1630198" id="6" weight="0.107" />
+      <edge source="1628983" target="1629652" id="7" weight="0.184" />
+      <edge source="1628983" target="1629026" id="8" weight="0.006" />
+      <edge source="1628983" target="202330" id="9" weight="0.015" />
+      <edge source="1641717" target="1631172" id="10" weight="0.008" />
+      <edge source="1641717" target="1631119" id="11" weight="0.085" />
+      <edge source="1641717" target="1631114" id="12" weight="0.246" />
+      <edge source="1641717" target="1631096" id="13" weight="0.068" />
+      <edge source="1641717" target="1630598" id="14" weight="0.068" />
+      <edge source="1641717" target="1630581" id="15" weight="0.085" />
+      <edge source="1641717" target="1630322" id="16" weight="0.008" />
+      <edge source="1641717" target="1630198" id="17" weight="0.042" />
+      <edge source="1641717" target="1629652" id="18" weight="0.059" />
+      <edge source="1641717" target="1629026" id="19" weight="0.017" />
+      <edge source="1641717" target="1628983" id="20" weight="0.305" />
+      <edge source="1641717" target="202330" id="21" weight="0.008" />
+      <edge source="1631119" target="1641717" id="22" weight="0.068" />
+      <edge source="1631119" target="1631172" id="23" weight="0.004" />
+      <edge source="1631119" target="1631114" id="24" weight="0.241" />
+      <edge source="1631119" target="1631096" id="25" weight="0.016" />
+      <edge source="1631119" target="1630598" id="26" weight="0.072" />
+      <edge source="1631119" target="1630581" id="27" weight="0.048" />
+      <edge source="1631119" target="1630322" id="28" weight="0.012" />
+      <edge source="1631119" target="1630198" id="29" weight="0.076" />
+      <edge source="1631119" target="1629652" id="30" weight="0.076" />
+      <edge source="1631119" target="1629026" id="31" weight="0.02" />
+      <edge source="1631119" target="1628983" id="32" weight="0.349" />
+      <edge source="1631119" target="202330" id="33" weight="0.016" />
+      <edge source="1631114" target="1641717" id="34" weight="0.057" />
+      <edge source="1631114" target="1631119" id="35" weight="0.078" />
+      <edge source="1631114" target="1631096" id="36" weight="0.213" />
+      <edge source="1631114" target="1630598" id="37" weight="0.046" />
+      <edge source="1631114" target="1630581" id="38" weight="0.131" />
+      <edge source="1631114" target="1630198" id="39" weight="0.069" />
+      <edge source="1631114" target="1629652" id="40" weight="0.101" />
+      <edge source="1631114" target="1629026" id="41" weight="0.002" />
+      <edge source="1631114" target="1628983" id="42" weight="0.298" />
+      <edge source="1631114" target="202330" id="43" weight="0.005" />
+      <edge source="1631096" target="1641717" id="44" weight="0.023" />
+      <edge source="1631096" target="1631119" id="45" weight="0.002" />
+      <edge source="1631096" target="1631114" id="46" weight="0.376" />
+      <edge source="1631096" target="1630598" id="47" weight="0.023" />
+      <edge source="1631096" target="1630581" id="48" weight="0.11" />
+      <edge source="1631096" target="1630198" id="49" weight="0.032" />
+      <edge source="1631096" target="1629652" id="50" weight="0.08" />
+      <edge source="1631096" target="1628983" id="51" weight="0.349" />
+      <edge source="1631096" target="202330" id="52" weight="0.005" />
+      <edge source="1630598" target="1641717" id="53" weight="0.041" />
+      <edge source="1630598" target="1631172" id="54" weight="0.016" />
+      <edge source="1630598" target="1631119" id="55" weight="0.123" />
+      <edge source="1630598" target="1631114" id="56" weight="0.295" />
+      <edge source="1630598" target="1631096" id="57" weight="0.098" />
+      <edge source="1630598" target="1630581" id="58" weight="0.115" />
+      <edge source="1630598" target="1630322" id="59" weight="0.008" />
+      <edge source="1630598" target="1630198" id="60" weight="0.025" />
+      <edge source="1630598" target="1629652" id="61" weight="0.057" />
+      <edge source="1630598" target="1628983" id="62" weight="0.221" />
+      <edge source="1630581" target="1641717" id="63" weight="0.045" />
+      <edge source="1630581" target="1631119" id="64" weight="0.045" />
+      <edge source="1630581" target="1631114" id="65" weight="0.333" />
+      <edge source="1630581" target="1631096" id="66" weight="0.23" />
+      <edge source="1630581" target="1630598" id="67" weight="0.033" />
+      <edge source="1630581" target="1630198" id="68" weight="0.004" />
+      <edge source="1630581" target="1629652" id="69" weight="0.07" />
+      <edge source="1630581" target="1629026" id="70" weight="0.004" />
+      <edge source="1630581" target="1628983" id="71" weight="0.235" />
+      <edge source="1630198" target="1641717" id="72" weight="0.021" />
+      <edge source="1630198" target="1631119" id="73" weight="0.124" />
+      <edge source="1630198" target="1631114" id="74" weight="0.248" />
+      <edge source="1630198" target="1631096" id="75" weight="0.124" />
+      <edge source="1630198" target="1630598" id="76" weight="0.028" />
+      <edge source="1630198" target="1629652" id="77" weight="0.09" />
+      <edge source="1630198" target="1629026" id="78" weight="0.014" />
+      <edge source="1630198" target="1628983" id="79" weight="0.324" />
+      <edge source="1630198" target="202330" id="80" weight="0.028" />
+      <edge source="1629652" target="1641717" id="81" weight="0.037" />
+      <edge source="1629652" target="1631119" id="82" weight="0.041" />
+      <edge source="1629652" target="1631114" id="83" weight="0.288" />
+      <edge source="1629652" target="1631096" id="84" weight="0.128" />
+      <edge source="1629652" target="1630598" id="85" weight="0.041" />
+      <edge source="1629652" target="1630581" id="86" weight="0.064" />
+      <edge source="1629652" target="1630198" id="87" weight="0.05" />
+      <edge source="1629652" target="1629026" id="88" weight="0.009" />
+      <edge source="1629652" target="1628983" id="89" weight="0.324" />
+      <edge source="1629652" target="202330" id="90" weight="0.018" />
+      <edge source="1629026" target="1641717" id="91" weight="0.031" />
+      <edge source="1629026" target="1631119" id="92" weight="0.125" />
+      <edge source="1629026" target="1631114" id="93" weight="0.219" />
+      <edge source="1629026" target="1631096" id="94" weight="0.063" />
+      <edge source="1629026" target="1630598" id="95" weight="0.063" />
+      <edge source="1629026" target="1630581" id="96" weight="0.063" />
+      <edge source="1629026" target="1630198" id="97" weight="0.063" />
+      <edge source="1629026" target="1629652" id="98" weight="0.063" />
+      <edge source="1629026" target="1628983" id="99" weight="0.25" />
+      <edge source="1629026" target="202330" id="100" weight="0.063" />
+      <edge source="202330" target="1641717" id="101" weight="0.017" />
+      <edge source="202330" target="1631119" id="102" weight="0.086" />
+      <edge source="202330" target="1631114" id="103" weight="0.155" />
+      <edge source="202330" target="1631096" id="104" weight="0.069" />
+      <edge source="202330" target="1630198" id="105" weight="0.19" />
+      <edge source="202330" target="1629652" id="106" weight="0.121" />
+      <edge source="202330" target="1629026" id="107" weight="0.034" />
+      <edge source="202330" target="1628983" id="108" weight="0.328" />
+      <edge source="1631172" target="1630598" id="109" weight="0.25" />
+      <edge source="1631172" target="1630322" id="110" weight="0.5" />
+      <edge source="1631172" target="1629026" id="111" weight="0.25" />
+      <edge source="1630322" target="1641717" id="112" weight="0.222" />
+      <edge source="1630322" target="1631172" id="113" weight="0.111" />
+      <edge source="1630322" target="1631119" id="114" weight="0.222" />
+      <edge source="1630322" target="1630598" id="115" weight="0.222" />
+      <edge source="1630322" target="1629026" id="116" weight="0.222" />
+    </edges>
+  </graph>
+</gexf>
